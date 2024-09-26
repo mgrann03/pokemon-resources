@@ -28628,7 +28628,10 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_fm": [
+            "Shadow Claw"
+        ]
     },
     {
         "id": 543,
@@ -40765,7 +40768,7 @@
             "baseDefense": 196
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -40789,7 +40792,7 @@
             "baseDefense": 225
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -40813,7 +40816,7 @@
             "baseDefense": 225
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -40837,7 +40840,7 @@
             "baseDefense": 225
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -42390,13 +42393,13 @@
             "Charm"
         ],
         "cm": [
-            "Psybeam",
+            "Psyshock",
             "Psychic",
             "Dazzling Gleam"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 857,
@@ -42415,13 +42418,13 @@
             "Charm"
         ],
         "cm": [
-            "Psybeam",
+            "Psyshock",
             "Psychic",
             "Dazzling Gleam"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 858,
@@ -42442,14 +42445,14 @@
             "Psycho Cut"
         ],
         "cm": [
-            "Psybeam",
+            "Psyshock",
             "Psychic",
             "Dazzling Gleam",
             "Power Whip"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 859,

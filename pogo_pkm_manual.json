@@ -161,6 +161,14 @@
         "shadow_released": true
     },
     {
+        "id": 542,
+        "name": "Leavanny",
+        "form": "Normal",
+        "elite_fm": [
+            "Shadow Claw"
+        ]
+    },
+    {
         "id": 555,
         "name": "Darmanitan",
         "form": "Galarian_standard",
@@ -394,6 +402,24 @@
     {
         "id": 818,
         "name": "Inteleon",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 856,
+        "name": "Hatenna",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 857,
+        "name": "Hattrem",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 858,
+        "name": "Hatterene",
         "form": "Normal",
         "released": true
     },
