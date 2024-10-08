@@ -781,8 +781,8 @@
         "cm": [
             "Struggle"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -804,8 +804,8 @@
         "cm": [
             "Struggle"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -833,8 +833,8 @@
         "elite_fm": [
             "Bug Bite"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -16387,7 +16387,7 @@
             "Swift"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -16465,7 +16465,7 @@
             "Gunk Shot"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28655,8 +28655,8 @@
             "Sludge Bomb",
             "Gyro Ball"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28681,8 +28681,8 @@
             "Sludge Bomb",
             "Gyro Ball"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28708,8 +28708,8 @@
             "Gyro Ball",
             "X Scissor"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -30346,8 +30346,8 @@
             "Drill Run",
             "Aerial Ace"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -30373,8 +30373,8 @@
             "Drill Run",
             "Aerial Ace"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -31292,8 +31292,8 @@
             "Body Slam",
             "Signal Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -31319,8 +31319,8 @@
             "Signal Beam",
             "Focus Blast"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -42561,7 +42561,7 @@
             "Obstruct"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -46618,8 +46618,8 @@
             "Ice Punch",
             "Shadow Ball"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {

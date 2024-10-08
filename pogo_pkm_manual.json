@@ -1,5 +1,23 @@
 [
     {
+        "id": 10,
+        "name": "Caterpie",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
         "id": 16,
         "name": "Pidgey",
         "form": "Normal",
@@ -54,6 +72,18 @@
         "name": "Typhlosion",
         "form": "Hisuian",
         "shadow_released": false
+    },
+    {
+        "id": 263,
+        "name": "Zigzagoon",
+        "form": "Galarian",
+        "shadow_released": true
+    },
+    {
+        "id": 264,
+        "name": "Linoone",
+        "form": "Galarian",
+        "shadow_released": true
     },
     {
         "id": 383,
@@ -174,6 +204,24 @@
         ]
     },
     {
+        "id": 543,
+        "name": "Venipede",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 544,
+        "name": "Whirlipede",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 545,
+        "name": "Scolipede",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
         "id": 555,
         "name": "Darmanitan",
         "form": "Galarian_standard",
@@ -248,6 +296,30 @@
     {
         "id": 579,
         "name": "Reuniclus",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 588,
+        "name": "Karrablast",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 589,
+        "name": "Escavalier",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 616,
+        "name": "Shelmet",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 617,
+        "name": "Accelgor",
         "form": "Normal",
         "shadow_released": true
     },
@@ -429,6 +501,12 @@
         "released": true
     },
     {
+        "id": 862,
+        "name": "Obstagoon",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
         "id": 866,
         "name": "Mr. Rime",
         "form": "Normal",
@@ -499,5 +577,12 @@
         "name": "Cetitan",
         "form": "Normal",
         "released": true
+    },
+    {
+        "id": 979,
+        "name": "Annihilape",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
     }
 ]
