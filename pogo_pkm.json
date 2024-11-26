@@ -4369,7 +4369,8 @@
             "Karate Chop"
         ],
         "elite_cm": [
-            "Cross Chop"
+            "Cross Chop",
+            "Rage Fist"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -14319,7 +14320,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 222,
@@ -42729,7 +42730,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 864,
@@ -42754,7 +42755,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 865,
@@ -46678,6 +46679,9 @@
             "Night Slash",
             "Ice Punch",
             "Shadow Ball"
+        ],
+        "elite_cm": [
+            "Rage Fist"
         ],
         "shadow": true,
         "shadow_released": true,
