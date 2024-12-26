@@ -74,6 +74,12 @@
         "shadow_released": false
     },
     {
+        "id": 222,
+        "name": "Corsola",
+        "form": "Galarian",
+        "released": true
+    },
+    {
         "id": 263,
         "name": "Zigzagoon",
         "form": "Galarian",
@@ -507,6 +513,12 @@
         "shadow_released": true
     },
     {
+        "id": 864,
+        "name": "Cursola",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 866,
         "name": "Mr. Rime",
         "form": "Normal",
@@ -529,6 +541,21 @@
         "name": "Dragapult",
         "form": "Normal",
         "released": true
+    },
+    {
+        "id": 908,
+        "name": "Meowscarada",
+        "form": "Normal",
+        "cm": [
+            "Grass Knot",
+            "Play Rough",
+            "Energy Ball",
+            "Night Slash",
+            "Flower Trick"
+        ],
+        "elite_cm": [
+            "Frenzy Plant"
+        ]
     },
     {
         "id": 924,
