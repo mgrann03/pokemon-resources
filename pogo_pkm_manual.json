@@ -92,6 +92,20 @@
         "shadow_released": true
     },
     {
+        "id": 276,
+        "name": "Taillow",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 277,
+        "name": "Swellow",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
         "id": 383,
         "name": "Groudon",
         "form": "Normal",
@@ -124,10 +138,19 @@
     {
         "id": 484,
         "name": "Palkia",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
         "form": "Origin",
         "elite_cm": [
             "Spacial Rend"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false
     },
     {
         "id": 485,
@@ -161,6 +184,76 @@
             "Zen Headbutt",
             "Magical Leaf"
         ]
+    },
+    {
+        "id": 495,
+        "name": "Snivy",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 496,
+        "name": "Servine",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 497,
+        "name": "Serperior",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 498,
+        "name": "Tepig",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 499,
+        "name": "Pignite",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 500,
+        "name": "Emboar",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 501,
+        "name": "Oshawott",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 502,
+        "name": "Dewott",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 503,
+        "name": "Samurott",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 503,
+        "name": "Samurott",
+        "form": "Hisuian",
+        "shadow": false,
+        "shadow_released": false
     },
 	{
         "id": 524,
@@ -270,6 +363,20 @@
         "shadow_released": true
     },
     {
+        "id": 568,
+        "name": "Trubbish",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 569,
+        "name": "Garbodor",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
         "id": 574,
         "name": "Gothita",
         "form": "Normal",
@@ -328,6 +435,22 @@
         "name": "Accelgor",
         "form": "Normal",
         "shadow_released": true
+    },
+    {
+        "id": 646,
+        "name": "Kyurem",
+        "form": "Black",
+        "elite_cm": [
+            "Freeze Shock"
+        ]
+    },
+    {
+        "id": 646,
+        "name": "Kyurem",
+        "form": "White",
+        "elite_cm": [
+            "Ice Burn"
+        ]
     },
     {
         "id": 672,
@@ -579,6 +702,18 @@
         "id": 925,
         "name": "Maushold",
         "form": "Family_of_three",
+        "released": true
+    },
+    {
+        "id": 944,
+        "name": "Shroodle",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 945,
+        "name": "Grafaiai",
+        "form": "Normal",
         "released": true
     },
     {
