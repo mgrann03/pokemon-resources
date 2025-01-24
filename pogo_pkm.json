@@ -41585,11 +41585,12 @@
         },
         "fm": [
             "Peck",
-            "Air Slash"
+            "Air Slash",
+            "Sand Attack"
         ],
         "cm": [
-            "Drill Peck",
-            "Brave Bird"
+            "Sky Attack",
+            "Payback"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41609,11 +41610,12 @@
         },
         "fm": [
             "Peck",
-            "Air Slash"
+            "Air Slash",
+            "Sand Attack"
         ],
         "cm": [
-            "Drill Peck",
-            "Brave Bird"
+            "Sky Attack",
+            "Payback"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41634,11 +41636,12 @@
         },
         "fm": [
             "Steel Wing",
-            "Air Slash"
+            "Air Slash",
+            "Sand Attack"
         ],
         "cm": [
-            "Drill Peck",
-            "Brave Bird"
+            "Sky Attack",
+            "Payback"
         ],
         "shadow": false,
         "shadow_released": false,
