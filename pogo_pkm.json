@@ -32651,7 +32651,8 @@
             "Iron Head",
             "Blizzard",
             "Stone Edge",
-            "Outrage"
+            "Outrage",
+            "Fusion Bolt"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -32712,7 +32713,8 @@
             "Dragon Pulse",
             "Blizzard",
             "Ancient Power",
-            "Focus Blast"
+            "Focus Blast",
+            "Fusion Flare"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -37393,7 +37395,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37423,7 +37425,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37453,7 +37455,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37483,7 +37485,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37513,7 +37515,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37543,7 +37545,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -41642,6 +41644,9 @@
         "cm": [
             "Sky Attack",
             "Payback"
+        ],
+        "elite_cm": [
+            "Iron Head"
         ],
         "shadow": false,
         "shadow_released": false,
