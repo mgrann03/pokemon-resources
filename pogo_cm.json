@@ -2009,7 +2009,7 @@
     {
         "name": "Freeze Shock",
         "type": "Ice",
-        "power": 180.0,
+        "power": 160.0,
         "duration": 1500,
         "damage_window_start": 900,
         "damage_window_end": 1400,
@@ -2018,7 +2018,7 @@
     {
         "name": "Ice Burn",
         "type": "Ice",
-        "power": 100.0,
+        "power": 80.0,
         "duration": 2000,
         "damage_window_start": 1800,
         "damage_window_end": 2200,

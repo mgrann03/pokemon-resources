@@ -448,6 +448,11 @@
         "id": 646,
         "name": "Kyurem",
         "form": "White",
+        "fm": [
+            "Dragon Breath",
+            "Steel Wing",
+            "Ice Fang"
+        ],
         "elite_cm": [
             "Ice Burn"
         ]
