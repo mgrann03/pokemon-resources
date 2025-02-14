@@ -30596,6 +30596,9 @@
             "Drill Run",
             "Aerial Ace"
         ],
+        "elite_cm": [
+            "Razor Shell"
+        ],
         "shadow": true,
         "shadow_released": true,
         "released": true
@@ -31541,6 +31544,9 @@
             "Acid Spray",
             "Signal Beam",
             "Focus Blast"
+        ],
+        "elite_cm": [
+            "Energy Ball"
         ],
         "shadow": true,
         "shadow_released": true,
