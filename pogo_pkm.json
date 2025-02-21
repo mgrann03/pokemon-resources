@@ -32663,7 +32663,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
+        "released": true,
         "elite_cm": [
             "Freeze Shock"
         ]
@@ -32726,7 +32726,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
+        "released": true,
         "elite_cm": [
             "Ice Burn"
         ]
