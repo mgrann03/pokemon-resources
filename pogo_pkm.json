@@ -32969,7 +32969,10 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Techno Blast Normal"
+        ]
     },
     {
         "id": 649,

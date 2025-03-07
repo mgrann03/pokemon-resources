@@ -460,6 +460,14 @@
         "released": true
     },
     {
+        "id": 649,
+        "name": "Genesect",
+        "form": "Normal",
+        "elite_cm": [
+            "Techno Blast Normal"
+        ]
+    },
+    {
         "id": 672,
         "name": "Skiddo",
         "form": "Normal",
