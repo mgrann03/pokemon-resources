@@ -696,6 +696,21 @@
         ]
     },
     {
+        "id": 911,
+        "name": "Skeledirge",
+        "form": "Normal",
+        "cm": [
+            "Flamethrower",
+            "Disarming Voice",
+            "Crunch",
+            "Shadow Ball",
+            "Torch Song"
+        ],
+        "elite_cm": [
+            "Blast Burn"
+        ]
+    },
+    {
         "id": 924,
         "name": "Tandemaus",
         "form": "Normal",

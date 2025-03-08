@@ -44815,11 +44815,15 @@
             "Flamethrower",
             "Disarming Voice",
             "Crunch",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Torch Song"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Blast Burn"
+        ]
     },
     {
         "id": 912,
