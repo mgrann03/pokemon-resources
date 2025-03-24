@@ -106,6 +106,14 @@
         "shadow_released": true
     },
     {
+        "id": 359,
+        "name": "Absol",
+        "form": "Normal",
+        "elite_cm": [
+            "Brutal Swing"
+        ]
+    },
+    {
         "id": 383,
         "name": "Groudon",
         "form": "Normal",

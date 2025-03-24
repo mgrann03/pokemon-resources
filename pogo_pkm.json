@@ -20972,6 +20972,9 @@
             "Megahorn",
             "Payback"
         ],
+        "elite_cm": [
+            "Brutal Swing"
+        ],
         "shadow": true,
         "shadow_released": true,
         "mega": [
@@ -21009,6 +21012,9 @@
             "Thunder",
             "Megahorn",
             "Payback"
+        ],
+        "elite_cm": [
+            "Brutal Swing"
         ],
         "shadow": true,
         "shadow_released": true,
