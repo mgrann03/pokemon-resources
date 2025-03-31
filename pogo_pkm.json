@@ -8914,6 +8914,115 @@
         "released": true
     },
     {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 198,
+            "baseDefense": 183
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Horn Attack",
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Paldea_aqua",
+        "types": [
+            "Fighting",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 210,
+            "baseDefense": 193
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+        ],
+        "cm": [
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze",
+            "Aqua Jet"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Paldea_blaze",
+        "types": [
+            "Fighting",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 210,
+            "baseDefense": 193
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+        ],
+        "cm": [
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze",
+            "Flame Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Paldea_combat",
+        "types": [
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 210,
+            "baseDefense": 193
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+        ],
+        "cm": [
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze",
+            "Close Combat"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
         "id": 129,
         "name": "Magikarp",
         "form": "Normal",
