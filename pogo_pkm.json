@@ -41945,8 +41945,9 @@
             "baseDefense": 82
         },
         "fm": [
-            "Quick Attack",
-            "Snarl"
+            "Sucker Punch",
+            "Snarl",
+            "Quick Attack"
         ],
         "cm": [
             "Night Slash",
@@ -41969,8 +41970,9 @@
             "baseDefense": 164
         },
         "fm": [
-            "Quick Attack",
-            "Snarl"
+            "Sucker Punch",
+            "Snarl",
+            "Quick Attack"
         ],
         "cm": [
             "Night Slash",
@@ -42123,7 +42125,8 @@
         "cm": [
             "Body Slam",
             "Surf",
-            "Rock Blast"
+            "Rock Blast",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42349,7 +42352,8 @@
         "cm": [
             "Dig",
             "Bulldoze",
-            "Earth Power"
+            "Earth Power",
+            "Wrap"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42374,7 +42378,8 @@
         "cm": [
             "Dig",
             "Bulldoze",
-            "Earth Power"
+            "Earth Power",
+            "Wrap"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45767,7 +45772,7 @@
             "Mud Shot"
         ],
         "cm": [
-            "Rock Slide",
+            "Rock Blast",
             "Rock Tomb",
             "Ancient Power"
         ],
@@ -46157,6 +46162,7 @@
         "cm": [
             "Earth Power",
             "Seed Bomb",
+            "Wrap",
             "Acid Spray"
         ],
         "shadow": false,
@@ -46336,7 +46342,8 @@
         "cm": [
             "Psybeam",
             "Psyshock",
-            "Psychic"
+            "Psychic",
+            "Dazzling Gleam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -46731,7 +46738,7 @@
         ],
         "cm": [
             "Dazzling Gleam",
-            "Rock Slide",
+            "Power Gem",
             "Sludge Wave"
         ],
         "shadow": false,
@@ -46757,7 +46764,7 @@
         ],
         "cm": [
             "Dazzling Gleam",
-            "Rock Slide",
+            "Power Gem",
             "Sludge Wave"
         ],
         "shadow": false,
