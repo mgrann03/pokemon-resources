@@ -30451,7 +30451,10 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Avalanche"
+        ]
     },
     {
         "id": 585,

@@ -421,6 +421,14 @@
         "shadow_released": true
     },
     {
+        "id": 584,
+        "name": "Vanilluxe",
+        "form": "Normal",
+        "elite_cm": [
+            "Avalanche"
+        ]
+    },
+    {
         "id": 588,
         "name": "Karrablast",
         "form": "Normal",
