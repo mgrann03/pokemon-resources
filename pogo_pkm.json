@@ -17626,8 +17626,8 @@
             "Night Slash",
             "Brick Break"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -17652,8 +17652,8 @@
             "Brick Break",
             "Rock Slide"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -17679,8 +17679,8 @@
         "elite_cm": [
             "Body Slam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -26728,8 +26728,8 @@
             "Iron Head",
             "Thunder"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -26755,8 +26755,8 @@
             "Iron Head",
             "Thunder"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -30449,12 +30449,12 @@
             "Flash Cannon",
             "Signal Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Avalanche"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 585,
@@ -36469,8 +36469,8 @@
             "Psybeam",
             "Night Slash"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36497,8 +36497,8 @@
             "Super Power",
             "Hyper Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36741,8 +36741,8 @@
             "Ancient Power",
             "Dragon Claw"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36770,8 +36770,8 @@
             "Earthquake",
             "Meteor Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36797,8 +36797,8 @@
             "Aurora Beam",
             "Thunderbolt"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36827,8 +36827,8 @@
             "Hyper Beam",
             "Meteor Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -45353,7 +45353,10 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Brick Break"
+        ]
     },
     {
         "id": 924,

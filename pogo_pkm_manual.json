@@ -106,6 +106,27 @@
         "shadow_released": true
     },
     {
+        "id": 287,
+        "name": "Slakoth",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 288,
+        "name": "Vigoroth",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 289,
+        "name": "Slaking",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
         "id": 359,
         "name": "Absol",
         "form": "Normal",
@@ -133,6 +154,13 @@
         "id": 478,
         "name": "Froslass",
         "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "form": "Normal",
+        "shadow": true,
         "shadow_released": true
     },
     {
@@ -505,6 +533,48 @@
         ]
     },
     {
+        "id": 686,
+        "name": "Inkay",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 687,
+        "name": "Malamar",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 696,
+        "name": "Tyrunt",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 697,
+        "name": "Tyrantrum",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 698,
+        "name": "Amaura",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 699,
+        "name": "Aurorus",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
         "id": 718,
         "name": "Zygarde",
         "form": "Normal",
@@ -724,6 +794,14 @@
         ],
         "elite_cm": [
             "Blast Burn"
+        ]
+    },
+    {
+        "id": 923,
+        "name": "Pawmot",
+        "form": "Normal",
+        "elite_cm": [
+            "Brick Break"
         ]
     },
     {
