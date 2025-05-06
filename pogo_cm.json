@@ -2036,20 +2036,20 @@
     {
         "name": "Behemoth Blade",
         "type": "Steel",
-        "power": 1.0,
+        "power": 200.0,
         "duration": 3500,
         "damage_window_start": 2500,
         "damage_window_end": 3500,
-        "energy_delta": -1
+        "energy_delta": -100
     },
     {
         "name": "Behemoth Bash",
         "type": "Steel",
-        "power": 1.0,
+        "power": 125.0,
         "duration": 1500,
         "damage_window_start": 900,
         "damage_window_end": 1400,
-        "energy_delta": -1
+        "energy_delta": -50
     },
     {
         "name": "Upper Hand",
