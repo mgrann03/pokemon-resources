@@ -47503,13 +47503,15 @@
         },
         "fm": [
             "Snarl",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Dark Pulse",
             "Iron Head",
             "X Scissor",
-            "Focus Blast"
+            "Focus Blast",
+            "Foul Play"
         ],
         "shadow": false,
         "shadow_released": false,
