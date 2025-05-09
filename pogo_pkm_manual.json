@@ -190,6 +190,16 @@
         ]
     },
     {
+        "id": 384,
+        "name": "Mega Rayquaza",
+        "form": "Mega",
+        "elite_cm": [
+            "Hurricane",
+            "Breaking Swipe",
+            "Dragon Ascent"
+        ]
+    },
+    {
         "id": 479,
         "name": "Rotom",
         "form": "Heat",

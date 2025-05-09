@@ -152,7 +152,11 @@ def AddPokemon(gm_obj):
                 elif "tempEvoId" in gm_obj_s_mega and "MEGA_Y" in gm_obj_s_mega["tempEvoId"]:
                     mega_obj["name"] = mega_obj["name"] + " Y"
                     mega_obj["form"] = mega_obj["form"] + "Y"
-                pogo_pkm.append(mega_obj)
+
+                mega_uniq_id = mega_obj["name"] + "-" + str(mega_obj["id"]) + "-" + mega_obj["form"]
+                if mega_uniq_id not in pogo_seen:
+                    pogo_pkm.append(mega_obj)
+                    pogo_seen.add(mega_uniq_id)
 
 def PokemonIsReleased(gm_obj_s):
     released = gm_obj_s["pokemonId"] not in pogo_unused["pokemon"]

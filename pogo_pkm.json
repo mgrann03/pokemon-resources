@@ -529,27 +529,6 @@
         "released": true
     },
     {
-        "id": 9,
-        "name": "Mega Blastoise",
-        "form": "Mega",
-        "fm": [
-            "Water Gun",
-            "Bite",
-            "Rollout"
-        ],
-        "cm": [
-            "Flash Cannon",
-            "Ice Beam",
-            "Hydro Pump",
-            "Skull Bash"
-        ],
-        "shadow": false,
-        "released": true,
-        "elite_cm": [
-            "Hydro Cannon"
-        ]
-    },
-    {
         "id": 10,
         "name": "Caterpie",
         "form": "Normal",
@@ -4566,35 +4545,6 @@
     },
     {
         "id": 80,
-        "name": "Mega Slowbro",
-        "form": "Mega",
-        "fm": [
-            "Water Gun",
-            "Confusion"
-        ],
-        "cm": [
-            "Water Pulse",
-            "Psychic",
-            "Ice Beam",
-            "Scald"
-        ],
-        "shadow": false,
-        "released": true,
-        "elite_cm": [
-            "Surf"
-        ],
-        "types": [
-            "Water",
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 216,
-            "baseAttack": 224,
-            "baseDefense": 259
-        }
-    },
-    {
-        "id": 80,
         "name": "Slowbro",
         "form": "Galarian",
         "types": [
@@ -5145,32 +5095,6 @@
     },
     {
         "id": 94,
-        "name": "Mega Gengar",
-        "form": "Mega",
-        "fm": [
-            "Sucker Punch",
-            "Hex",
-            "Shadow Claw"
-        ],
-        "cm": [
-            "Shadow Ball",
-            "Focus Blast",
-            "Sludge Bomb"
-        ],
-        "shadow": false,
-        "released": true,
-        "elite_fm": [
-            "Lick"
-        ],
-        "elite_cm": [
-            "Sludge Wave",
-            "Dark Pulse",
-            "Psychic",
-            "Shadow Punch"
-        ]
-    },
-    {
-        "id": 94,
         "name": "Gengar",
         "form": "Costume_2020",
         "types": [
@@ -5203,67 +5127,6 @@
         ],
         "shadow": true,
         "released": true
-    },
-    {
-        "id": 94,
-        "name": "Mega Gengar",
-        "form": "Mega",
-        "fm": [
-            "Sucker Punch",
-            "Hex",
-            "Shadow Claw"
-        ],
-        "cm": [
-            "Shadow Ball",
-            "Focus Blast",
-            "Sludge Bomb"
-        ],
-        "shadow": false,
-        "released": true,
-        "elite_fm": [
-            "Lick"
-        ],
-        "elite_cm": [
-            "Sludge Wave",
-            "Dark Pulse",
-            "Psychic",
-            "Shadow Punch"
-        ],
-        "types": [
-            "Ghost",
-            "Poison"
-        ],
-        "stats": {
-            "baseStamina": 155,
-            "baseAttack": 349,
-            "baseDefense": 199
-        }
-    },
-    {
-        "id": 94,
-        "name": "Mega Gengar",
-        "form": "Mega",
-        "fm": [
-            "Sucker Punch",
-            "Hex",
-            "Shadow Claw"
-        ],
-        "cm": [
-            "Shadow Ball",
-            "Focus Blast",
-            "Sludge Bomb"
-        ],
-        "shadow": false,
-        "released": true,
-        "elite_fm": [
-            "Lick"
-        ],
-        "elite_cm": [
-            "Sludge Wave",
-            "Dark Pulse",
-            "Psychic",
-            "Shadow Punch"
-        ]
     },
     {
         "id": 95,
@@ -7068,34 +6931,6 @@
         ],
         "shadow": true,
         "released": true
-    },
-    {
-        "id": 142,
-        "name": "Mega Aerodactyl",
-        "form": "Mega",
-        "fm": [
-            "Steel Wing",
-            "Bite",
-            "Rock Throw"
-        ],
-        "cm": [
-            "Ancient Power",
-            "Iron Head",
-            "Hyper Beam",
-            "Rock Slide",
-            "Earth Power"
-        ],
-        "shadow": false,
-        "released": true,
-        "types": [
-            "Rock",
-            "Flying"
-        ],
-        "stats": {
-            "baseStamina": 190,
-            "baseAttack": 292,
-            "baseDefense": 210
-        }
     },
     {
         "id": 143,
@@ -12847,32 +12682,6 @@
         "released": true
     },
     {
-        "id": 302,
-        "name": "Mega Sableye",
-        "form": "Mega",
-        "fm": [
-            "Shadow Claw",
-            "Feint Attack"
-        ],
-        "cm": [
-            "Power Gem",
-            "Foul Play",
-            "Shadow Sneak",
-            "Dazzling Gleam"
-        ],
-        "shadow": false,
-        "released": true,
-        "types": [
-            "Dark",
-            "Ghost"
-        ],
-        "stats": {
-            "baseStamina": 137,
-            "baseAttack": 151,
-            "baseDefense": 216
-        }
-    },
-    {
         "id": 303,
         "name": "Mawile",
         "form": "Normal",
@@ -13035,25 +12844,6 @@
             "baseAttack": 247,
             "baseDefense": 331
         }
-    },
-    {
-        "id": 306,
-        "name": "Mega Aggron",
-        "form": "Mega",
-        "fm": [
-            "Dragon Tail",
-            "Iron Tail",
-            "Smack Down"
-        ],
-        "cm": [
-            "Thunder",
-            "Stone Edge",
-            "Heavy Slam",
-            "Rock Tomb",
-            "Meteor Beam"
-        ],
-        "shadow": false,
-        "released": true
     },
     {
         "id": 307,
@@ -15758,36 +15548,6 @@
         "released": true
     },
     {
-        "id": 380,
-        "name": "Mega Latias",
-        "form": "Mega",
-        "fm": [
-            "Dragon Breath",
-            "Zen Headbutt",
-            "Charm"
-        ],
-        "cm": [
-            "Psychic",
-            "Outrage",
-            "Thunder"
-        ],
-        "shadow": false,
-        "released": true,
-        "class": "POKEMON_CLASS_LEGENDARY",
-        "elite_cm": [
-            "Mist Ball"
-        ],
-        "types": [
-            "Dragon",
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 190,
-            "baseAttack": 289,
-            "baseDefense": 297
-        }
-    },
-    {
         "id": 381,
         "name": "Latios",
         "form": "Normal",
@@ -15873,35 +15633,6 @@
         "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
-    },
-    {
-        "id": 381,
-        "name": "Mega Latios",
-        "form": "Mega",
-        "fm": [
-            "Dragon Breath",
-            "Zen Headbutt"
-        ],
-        "cm": [
-            "Psychic",
-            "Dragon Claw",
-            "Solar Beam"
-        ],
-        "shadow": false,
-        "released": true,
-        "class": "POKEMON_CLASS_LEGENDARY",
-        "elite_cm": [
-            "Luster Purge"
-        ],
-        "types": [
-            "Dragon",
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 190,
-            "baseAttack": 335,
-            "baseDefense": 241
-        }
     },
     {
         "id": 382,
@@ -16067,7 +15798,8 @@
         "class": "POKEMON_CLASS_LEGENDARY",
         "elite_cm": [
             "Hurricane",
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Dragon Ascent"
         ],
         "types": [
             "Dragon",
