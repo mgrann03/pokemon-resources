@@ -150,20 +150,35 @@
             "Frenzy Plant"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Grass",
-                    "Poison"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 241,
-                    "baseDefense": 246
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 3,
+        "name": "Mega Venusaur",
+        "form": "Mega",
+        "fm": [
+            "Razor Leaf",
+            "Vine Whip"
+        ],
+        "cm": [
+            "Sludge Bomb",
+            "Petal Blizzard",
+            "Solar Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Frenzy Plant"
+        ],
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 241,
+            "baseDefense": 246
+        }
     },
     {
         "id": 3,
@@ -219,20 +234,35 @@
             "Frenzy Plant"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Grass",
-                    "Poison"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 241,
-                    "baseDefense": 246
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 3,
+        "name": "Mega Venusaur",
+        "form": "Mega",
+        "fm": [
+            "Razor Leaf",
+            "Vine Whip"
+        ],
+        "cm": [
+            "Sludge Bomb",
+            "Petal Blizzard",
+            "Solar Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Frenzy Plant"
+        ],
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 241,
+            "baseDefense": 246
+        }
     },
     {
         "id": 4,
@@ -392,31 +422,75 @@
             "Flamethrower"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Fire",
-                    "Dragon"
-                ],
-                "stats": {
-                    "baseStamina": 186,
-                    "baseAttack": 273,
-                    "baseDefense": 213
-                }
-            },
-            {
-                "types": [
-                    "Fire",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 186,
-                    "baseAttack": 319,
-                    "baseDefense": 212
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 6,
+        "name": "Mega Charizard X",
+        "form": "Mega",
+        "fm": [
+            "Fire Spin",
+            "Air Slash"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Ember",
+            "Wing Attack",
+            "Dragon Breath"
+        ],
+        "elite_cm": [
+            "Blast Burn",
+            "Flamethrower"
+        ],
+        "types": [
+            "Fire",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 273,
+            "baseDefense": 213
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mega Charizard Y",
+        "form": "MegaY",
+        "fm": [
+            "Fire Spin",
+            "Air Slash"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Ember",
+            "Wing Attack",
+            "Dragon Breath"
+        ],
+        "elite_cm": [
+            "Blast Burn",
+            "Flamethrower"
+        ],
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 319,
+            "baseDefense": 212
+        }
     },
     {
         "id": 6,
@@ -484,31 +558,75 @@
             "Flamethrower"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Fire",
-                    "Dragon"
-                ],
-                "stats": {
-                    "baseStamina": 186,
-                    "baseAttack": 273,
-                    "baseDefense": 213
-                }
-            },
-            {
-                "types": [
-                    "Fire",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 186,
-                    "baseAttack": 319,
-                    "baseDefense": 212
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 6,
+        "name": "Mega Charizard X",
+        "form": "Mega",
+        "fm": [
+            "Fire Spin",
+            "Air Slash"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Ember",
+            "Wing Attack",
+            "Dragon Breath"
+        ],
+        "elite_cm": [
+            "Blast Burn",
+            "Flamethrower"
+        ],
+        "types": [
+            "Fire",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 273,
+            "baseDefense": 213
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mega Charizard Y",
+        "form": "MegaY",
+        "fm": [
+            "Fire Spin",
+            "Air Slash"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Ember",
+            "Wing Attack",
+            "Dragon Breath"
+        ],
+        "elite_cm": [
+            "Blast Burn",
+            "Flamethrower"
+        ],
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 319,
+            "baseDefense": 212
+        }
     },
     {
         "id": 7,
@@ -657,19 +775,36 @@
             "Hydro Cannon"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water"
-                ],
-                "stats": {
-                    "baseStamina": 188,
-                    "baseAttack": 264,
-                    "baseDefense": 237
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 9,
+        "name": "Mega Blastoise",
+        "form": "Mega",
+        "fm": [
+            "Water Gun",
+            "Bite",
+            "Rollout"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Ice Beam",
+            "Hydro Pump",
+            "Skull Bash"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Hydro Cannon"
+        ],
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 188,
+            "baseAttack": 264,
+            "baseDefense": 237
+        }
     },
     {
         "id": 9,
@@ -702,6 +837,27 @@
     },
     {
         "id": 9,
+        "name": "Mega Blastoise",
+        "form": "Mega",
+        "fm": [
+            "Water Gun",
+            "Bite",
+            "Rollout"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Ice Beam",
+            "Hydro Pump",
+            "Skull Bash"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Hydro Cannon"
+        ]
+    },
+    {
+        "id": 9,
         "name": "Blastoise",
         "form": "Normal",
         "types": [
@@ -727,19 +883,36 @@
             "Hydro Cannon"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water"
-                ],
-                "stats": {
-                    "baseStamina": 188,
-                    "baseAttack": 264,
-                    "baseDefense": 237
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 9,
+        "name": "Mega Blastoise",
+        "form": "Mega",
+        "fm": [
+            "Water Gun",
+            "Bite",
+            "Rollout"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Ice Beam",
+            "Hydro Pump",
+            "Skull Bash"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Hydro Cannon"
+        ],
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 188,
+            "baseAttack": 264,
+            "baseDefense": 237
+        }
     },
     {
         "id": 10,
@@ -935,20 +1108,39 @@
             "Drill Run"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Bug",
-                    "Poison"
-                ],
-                "stats": {
-                    "baseStamina": 163,
-                    "baseAttack": 303,
-                    "baseDefense": 148
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 15,
+        "name": "Mega Beedrill",
+        "form": "Mega",
+        "fm": [
+            "Infestation",
+            "Poison Jab"
+        ],
+        "cm": [
+            "Sludge Bomb",
+            "Aerial Ace",
+            "X Scissor",
+            "Fell Stinger"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Bug Bite"
+        ],
+        "elite_cm": [
+            "Drill Run"
+        ],
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 303,
+            "baseDefense": 148
+        }
     },
     {
         "id": 15,
@@ -980,20 +1172,39 @@
             "Drill Run"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Bug",
-                    "Poison"
-                ],
-                "stats": {
-                    "baseStamina": 163,
-                    "baseAttack": 303,
-                    "baseDefense": 148
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 15,
+        "name": "Mega Beedrill",
+        "form": "Mega",
+        "fm": [
+            "Infestation",
+            "Poison Jab"
+        ],
+        "cm": [
+            "Sludge Bomb",
+            "Aerial Ace",
+            "X Scissor",
+            "Fell Stinger"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Bug Bite"
+        ],
+        "elite_cm": [
+            "Drill Run"
+        ],
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 303,
+            "baseDefense": 148
+        }
     },
     {
         "id": 16,
@@ -1076,20 +1287,40 @@
             "Air Cutter"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Normal",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 195,
-                    "baseAttack": 280,
-                    "baseDefense": 175
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 18,
+        "name": "Mega Pidgeot",
+        "form": "Mega",
+        "fm": [
+            "Air Slash",
+            "Steel Wing"
+        ],
+        "cm": [
+            "Hurricane",
+            "Aerial Ace",
+            "Brave Bird",
+            "Feather Dance"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Wing Attack",
+            "Gust"
+        ],
+        "elite_cm": [
+            "Air Cutter"
+        ],
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 195,
+            "baseAttack": 280,
+            "baseDefense": 175
+        }
     },
     {
         "id": 19,
@@ -5039,19 +5270,39 @@
             "Psychic"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 146,
-                    "baseAttack": 367,
-                    "baseDefense": 207
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 65,
+        "name": "Mega Alakazam",
+        "form": "Mega",
+        "fm": [
+            "Psycho Cut",
+            "Confusion"
+        ],
+        "cm": [
+            "Futuresight",
+            "Focus Blast",
+            "Shadow Ball",
+            "Fire Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Counter"
+        ],
+        "elite_cm": [
+            "Dazzling Gleam",
+            "Psychic"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 367,
+            "baseDefense": 207
+        }
     },
     {
         "id": 65,
@@ -5083,19 +5334,39 @@
             "Psychic"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 146,
-                    "baseAttack": 367,
-                    "baseDefense": 207
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 65,
+        "name": "Mega Alakazam",
+        "form": "Mega",
+        "fm": [
+            "Psycho Cut",
+            "Confusion"
+        ],
+        "cm": [
+            "Futuresight",
+            "Focus Blast",
+            "Shadow Ball",
+            "Fire Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Counter"
+        ],
+        "elite_cm": [
+            "Dazzling Gleam",
+            "Psychic"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 367,
+            "baseDefense": 207
+        }
     },
     {
         "id": 66,
@@ -6032,20 +6303,36 @@
             "Surf"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 224,
-                    "baseDefense": 259
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 80,
+        "name": "Mega Slowbro",
+        "form": "Mega",
+        "fm": [
+            "Water Gun",
+            "Confusion"
+        ],
+        "cm": [
+            "Water Pulse",
+            "Psychic",
+            "Ice Beam",
+            "Scald"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Surf"
+        ],
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 224,
+            "baseDefense": 259
+        }
     },
     {
         "id": 80,
@@ -6074,20 +6361,36 @@
             "Surf"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 224,
-                    "baseDefense": 259
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 80,
+        "name": "Mega Slowbro",
+        "form": "Mega",
+        "fm": [
+            "Water Gun",
+            "Confusion"
+        ],
+        "cm": [
+            "Water Pulse",
+            "Psychic",
+            "Ice Beam",
+            "Scald"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Surf"
+        ],
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 224,
+            "baseDefense": 259
+        }
     },
     {
         "id": 80,
@@ -6146,20 +6449,36 @@
             "Surf"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 224,
-                    "baseDefense": 259
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 80,
+        "name": "Mega Slowbro",
+        "form": "Mega",
+        "fm": [
+            "Water Gun",
+            "Confusion"
+        ],
+        "cm": [
+            "Water Pulse",
+            "Psychic",
+            "Ice Beam",
+            "Scald"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Surf"
+        ],
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 224,
+            "baseDefense": 259
+        }
     },
     {
         "id": 81,
@@ -6837,20 +7156,68 @@
             "Shadow Punch"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Ghost",
-                    "Poison"
-                ],
-                "stats": {
-                    "baseStamina": 155,
-                    "baseAttack": 349,
-                    "baseDefense": 199
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 94,
+        "name": "Mega Gengar",
+        "form": "Mega",
+        "fm": [
+            "Sucker Punch",
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Lick"
+        ],
+        "elite_cm": [
+            "Sludge Wave",
+            "Dark Pulse",
+            "Psychic",
+            "Shadow Punch"
+        ],
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 349,
+            "baseDefense": 199
+        }
+    },
+    {
+        "id": 94,
+        "name": "Mega Gengar",
+        "form": "Mega",
+        "fm": [
+            "Sucker Punch",
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Lick"
+        ],
+        "elite_cm": [
+            "Sludge Wave",
+            "Dark Pulse",
+            "Psychic",
+            "Shadow Punch"
+        ]
     },
     {
         "id": 94,
@@ -6885,20 +7252,68 @@
             "Shadow Punch"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Ghost",
-                    "Poison"
-                ],
-                "stats": {
-                    "baseStamina": 155,
-                    "baseAttack": 349,
-                    "baseDefense": 199
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 94,
+        "name": "Mega Gengar",
+        "form": "Mega",
+        "fm": [
+            "Sucker Punch",
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Lick"
+        ],
+        "elite_cm": [
+            "Sludge Wave",
+            "Dark Pulse",
+            "Psychic",
+            "Shadow Punch"
+        ],
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 349,
+            "baseDefense": 199
+        }
+    },
+    {
+        "id": 94,
+        "name": "Mega Gengar",
+        "form": "Mega",
+        "fm": [
+            "Sucker Punch",
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Lick"
+        ],
+        "elite_cm": [
+            "Sludge Wave",
+            "Dark Pulse",
+            "Psychic",
+            "Shadow Punch"
+        ]
     },
     {
         "id": 94,
@@ -6933,20 +7348,68 @@
             "Shadow Punch"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Ghost",
-                    "Poison"
-                ],
-                "stats": {
-                    "baseStamina": 155,
-                    "baseAttack": 349,
-                    "baseDefense": 199
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 94,
+        "name": "Mega Gengar",
+        "form": "Mega",
+        "fm": [
+            "Sucker Punch",
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Lick"
+        ],
+        "elite_cm": [
+            "Sludge Wave",
+            "Dark Pulse",
+            "Psychic",
+            "Shadow Punch"
+        ],
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 349,
+            "baseDefense": 199
+        }
+    },
+    {
+        "id": 94,
+        "name": "Mega Gengar",
+        "form": "Mega",
+        "fm": [
+            "Sucker Punch",
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Lick"
+        ],
+        "elite_cm": [
+            "Sludge Wave",
+            "Dark Pulse",
+            "Psychic",
+            "Shadow Punch"
+        ]
     },
     {
         "id": 95,
@@ -8141,19 +8604,36 @@
             "Stomp"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Normal"
-                ],
-                "stats": {
-                    "baseStamina": 233,
-                    "baseAttack": 246,
-                    "baseDefense": 210
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 115,
+        "name": "Mega Kangaskhan",
+        "form": "Mega",
+        "fm": [
+            "Mud Slap",
+            "Low Kick"
+        ],
+        "cm": [
+            "Crunch",
+            "Earthquake",
+            "Outrage",
+            "Power Up Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Brick Break",
+            "Stomp"
+        ],
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 233,
+            "baseAttack": 246,
+            "baseDefense": 210
+        }
     },
     {
         "id": 115,
@@ -8182,19 +8662,36 @@
             "Stomp"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Normal"
-                ],
-                "stats": {
-                    "baseStamina": 233,
-                    "baseAttack": 246,
-                    "baseDefense": 210
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 115,
+        "name": "Mega Kangaskhan",
+        "form": "Mega",
+        "fm": [
+            "Mud Slap",
+            "Low Kick"
+        ],
+        "cm": [
+            "Crunch",
+            "Earthquake",
+            "Outrage",
+            "Power Up Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Brick Break",
+            "Stomp"
+        ],
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 233,
+            "baseAttack": 246,
+            "baseDefense": 210
+        }
     },
     {
         "id": 116,
@@ -8711,20 +9208,37 @@
             "Submission"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Bug",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 163,
-                    "baseAttack": 305,
-                    "baseDefense": 231
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 127,
+        "name": "Mega Pinsir",
+        "form": "Mega",
+        "fm": [
+            "Rock Smash",
+            "Bug Bite",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Vice Grip",
+            "X Scissor",
+            "Close Combat",
+            "Super Power"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Submission"
+        ],
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 305,
+            "baseDefense": 231
+        }
     },
     {
         "id": 127,
@@ -8753,20 +9267,37 @@
             "Submission"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Bug",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 163,
-                    "baseAttack": 305,
-                    "baseDefense": 231
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 127,
+        "name": "Mega Pinsir",
+        "form": "Mega",
+        "fm": [
+            "Rock Smash",
+            "Bug Bite",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Vice Grip",
+            "X Scissor",
+            "Close Combat",
+            "Super Power"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Submission"
+        ],
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 305,
+            "baseDefense": 231
+        }
     },
     {
         "id": 128,
@@ -8972,20 +9503,41 @@
             "Aqua Tail"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water",
-                    "Dark"
-                ],
-                "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 292,
-                    "baseDefense": 247
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 130,
+        "name": "Mega Gyarados",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Waterfall",
+            "Dragon Breath"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Crunch",
+            "Outrage",
+            "Twister"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Dragon Tail"
+        ],
+        "elite_cm": [
+            "Dragon Pulse",
+            "Aqua Tail"
+        ],
+        "types": [
+            "Water",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 292,
+            "baseDefense": 247
+        }
     },
     {
         "id": 130,
@@ -9019,20 +9571,41 @@
             "Aqua Tail"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water",
-                    "Dark"
-                ],
-                "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 292,
-                    "baseDefense": 247
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 130,
+        "name": "Mega Gyarados",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Waterfall",
+            "Dragon Breath"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Crunch",
+            "Outrage",
+            "Twister"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Dragon Tail"
+        ],
+        "elite_cm": [
+            "Dragon Pulse",
+            "Aqua Tail"
+        ],
+        "types": [
+            "Water",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 292,
+            "baseDefense": 247
+        }
     },
     {
         "id": 131,
@@ -9673,20 +10246,35 @@
             "Earth Power"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Rock",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 292,
-                    "baseDefense": 210
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 142,
+        "name": "Mega Aerodactyl",
+        "form": "Mega",
+        "fm": [
+            "Steel Wing",
+            "Bite",
+            "Rock Throw"
+        ],
+        "cm": [
+            "Ancient Power",
+            "Iron Head",
+            "Hyper Beam",
+            "Rock Slide",
+            "Earth Power"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Rock",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 292,
+            "baseDefense": 210
+        }
     },
     {
         "id": 142,
@@ -9714,20 +10302,35 @@
             "Earth Power"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Rock",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 292,
-                    "baseDefense": 210
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 142,
+        "name": "Mega Aerodactyl",
+        "form": "Mega",
+        "fm": [
+            "Steel Wing",
+            "Bite",
+            "Rock Throw"
+        ],
+        "cm": [
+            "Ancient Power",
+            "Iron Head",
+            "Hyper Beam",
+            "Rock Slide",
+            "Earth Power"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Rock",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 292,
+            "baseDefense": 210
+        }
     },
     {
         "id": 142,
@@ -9755,20 +10358,35 @@
             "Earth Power"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Rock",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 292,
-                    "baseDefense": 210
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 142,
+        "name": "Mega Aerodactyl",
+        "form": "Mega",
+        "fm": [
+            "Steel Wing",
+            "Bite",
+            "Rock Throw"
+        ],
+        "cm": [
+            "Ancient Power",
+            "Iron Head",
+            "Hyper Beam",
+            "Rock Slide",
+            "Earth Power"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Rock",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 292,
+            "baseDefense": 210
+        }
     },
     {
         "id": 143,
@@ -11563,20 +12181,39 @@
             "Dragon Pulse"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Electric",
-                    "Dragon"
-                ],
-                "stats": {
-                    "baseStamina": 207,
-                    "baseAttack": 294,
-                    "baseDefense": 203
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 181,
+        "name": "Mega Ampharos",
+        "form": "Mega",
+        "fm": [
+            "Charge Beam",
+            "Volt Switch"
+        ],
+        "cm": [
+            "Zap Cannon",
+            "Focus Blast",
+            "Thunder",
+            "Power Gem",
+            "Thunder Punch",
+            "Brutal Swing",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Dragon Pulse"
+        ],
+        "types": [
+            "Electric",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 294,
+            "baseDefense": 203
+        }
     },
     {
         "id": 181,
@@ -11607,20 +12244,39 @@
             "Dragon Pulse"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Electric",
-                    "Dragon"
-                ],
-                "stats": {
-                    "baseStamina": 207,
-                    "baseAttack": 294,
-                    "baseDefense": 203
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 181,
+        "name": "Mega Ampharos",
+        "form": "Mega",
+        "fm": [
+            "Charge Beam",
+            "Volt Switch"
+        ],
+        "cm": [
+            "Zap Cannon",
+            "Focus Blast",
+            "Thunder",
+            "Power Gem",
+            "Thunder Punch",
+            "Brutal Swing",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Dragon Pulse"
+        ],
+        "types": [
+            "Electric",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 294,
+            "baseDefense": 203
+        }
     },
     {
         "id": 182,
@@ -13501,20 +14157,35 @@
             "Breaking Swipe"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Steel",
-                    "Ground"
-                ],
-                "stats": {
-                    "baseStamina": 181,
-                    "baseAttack": 212,
-                    "baseDefense": 327
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 208,
+        "name": "Mega Steelix",
+        "form": "Mega",
+        "fm": [
+            "Iron Tail",
+            "Dragon Tail",
+            "Thunder Fang"
+        ],
+        "cm": [
+            "Earthquake",
+            "Heavy Slam",
+            "Crunch",
+            "Psychic Fangs",
+            "Breaking Swipe"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Steel",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 212,
+            "baseDefense": 327
+        }
     },
     {
         "id": 208,
@@ -13542,20 +14213,35 @@
             "Breaking Swipe"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Steel",
-                    "Ground"
-                ],
-                "stats": {
-                    "baseStamina": 181,
-                    "baseAttack": 212,
-                    "baseDefense": 327
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 208,
+        "name": "Mega Steelix",
+        "form": "Mega",
+        "fm": [
+            "Iron Tail",
+            "Dragon Tail",
+            "Thunder Fang"
+        ],
+        "cm": [
+            "Earthquake",
+            "Heavy Slam",
+            "Crunch",
+            "Psychic Fangs",
+            "Breaking Swipe"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Steel",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 212,
+            "baseDefense": 327
+        }
     },
     {
         "id": 209,
@@ -13762,20 +14448,33 @@
             "Trailblaze"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Bug",
-                    "Steel"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 279,
-                    "baseDefense": 250
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 212,
+        "name": "Mega Scizor",
+        "form": "Mega",
+        "fm": [
+            "Bullet Punch",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "X Scissor",
+            "Iron Head",
+            "Night Slash",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 279,
+            "baseDefense": 250
+        }
     },
     {
         "id": 212,
@@ -13801,20 +14500,33 @@
             "Trailblaze"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Bug",
-                    "Steel"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 279,
-                    "baseDefense": 250
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 212,
+        "name": "Mega Scizor",
+        "form": "Mega",
+        "fm": [
+            "Bullet Punch",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "X Scissor",
+            "Iron Head",
+            "Night Slash",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 279,
+            "baseDefense": 250
+        }
     },
     {
         "id": 213,
@@ -13891,20 +14603,34 @@
             "Upper Hand"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Bug",
-                    "Fighting"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 334,
-                    "baseDefense": 223
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 214,
+        "name": "Mega Heracross",
+        "form": "Mega",
+        "fm": [
+            "Counter",
+            "Struggle Bug"
+        ],
+        "cm": [
+            "Megahorn",
+            "Close Combat",
+            "Earthquake",
+            "Rock Blast",
+            "Upper Hand"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Bug",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 334,
+            "baseDefense": 223
+        }
     },
     {
         "id": 215,
@@ -14598,20 +15324,33 @@
             "Flamethrower"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dark",
-                    "Fire"
-                ],
-                "stats": {
-                    "baseStamina": 181,
-                    "baseAttack": 289,
-                    "baseDefense": 194
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 229,
+        "name": "Mega Houndoom",
+        "form": "Mega",
+        "fm": [
+            "Snarl",
+            "Fire Fang"
+        ],
+        "cm": [
+            "Crunch",
+            "Fire Blast",
+            "Foul Play",
+            "Flamethrower"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Dark",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 289,
+            "baseDefense": 194
+        }
     },
     {
         "id": 229,
@@ -14637,20 +15376,33 @@
             "Flamethrower"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dark",
-                    "Fire"
-                ],
-                "stats": {
-                    "baseStamina": 181,
-                    "baseAttack": 289,
-                    "baseDefense": 194
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 229,
+        "name": "Mega Houndoom",
+        "form": "Mega",
+        "fm": [
+            "Snarl",
+            "Fire Fang"
+        ],
+        "cm": [
+            "Crunch",
+            "Fire Blast",
+            "Foul Play",
+            "Flamethrower"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Dark",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 289,
+            "baseDefense": 194
+        }
     },
     {
         "id": 230,
@@ -15445,20 +16197,36 @@
             "Smack Down"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Rock",
-                    "Dark"
-                ],
-                "stats": {
-                    "baseStamina": 225,
-                    "baseAttack": 309,
-                    "baseDefense": 276
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 248,
+        "name": "Mega Tyranitar",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Iron Tail"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Crunch",
+            "Stone Edge",
+            "Brutal Swing"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Smack Down"
+        ],
+        "types": [
+            "Rock",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 309,
+            "baseDefense": 276
+        }
     },
     {
         "id": 248,
@@ -15487,20 +16255,36 @@
             "Smack Down"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Rock",
-                    "Dark"
-                ],
-                "stats": {
-                    "baseStamina": 225,
-                    "baseAttack": 309,
-                    "baseDefense": 276
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 248,
+        "name": "Mega Tyranitar",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Iron Tail"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Crunch",
+            "Stone Edge",
+            "Brutal Swing"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Smack Down"
+        ],
+        "types": [
+            "Rock",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 309,
+            "baseDefense": 276
+        }
     },
     {
         "id": 249,
@@ -15791,20 +16575,37 @@
             "Frenzy Plant"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Grass",
-                    "Dragon"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 320,
-                    "baseDefense": 186
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 254,
+        "name": "Mega Sceptile",
+        "form": "Mega",
+        "fm": [
+            "Fury Cutter",
+            "Bullet Seed"
+        ],
+        "cm": [
+            "Leaf Blade",
+            "Aerial Ace",
+            "Earthquake",
+            "Dragon Claw",
+            "Breaking Swipe"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Frenzy Plant"
+        ],
+        "types": [
+            "Grass",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 320,
+            "baseDefense": 186
+        }
     },
     {
         "id": 255,
@@ -15932,20 +16733,37 @@
             "Stone Edge"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Fire",
-                    "Fighting"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 329,
-                    "baseDefense": 168
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 257,
+        "name": "Mega Blaziken",
+        "form": "Mega",
+        "fm": [
+            "Counter",
+            "Fire Spin"
+        ],
+        "cm": [
+            "Focus Blast",
+            "Overheat",
+            "Brave Bird",
+            "Blaze Kick"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Blast Burn",
+            "Stone Edge"
+        ],
+        "types": [
+            "Fire",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 329,
+            "baseDefense": 168
+        }
     },
     {
         "id": 257,
@@ -15975,20 +16793,37 @@
             "Stone Edge"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Fire",
-                    "Fighting"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 329,
-                    "baseDefense": 168
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 257,
+        "name": "Mega Blaziken",
+        "form": "Mega",
+        "fm": [
+            "Counter",
+            "Fire Spin"
+        ],
+        "cm": [
+            "Focus Blast",
+            "Overheat",
+            "Brave Bird",
+            "Blaze Kick"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Blast Burn",
+            "Stone Edge"
+        ],
+        "types": [
+            "Fire",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 329,
+            "baseDefense": 168
+        }
     },
     {
         "id": 258,
@@ -16116,20 +16951,37 @@
             "Hydro Cannon"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water",
-                    "Ground"
-                ],
-                "stats": {
-                    "baseStamina": 225,
-                    "baseAttack": 283,
-                    "baseDefense": 218
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 260,
+        "name": "Mega Swampert",
+        "form": "Mega",
+        "fm": [
+            "Mud Shot",
+            "Water Gun"
+        ],
+        "cm": [
+            "Earthquake",
+            "Sludge Wave",
+            "Surf",
+            "Muddy Water",
+            "Sludge"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Hydro Cannon"
+        ],
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 283,
+            "baseDefense": 218
+        }
     },
     {
         "id": 260,
@@ -16159,20 +17011,37 @@
             "Hydro Cannon"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water",
-                    "Ground"
-                ],
-                "stats": {
-                    "baseStamina": 225,
-                    "baseAttack": 283,
-                    "baseDefense": 218
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 260,
+        "name": "Mega Swampert",
+        "form": "Mega",
+        "fm": [
+            "Mud Shot",
+            "Water Gun"
+        ],
+        "cm": [
+            "Earthquake",
+            "Sludge Wave",
+            "Surf",
+            "Muddy Water",
+            "Sludge"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Hydro Cannon"
+        ],
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 283,
+            "baseDefense": 218
+        }
     },
     {
         "id": 261,
@@ -17016,20 +17885,38 @@
             "Synchronoise"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Psychic",
-                    "Fairy"
-                ],
-                "stats": {
-                    "baseStamina": 169,
-                    "baseAttack": 326,
-                    "baseDefense": 229
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 282,
+        "name": "Mega Gardevoir",
+        "form": "Mega",
+        "fm": [
+            "Confusion",
+            "Charge Beam",
+            "Charm",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Psychic",
+            "Dazzling Gleam",
+            "Shadow Ball",
+            "Triple Axel"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Synchronoise"
+        ],
+        "types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 326,
+            "baseDefense": 229
+        }
     },
     {
         "id": 282,
@@ -17060,20 +17947,38 @@
             "Synchronoise"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Psychic",
-                    "Fairy"
-                ],
-                "stats": {
-                    "baseStamina": 169,
-                    "baseAttack": 326,
-                    "baseDefense": 229
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 282,
+        "name": "Mega Gardevoir",
+        "form": "Mega",
+        "fm": [
+            "Confusion",
+            "Charge Beam",
+            "Charm",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Psychic",
+            "Dazzling Gleam",
+            "Shadow Ball",
+            "Triple Axel"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Synchronoise"
+        ],
+        "types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 326,
+            "baseDefense": 229
+        }
     },
     {
         "id": 283,
@@ -17728,20 +18633,33 @@
             "Dazzling Gleam"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dark",
-                    "Ghost"
-                ],
-                "stats": {
-                    "baseStamina": 137,
-                    "baseAttack": 151,
-                    "baseDefense": 216
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 302,
+        "name": "Mega Sableye",
+        "form": "Mega",
+        "fm": [
+            "Shadow Claw",
+            "Feint Attack"
+        ],
+        "cm": [
+            "Power Gem",
+            "Foul Play",
+            "Shadow Sneak",
+            "Dazzling Gleam"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Dark",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 151,
+            "baseDefense": 216
+        }
     },
     {
         "id": 302,
@@ -17767,20 +18685,33 @@
             "Dazzling Gleam"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dark",
-                    "Ghost"
-                ],
-                "stats": {
-                    "baseStamina": 137,
-                    "baseAttack": 151,
-                    "baseDefense": 216
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 302,
+        "name": "Mega Sableye",
+        "form": "Mega",
+        "fm": [
+            "Shadow Claw",
+            "Feint Attack"
+        ],
+        "cm": [
+            "Power Gem",
+            "Foul Play",
+            "Shadow Sneak",
+            "Dazzling Gleam"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Dark",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 151,
+            "baseDefense": 216
+        }
     },
     {
         "id": 302,
@@ -17806,20 +18737,33 @@
             "Dazzling Gleam"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dark",
-                    "Ghost"
-                ],
-                "stats": {
-                    "baseStamina": 137,
-                    "baseAttack": 151,
-                    "baseDefense": 216
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 302,
+        "name": "Mega Sableye",
+        "form": "Mega",
+        "fm": [
+            "Shadow Claw",
+            "Feint Attack"
+        ],
+        "cm": [
+            "Power Gem",
+            "Foul Play",
+            "Shadow Sneak",
+            "Dazzling Gleam"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Dark",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 151,
+            "baseDefense": 216
+        }
     },
     {
         "id": 303,
@@ -17848,20 +18792,36 @@
             "Power Up Punch"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Steel",
-                    "Fairy"
-                ],
-                "stats": {
-                    "baseStamina": 137,
-                    "baseAttack": 188,
-                    "baseDefense": 217
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 303,
+        "name": "Mega Mawile",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Astonish",
+            "Ice Fang",
+            "Fire Fang",
+            "Fairy Wind"
+        ],
+        "cm": [
+            "Play Rough",
+            "Vice Grip",
+            "Iron Head",
+            "Power Up Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Steel",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 188,
+            "baseDefense": 217
+        }
     },
     {
         "id": 303,
@@ -17890,20 +18850,36 @@
             "Power Up Punch"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Steel",
-                    "Fairy"
-                ],
-                "stats": {
-                    "baseStamina": 137,
-                    "baseAttack": 188,
-                    "baseDefense": 217
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 303,
+        "name": "Mega Mawile",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Astonish",
+            "Ice Fang",
+            "Fire Fang",
+            "Fairy Wind"
+        ],
+        "cm": [
+            "Play Rough",
+            "Vice Grip",
+            "Iron Head",
+            "Power Up Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Steel",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 188,
+            "baseDefense": 217
+        }
     },
     {
         "id": 304,
@@ -18033,18 +19009,52 @@
             "Meteor Beam"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Steel"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 247,
-                    "baseDefense": 331
-                }
-            }
+        "released": true
+    },
+    {
+        "id": 306,
+        "name": "Mega Aggron",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Iron Tail",
+            "Smack Down"
         ],
+        "cm": [
+            "Thunder",
+            "Stone Edge",
+            "Heavy Slam",
+            "Rock Tomb",
+            "Meteor Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 247,
+            "baseDefense": 331
+        }
+    },
+    {
+        "id": 306,
+        "name": "Mega Aggron",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Iron Tail",
+            "Smack Down"
+        ],
+        "cm": [
+            "Thunder",
+            "Stone Edge",
+            "Heavy Slam",
+            "Rock Tomb",
+            "Meteor Beam"
+        ],
+        "shadow": false,
         "released": true
     },
     {
@@ -18073,18 +19083,52 @@
             "Meteor Beam"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Steel"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 247,
-                    "baseDefense": 331
-                }
-            }
+        "released": true
+    },
+    {
+        "id": 306,
+        "name": "Mega Aggron",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Iron Tail",
+            "Smack Down"
         ],
+        "cm": [
+            "Thunder",
+            "Stone Edge",
+            "Heavy Slam",
+            "Rock Tomb",
+            "Meteor Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 247,
+            "baseDefense": 331
+        }
+    },
+    {
+        "id": 306,
+        "name": "Mega Aggron",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Iron Tail",
+            "Smack Down"
+        ],
+        "cm": [
+            "Thunder",
+            "Stone Edge",
+            "Heavy Slam",
+            "Rock Tomb",
+            "Meteor Beam"
+        ],
+        "shadow": false,
         "released": true
     },
     {
@@ -18136,20 +19180,33 @@
             "Power Up Punch"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Fighting",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 155,
-                    "baseAttack": 205,
-                    "baseDefense": 179
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 308,
+        "name": "Mega Medicham",
+        "form": "Mega",
+        "fm": [
+            "Psycho Cut",
+            "Counter"
+        ],
+        "cm": [
+            "Ice Punch",
+            "Psychic",
+            "Dynamic Punch",
+            "Power Up Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Fighting",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 205,
+            "baseDefense": 179
+        }
     },
     {
         "id": 309,
@@ -18224,19 +19281,34 @@
             "Psychic Fangs"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Electric"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 286,
-                    "baseDefense": 179
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 310,
+        "name": "Mega Manectric",
+        "form": "Mega",
+        "fm": [
+            "Snarl",
+            "Charge Beam",
+            "Thunder Fang"
+        ],
+        "cm": [
+            "Thunder",
+            "Wild Charge",
+            "Flame Burst",
+            "Overheat",
+            "Psychic Fangs"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 286,
+            "baseDefense": 179
+        }
     },
     {
         "id": 310,
@@ -18263,19 +19335,34 @@
             "Psychic Fangs"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Electric"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 286,
-                    "baseDefense": 179
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 310,
+        "name": "Mega Manectric",
+        "form": "Mega",
+        "fm": [
+            "Snarl",
+            "Charge Beam",
+            "Thunder Fang"
+        ],
+        "cm": [
+            "Thunder",
+            "Wild Charge",
+            "Flame Burst",
+            "Overheat",
+            "Psychic Fangs"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 286,
+            "baseDefense": 179
+        }
     },
     {
         "id": 311,
@@ -19563,20 +20650,35 @@
             "Moonblast"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Fairy"
-                ],
-                "stats": {
-                    "baseStamina": 181,
-                    "baseAttack": 222,
-                    "baseDefense": 218
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 334,
+        "name": "Mega Altaria",
+        "form": "Mega",
+        "fm": [
+            "Peck",
+            "Dragon Breath"
+        ],
+        "cm": [
+            "Sky Attack",
+            "Dazzling Gleam",
+            "Dragon Pulse"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Moonblast"
+        ],
+        "types": [
+            "Dragon",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 222,
+            "baseDefense": 218
+        }
     },
     {
         "id": 335,
@@ -20313,19 +21415,31 @@
             "Thunder"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Ghost"
-                ],
-                "stats": {
-                    "baseStamina": 162,
-                    "baseAttack": 312,
-                    "baseDefense": 160
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 354,
+        "name": "Mega Banette",
+        "form": "Mega",
+        "fm": [
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Dazzling Gleam",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 162,
+            "baseAttack": 312,
+            "baseDefense": 160
+        }
     },
     {
         "id": 354,
@@ -20349,19 +21463,31 @@
             "Thunder"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Ghost"
-                ],
-                "stats": {
-                    "baseStamina": 162,
-                    "baseAttack": 312,
-                    "baseDefense": 160
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 354,
+        "name": "Mega Banette",
+        "form": "Mega",
+        "fm": [
+            "Hex",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Dazzling Gleam",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 162,
+            "baseAttack": 312,
+            "baseDefense": 160
+        }
     },
     {
         "id": 355,
@@ -20538,19 +21664,35 @@
             "Brutal Swing"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dark"
-                ],
-                "stats": {
-                    "baseStamina": 163,
-                    "baseAttack": 314,
-                    "baseDefense": 130
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 359,
+        "name": "Mega Absol",
+        "form": "Mega",
+        "fm": [
+            "Psycho Cut",
+            "Snarl"
+        ],
+        "cm": [
+            "Dark Pulse",
+            "Thunder",
+            "Megahorn",
+            "Payback"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Brutal Swing"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 314,
+            "baseDefense": 130
+        }
     },
     {
         "id": 359,
@@ -20578,19 +21720,35 @@
             "Brutal Swing"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dark"
-                ],
-                "stats": {
-                    "baseStamina": 163,
-                    "baseAttack": 314,
-                    "baseDefense": 130
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 359,
+        "name": "Mega Absol",
+        "form": "Mega",
+        "fm": [
+            "Psycho Cut",
+            "Snarl"
+        ],
+        "cm": [
+            "Dark Pulse",
+            "Thunder",
+            "Megahorn",
+            "Payback"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Brutal Swing"
+        ],
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 314,
+            "baseDefense": 130
+        }
     },
     {
         "id": 360,
@@ -20661,19 +21819,32 @@
             "Shadow Ball"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Ice"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 252,
-                    "baseDefense": 168
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 362,
+        "name": "Mega Glalie",
+        "form": "Mega",
+        "fm": [
+            "Ice Shard",
+            "Frost Breath",
+            "Rollout"
+        ],
+        "cm": [
+            "Avalanche",
+            "Gyro Ball",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 252,
+            "baseDefense": 168
+        }
     },
     {
         "id": 363,
@@ -21081,20 +22252,37 @@
             "Outrage"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 310,
-                    "baseDefense": 251
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 373,
+        "name": "Mega Salamence",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Fire Fang",
+            "Bite"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Hydro Pump",
+            "Draco Meteor",
+            "Fly"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Outrage"
+        ],
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 310,
+            "baseDefense": 251
+        }
     },
     {
         "id": 373,
@@ -21124,20 +22312,37 @@
             "Outrage"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 310,
-                    "baseDefense": 251
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 373,
+        "name": "Mega Salamence",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Fire Fang",
+            "Bite"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Hydro Pump",
+            "Draco Meteor",
+            "Fly"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Outrage"
+        ],
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 310,
+            "baseDefense": 251
+        }
     },
     {
         "id": 374,
@@ -21403,21 +22608,38 @@
             "Mist Ball"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 289,
-                    "baseDefense": 297
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 380,
+        "name": "Mega Latias",
+        "form": "Mega",
+        "fm": [
+            "Dragon Breath",
+            "Zen Headbutt",
+            "Charm"
+        ],
+        "cm": [
+            "Psychic",
+            "Outrage",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Mist Ball"
+        ],
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 289,
+            "baseDefense": 297
+        }
     },
     {
         "id": 380,
@@ -21446,21 +22668,38 @@
             "Mist Ball"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 289,
-                    "baseDefense": 297
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 380,
+        "name": "Mega Latias",
+        "form": "Mega",
+        "fm": [
+            "Dragon Breath",
+            "Zen Headbutt",
+            "Charm"
+        ],
+        "cm": [
+            "Psychic",
+            "Outrage",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Mist Ball"
+        ],
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 289,
+            "baseDefense": 297
+        }
     },
     {
         "id": 380,
@@ -21489,21 +22728,38 @@
             "Mist Ball"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 289,
-                    "baseDefense": 297
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 380,
+        "name": "Mega Latias",
+        "form": "Mega",
+        "fm": [
+            "Dragon Breath",
+            "Zen Headbutt",
+            "Charm"
+        ],
+        "cm": [
+            "Psychic",
+            "Outrage",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Mist Ball"
+        ],
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 289,
+            "baseDefense": 297
+        }
     },
     {
         "id": 381,
@@ -21531,21 +22787,37 @@
             "Luster Purge"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 335,
-                    "baseDefense": 241
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 381,
+        "name": "Mega Latios",
+        "form": "Mega",
+        "fm": [
+            "Dragon Breath",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Psychic",
+            "Dragon Claw",
+            "Solar Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Luster Purge"
+        ],
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 335,
+            "baseDefense": 241
+        }
     },
     {
         "id": 381,
@@ -21573,21 +22845,37 @@
             "Luster Purge"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 335,
-                    "baseDefense": 241
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 381,
+        "name": "Mega Latios",
+        "form": "Mega",
+        "fm": [
+            "Dragon Breath",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Psychic",
+            "Dragon Claw",
+            "Solar Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Luster Purge"
+        ],
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 335,
+            "baseDefense": 241
+        }
     },
     {
         "id": 381,
@@ -21615,21 +22903,37 @@
             "Luster Purge"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "stats": {
-                    "baseStamina": 190,
-                    "baseAttack": 335,
-                    "baseDefense": 241
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 381,
+        "name": "Mega Latios",
+        "form": "Mega",
+        "fm": [
+            "Dragon Breath",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Psychic",
+            "Dragon Claw",
+            "Solar Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Luster Purge"
+        ],
+        "types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 335,
+            "baseDefense": 241
+        }
     },
     {
         "id": 382,
@@ -21656,20 +22960,36 @@
             "Origin Pulse"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Water"
-                ],
-                "stats": {
-                    "baseStamina": 218,
-                    "baseAttack": 353,
-                    "baseDefense": 268
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 382,
+        "name": "Primal Kyogre",
+        "form": "Mega",
+        "fm": [
+            "Waterfall"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Blizzard",
+            "Thunder",
+            "Surf"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Origin Pulse"
+        ],
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 218,
+            "baseAttack": 353,
+            "baseDefense": 268
+        }
     },
     {
         "id": 383,
@@ -21697,21 +23017,38 @@
             "Precipice Blades"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Ground",
-                    "Fire"
-                ],
-                "stats": {
-                    "baseStamina": 218,
-                    "baseAttack": 353,
-                    "baseDefense": 268
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 383,
+        "name": "Primal Groudon",
+        "form": "Mega",
+        "fm": [
+            "Mud Shot",
+            "Dragon Tail"
+        ],
+        "cm": [
+            "Earthquake",
+            "Fire Blast",
+            "Solar Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Fire Punch",
+            "Precipice Blades"
+        ],
+        "types": [
+            "Ground",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 218,
+            "baseAttack": 353,
+            "baseDefense": 268
+        }
     },
     {
         "id": 384,
@@ -21741,21 +23078,38 @@
             "Dragon Ascent"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Flying"
-                ],
-                "stats": {
-                    "baseStamina": 227,
-                    "baseAttack": 377,
-                    "baseDefense": 210
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
+    },
+    {
+        "id": 384,
+        "name": "Mega Rayquaza",
+        "form": "Mega",
+        "fm": [
+            "Air Slash",
+            "Dragon Tail"
+        ],
+        "cm": [
+            "Outrage",
+            "Aerial Ace",
+            "Ancient Power"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Hurricane",
+            "Breaking Swipe"
+        ],
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 227,
+            "baseAttack": 377,
+            "baseDefense": 210
+        }
     },
     {
         "id": 385,
@@ -23580,20 +24934,34 @@
             "Triple Axel"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Normal",
-                    "Fighting"
-                ],
-                "stats": {
-                    "baseStamina": 163,
-                    "baseAttack": 282,
-                    "baseDefense": 214
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 428,
+        "name": "Mega Lopunny",
+        "form": "Mega",
+        "fm": [
+            "Pound",
+            "Low Kick",
+            "Double Kick"
+        ],
+        "cm": [
+            "Fire Punch",
+            "Hyper Beam",
+            "Focus Blast",
+            "Triple Axel"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Normal",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 282,
+            "baseDefense": 214
+        }
     },
     {
         "id": 429,
@@ -24179,20 +25547,36 @@
             "Earth Power"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Ground"
-                ],
-                "stats": {
-                    "baseStamina": 239,
-                    "baseAttack": 339,
-                    "baseDefense": 222
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 445,
+        "name": "Mega Garchomp",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Mud Shot"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Fire Blast",
+            "Sand Tomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Earth Power"
+        ],
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 239,
+            "baseAttack": 339,
+            "baseDefense": 222
+        }
     },
     {
         "id": 445,
@@ -24221,20 +25605,36 @@
             "Earth Power"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Dragon",
-                    "Ground"
-                ],
-                "stats": {
-                    "baseStamina": 239,
-                    "baseAttack": 339,
-                    "baseDefense": 222
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 445,
+        "name": "Mega Garchomp",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Mud Shot"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Fire Blast",
+            "Sand Tomb"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Earth Power"
+        ],
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 239,
+            "baseAttack": 339,
+            "baseDefense": 222
+        }
     },
     {
         "id": 446,
@@ -24316,20 +25716,39 @@
             "Force Palm"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Fighting",
-                    "Steel"
-                ],
-                "stats": {
-                    "baseStamina": 172,
-                    "baseAttack": 310,
-                    "baseDefense": 175
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 448,
+        "name": "Mega Lucario",
+        "form": "Mega",
+        "fm": [
+            "Counter",
+            "Bullet Punch"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Shadow Ball",
+            "Close Combat",
+            "Power Up Punch",
+            "Aura Sphere",
+            "Blaze Kick",
+            "Thunder Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_fm": [
+            "Force Palm"
+        ],
+        "types": [
+            "Fighting",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 310,
+            "baseDefense": 175
+        }
     },
     {
         "id": 449,
@@ -24775,20 +26194,35 @@
             "Icy Wind"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Grass",
-                    "Ice"
-                ],
-                "stats": {
-                    "baseStamina": 207,
-                    "baseAttack": 240,
-                    "baseDefense": 191
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 460,
+        "name": "Mega Abomasnow",
+        "form": "Mega",
+        "fm": [
+            "Powder Snow",
+            "Razor Leaf",
+            "Leafage"
+        ],
+        "cm": [
+            "Blizzard",
+            "Energy Ball",
+            "Outrage",
+            "Weather Ball Ice",
+            "Icy Wind"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Grass",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 240,
+            "baseDefense": 191
+        }
     },
     {
         "id": 460,
@@ -24816,20 +26250,35 @@
             "Icy Wind"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Grass",
-                    "Ice"
-                ],
-                "stats": {
-                    "baseStamina": 207,
-                    "baseAttack": 240,
-                    "baseDefense": 191
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 460,
+        "name": "Mega Abomasnow",
+        "form": "Mega",
+        "fm": [
+            "Powder Snow",
+            "Razor Leaf",
+            "Leafage"
+        ],
+        "cm": [
+            "Blizzard",
+            "Energy Ball",
+            "Outrage",
+            "Weather Ball Ice",
+            "Icy Wind"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Grass",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 240,
+            "baseDefense": 191
+        }
     },
     {
         "id": 461,
@@ -25512,20 +26961,37 @@
             "Synchronoise"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Psychic",
-                    "Fighting"
-                ],
-                "stats": {
-                    "baseStamina": 169,
-                    "baseAttack": 326,
-                    "baseDefense": 230
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 475,
+        "name": "Mega Gallade",
+        "form": "Mega",
+        "fm": [
+            "Confusion",
+            "Low Kick",
+            "Charm",
+            "Psycho Cut"
+        ],
+        "cm": [
+            "Close Combat",
+            "Psychic",
+            "Leaf Blade"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Synchronoise"
+        ],
+        "types": [
+            "Psychic",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 326,
+            "baseDefense": 230
+        }
     },
     {
         "id": 475,
@@ -25555,20 +27021,37 @@
             "Synchronoise"
         ],
         "shadow": true,
-        "mega": [
-            {
-                "types": [
-                    "Psychic",
-                    "Fighting"
-                ],
-                "stats": {
-                    "baseStamina": 169,
-                    "baseAttack": 326,
-                    "baseDefense": 230
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 475,
+        "name": "Mega Gallade",
+        "form": "Mega",
+        "fm": [
+            "Confusion",
+            "Low Kick",
+            "Charm",
+            "Psycho Cut"
+        ],
+        "cm": [
+            "Close Combat",
+            "Psychic",
+            "Leaf Blade"
+        ],
+        "shadow": false,
+        "released": true,
+        "elite_cm": [
+            "Synchronoise"
+        ],
+        "types": [
+            "Psychic",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 326,
+            "baseDefense": 230
+        }
     },
     {
         "id": 476,
@@ -27933,20 +29416,33 @@
             "Body Slam"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Normal",
-                    "Fairy"
-                ],
-                "stats": {
-                    "baseStamina": 230,
-                    "baseAttack": 147,
-                    "baseDefense": 239
-                }
-            }
-        ],
         "released": true
+    },
+    {
+        "id": 531,
+        "name": "Mega Audino",
+        "form": "Mega",
+        "fm": [
+            "Pound",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Disarming Voice",
+            "Dazzling Gleam",
+            "Hyper Beam",
+            "Body Slam"
+        ],
+        "shadow": false,
+        "released": true,
+        "types": [
+            "Normal",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 230,
+            "baseAttack": 147,
+            "baseDefense": 239
+        }
     },
     {
         "id": 532,
@@ -36633,21 +38129,34 @@
             "Power Gem"
         ],
         "shadow": false,
-        "mega": [
-            {
-                "types": [
-                    "Rock",
-                    "Fairy"
-                ],
-                "stats": {
-                    "baseStamina": 137,
-                    "baseAttack": 342,
-                    "baseDefense": 235
-                }
-            }
-        ],
         "class": "POKEMON_CLASS_MYTHIC",
         "released": true
+    },
+    {
+        "id": 719,
+        "name": "Mega Diancie",
+        "form": "Mega",
+        "fm": [
+            "Tackle",
+            "Rock Throw"
+        ],
+        "cm": [
+            "Rock Slide",
+            "Moonblast",
+            "Power Gem"
+        ],
+        "shadow": false,
+        "released": true,
+        "class": "POKEMON_CLASS_MYTHIC",
+        "types": [
+            "Rock",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 342,
+            "baseDefense": 235
+        }
     },
     {
         "id": 720,
