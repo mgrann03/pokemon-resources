@@ -23,6 +23,8 @@ pogo_pkm = [] # pogo pokemon object, will become json file
 pogo_fm = [] # pogo fast moves object, will become json file
 pogo_cm = [] # pogo charged moves object, will become json file
 
+pogo_seen = set() # set of all seen pokemon, to prevent duplication
+
 def main():
 
     # gets user input
@@ -107,46 +109,50 @@ def AddPokemon(gm_obj):
         pkm_obj["class"] = gm_obj_s["pokemonClass"]
     pkm_obj["released"] = PokemonIsReleased(gm_obj_s)
 
+    pkm_uniq_id = pkm_obj["name"] + "-" + str(pkm_obj["id"]) + "-" + pkm_obj["form"]
+    if pkm_uniq_id not in pogo_seen:
         pogo_pkm.append(pkm_obj)
-    if "tempEvoOverrides" in gm_obj_s:
-        for gm_obj_s_mega in gm_obj_s["tempEvoOverrides"]:
-            mega_obj = {
-                "id": pkm_obj["id"],
-                "name": pkm_obj["name"],
-                "form": "Mega",
-                "fm": pkm_obj["fm"],
-                "cm": pkm_obj["cm"],
-                "shadow": False,
-                "released": pkm_obj["released"]
-            }
+        pogo_seen.add(pkm_uniq_id)
 
-            if "class" in pkm_obj:
-                mega_obj["class"] = pkm_obj["class"]
-            if "elite_fm" in pkm_obj:
-                mega_obj["elite_fm"] = pkm_obj["elite_fm"]
-            if "elite_cm" in pkm_obj:
-                mega_obj["elite_cm"] = pkm_obj["elite_cm"]
+        if "tempEvoOverrides" in gm_obj_s:
+            for gm_obj_s_mega in gm_obj_s["tempEvoOverrides"]:
+                mega_obj = {
+                    "id": pkm_obj["id"],
+                    "name": pkm_obj["name"],
+                    "form": "Mega",
+                    "fm": pkm_obj["fm"],
+                    "cm": pkm_obj["cm"],
+                    "shadow": False,
+                    "released": pkm_obj["released"]
+                }
 
-            if pkm_obj["id"] == 382 or pkm_obj["id"] == 383:
-                mega_obj["name"] = "Primal " + mega_obj["name"]
-            else:
-                mega_obj["name"] = "Mega " + mega_obj["name"]
+                if "class" in pkm_obj:
+                    mega_obj["class"] = pkm_obj["class"]
+                if "elite_fm" in pkm_obj:
+                    mega_obj["elite_fm"] = pkm_obj["elite_fm"]
+                if "elite_cm" in pkm_obj:
+                    mega_obj["elite_cm"] = pkm_obj["elite_cm"]
 
-            mega_types = []
-            if "typeOverride1" in gm_obj_s_mega:
-                mega_types.append(CleanType(gm_obj_s_mega["typeOverride1"]))
-            if "typeOverride2" in gm_obj_s_mega:
-                mega_types.append(CleanType(gm_obj_s_mega["typeOverride2"]))
-            if mega_types:
-                mega_obj["types"] = mega_types
-            if "stats" in gm_obj_s_mega:
-                mega_obj["stats"] = gm_obj_s_mega["stats"]
-            if "tempEvoId" in gm_obj_s_mega and "MEGA_X" in gm_obj_s_mega["tempEvoId"]:
-                mega_obj["name"] = mega_obj["name"] + " X"
-            elif "tempEvoId" in gm_obj_s_mega and "MEGA_Y" in gm_obj_s_mega["tempEvoId"]:
-                mega_obj["name"] = mega_obj["name"] + " Y"
-                mega_obj["form"] = mega_obj["form"] + "Y"
-            pogo_pkm.append(mega_obj)
+                if pkm_obj["id"] == 382 or pkm_obj["id"] == 383:
+                    mega_obj["name"] = "Primal " + mega_obj["name"]
+                else:
+                    mega_obj["name"] = "Mega " + mega_obj["name"]
+
+                mega_types = []
+                if "typeOverride1" in gm_obj_s_mega:
+                    mega_types.append(CleanType(gm_obj_s_mega["typeOverride1"]))
+                if "typeOverride2" in gm_obj_s_mega:
+                    mega_types.append(CleanType(gm_obj_s_mega["typeOverride2"]))
+                if mega_types:
+                    mega_obj["types"] = mega_types
+                if "stats" in gm_obj_s_mega:
+                    mega_obj["stats"] = gm_obj_s_mega["stats"]
+                if "tempEvoId" in gm_obj_s_mega and "MEGA_X" in gm_obj_s_mega["tempEvoId"]:
+                    mega_obj["name"] = mega_obj["name"] + " X"
+                elif "tempEvoId" in gm_obj_s_mega and "MEGA_Y" in gm_obj_s_mega["tempEvoId"]:
+                    mega_obj["name"] = mega_obj["name"] + " Y"
+                    mega_obj["form"] = mega_obj["form"] + "Y"
+                pogo_pkm.append(mega_obj)
 
 def PokemonIsReleased(gm_obj_s):
     released = gm_obj_s["pokemonId"] not in pogo_unused["pokemon"]
