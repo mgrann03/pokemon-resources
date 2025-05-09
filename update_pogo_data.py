@@ -99,10 +99,10 @@ def AddPokemon(gm_obj):
     if "eliteCinematicMove" in gm_obj_s:
         pkm_obj["elite_cm"] = CleanMoves(gm_obj_s["eliteCinematicMove"], False)
     pkm_obj["shadow"] = "shadow" in gm_obj_s
-    if pkm_obj["shadow"]:
-        pkm_obj["shadow_released"] = (gm_obj["templateId"][14:] + "_SHADOW") not in pogo_unused["shadows"]
-    else:
-        pkm_obj["shadow_released"] = False
+    #if pkm_obj["shadow"]:
+    #    pkm_obj["shadow_released"] = (gm_obj["templateId"][14:] + "_SHADOW") not in pogo_unused["shadows"]
+    #else:
+    #    pkm_obj["shadow_released"] = False
     mega_objs = []
     if "tempEvoOverrides" in gm_obj_s:
         for gm_obj_s_mega in gm_obj_s["tempEvoOverrides"]:
@@ -146,7 +146,10 @@ def AddMove(gm_obj, is_fast):
     else:
         move_obj["power"] = 0
     move_obj["duration"] = gm_obj_s["durationMs"]
-    move_obj["damage_window_start"] = gm_obj_s["damageWindowStartMs"]
+    if "damageWindowStartMs" in gm_obj_s:
+        move_obj["damage_window_start"] = gm_obj_s["damageWindowStartMs"]
+    else:
+        move_obj["damage_window_start"] = 0
     move_obj["damage_window_end"] = gm_obj_s["damageWindowEndMs"]
     if "energyDelta" in gm_obj_s:
         move_obj["energy_delta"] = gm_obj_s["energyDelta"]
@@ -209,7 +212,7 @@ def ManualPatch():
     for pkm_obj in pogo_pkm:
         for manual_obj in pogo_pkm_manual:
             if pkm_obj["id"] == manual_obj["id"] and pkm_obj["name"] == manual_obj["name"] and pkm_obj["form"] == manual_obj["form"]:
-                for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "shadow_released", "released"]:
+                for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "released"]:
                     if key in manual_obj:
                         if key in pkm_obj and pkm_obj[key] == manual_obj[key]:
                             name = pkm_obj["name"] + ("(" + pkm_obj["form"] + ")" if (pkm_obj["form"] != "Normal") else "")
