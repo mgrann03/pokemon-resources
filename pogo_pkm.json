@@ -19053,7 +19053,7 @@
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "elite_cm": [
-            "Roar of Time"
+            "Roar Of Time"
         ]
     },
     {
@@ -36104,6 +36104,9 @@
             "Discharge",
             "Wild Charge"
         ],
+        "elite_cm": [
+            "Brick Break"
+        ],
         "shadow": false,
         "released": true
     },
@@ -36157,6 +36160,9 @@
             "Wild Charge",
             "Close Combat",
             "Thunder Punch"
+        ],
+        "elite_cm": [
+            "Brick Break"
         ],
         "shadow": false,
         "released": true
