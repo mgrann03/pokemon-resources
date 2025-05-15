@@ -12,6 +12,7 @@ URL_GAME_MASTER = "https://raw.githubusercontent.com/alexelgt/game_masters/refs/
 URL_UNUSED = "https://pokeminers.com/unusedfindings/"
 
 JSON_PKM_PATH = "pogo_pkm.json"
+JSON_PKM_PATH_MIN = "pogo_pkm.min.json"
 JSON_FM_PATH = "pogo_fm.json"
 JSON_CM_PATH = "pogo_cm.json"
 
@@ -60,6 +61,7 @@ def main():
     # dumps objects into JSON files
     print("dumping objects into JSON files...")
     json.dump(pogo_pkm, open(JSON_PKM_PATH, "w"), indent=4)
+    json.dump(pogo_pkm, open(JSON_PKM_PATH_MIN, "w"), separators=(',', ':'))
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
 
