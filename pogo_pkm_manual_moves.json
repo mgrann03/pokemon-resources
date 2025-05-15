@@ -1,0 +1,78 @@
+[
+    {
+        "id": 384,
+        "name": "Rayquaza",
+        "form": "Normal",
+        "elite_cm": [
+            "Hurricane",
+            "Breaking Swipe",
+            "Dragon Ascent"
+        ]
+    },
+    {
+        "id": 384,
+        "name": "Mega Rayquaza",
+        "form": "Mega",
+        "elite_cm": [
+            "Hurricane",
+            "Breaking Swipe",
+            "Dragon Ascent"
+        ]
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "form": "Origin",
+        "elite_cm": [
+            "Roar Of Time"
+        ]
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "form": "Origin",
+        "elite_cm": [
+            "Spacial Rend"
+        ]
+    },
+    {
+        "id": 646,
+        "name": "Kyurem",
+        "form": "Black",
+        "elite_cm": [
+            "Freeze Shock"
+        ]
+    },
+    {
+        "id": 646,
+        "name": "Kyurem",
+        "form": "White",
+        "elite_cm": [
+            "Ice Burn"
+        ]
+    },
+    {
+        "id": 649,
+        "name": "Genesect",
+        "form": "Normal",
+        "elite_cm": [
+            "Techno Blast Normal"
+        ]
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Dawn_wings",
+        "elite_cm": [
+            "Moongeist Beam"
+        ]
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Dusk_mane",
+        "elite_cm": [
+            "Sunsteel Strike"
+        ]
+    }
+]

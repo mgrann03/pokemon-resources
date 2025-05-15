@@ -1,95 +1,5 @@
 [
     {
-        "id": 52,
-        "name": "Meowth",
-        "form": "Alola",
-        "shadow": false
-    },
-    {
-        "id": 52,
-        "name": "Meowth",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 53,
-        "name": "Persian",
-        "form": "Alola",
-        "shadow": false
-    },
-    {
-        "id": 77,
-        "name": "Ponyta",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 77,
-        "name": "Ponyta",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 78,
-        "name": "Rapidash",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 78,
-        "name": "Rapidash",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 79,
-        "name": "Slowpoke",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 80,
-        "name": "Slowbro",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 83,
-        "name": "Farfetch\u2019d",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 83,
-        "name": "Farfetch\u2019d",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 98,
-        "name": "Krabby",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 99,
-        "name": "Kingler",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 122,
-        "name": "Mr. Mime",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 122,
-        "name": "Mr. Mime",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
         "id": 128,
         "name": "Tauros",
         "form": "Paldea_aqua",
@@ -108,96 +18,10 @@
         "released": true
     },
     {
-        "id": 140,
-        "name": "Kabuto",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 141,
-        "name": "Kabutops",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 144,
-        "name": "Articuno",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 145,
-        "name": "Zapdos",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 146,
-        "name": "Moltres",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 157,
-        "name": "Typhlosion",
-        "form": "Hisuian",
-        "shadow": false
-    },
-    {
-        "id": 199,
-        "name": "Slowking",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
         "id": 222,
         "name": "Corsola",
         "form": "Galarian",
         "released": true
-    },
-    {
-        "id": 263,
-        "name": "Zigzagoon",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 264,
-        "name": "Linoone",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 349,
-        "name": "Feebas",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 350,
-        "name": "Milotic",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 384,
-        "name": "Rayquaza",
-        "form": "Normal",
-        "elite_cm": [
-            "Hurricane",
-            "Breaking Swipe",
-            "Dragon Ascent"
-        ]
-    },
-    {
-        "id": 384,
-        "name": "Mega Rayquaza",
-        "form": "Mega",
-        "elite_cm": [
-            "Hurricane",
-            "Breaking Swipe",
-            "Dragon Ascent"
-        ]
     },
     {
         "id": 479,
@@ -206,108 +30,16 @@
         "released": true
     },
     {
-        "id": 483,
-        "name": "Dialga",
-        "form": "Origin",
-        "shadow": false,
-        "elite_cm": [
-            "Roar Of Time"
-        ]
-    },
-    {
-        "id": 484,
-        "name": "Palkia",
-        "form": "Origin",
-        "shadow": false,
-        "elite_cm": [
-            "Spacial Rend"
-        ]
-    },
-    {
-        "id": 503,
-        "name": "Samurott",
-        "form": "Hisuian",
-        "shadow": false
-    },
-    {
-        "id": 554,
-        "name": "Darumaka",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 555,
-        "name": "Darmanitan",
-        "form": "Galarian_standard",
-        "shadow": false
-    },
-    {
-        "id": 555,
-        "name": "Darmanitan",
-        "form": "Galarian_zen",
-        "shadow": false
-    },
-    {
-        "id": 555,
-        "name": "Darmanitan",
-        "form": "Zen",
-        "shadow": false
-    },
-    {
-        "id": 562,
-        "name": "Yamask",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 562,
-        "name": "Yamask",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 563,
-        "name": "Cofagrigus",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 618,
-        "name": "Stunfisk",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 618,
-        "name": "Stunfisk",
-        "form": "Galarian",
-        "shadow": false
-    },
-    {
         "id": 646,
         "name": "Kyurem",
         "form": "Black",
-        "released": true,
-        "elite_cm": [
-            "Freeze Shock"
-        ]
+        "released": true
     },
     {
         "id": 646,
         "name": "Kyurem",
         "form": "White",
-        "released": true,
-        "elite_cm": [
-            "Ice Burn"
-        ]
-    },
-    {
-        "id": 649,
-        "name": "Genesect",
-        "form": "Normal",
-        "elite_cm": [
-            "Techno Blast Normal"
-        ]
+        "released": true
     },
     {
         "id": 749,
@@ -337,19 +69,13 @@
         "id": 800,
         "name": "Necrozma",
         "form": "Dawn_wings",
-        "released": true,
-        "elite_cm": [
-            "Moongeist Beam"
-        ]
+        "released": true
     },
     {
         "id": 800,
         "name": "Necrozma",
         "form": "Dusk_mane",
-        "released": true,
-        "elite_cm": [
-            "Sunsteel Strike"
-        ]
+        "released": true
     },
     {
         "id": 802,
@@ -580,34 +306,10 @@
         "released": true
     },
     {
-        "id": 863,
-        "name": "Perrserker",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
         "id": 864,
         "name": "Cursola",
         "form": "Normal",
         "released": true
-    },
-    {
-        "id": 865,
-        "name": "Sirfetch\u2019d",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 866,
-        "name": "Mr. Rime",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 867,
-        "name": "Runerigus",
-        "form": "Normal",
-        "shadow": false
     },
     {
         "id": 874,
@@ -732,6 +434,12 @@
     {
         "id": 961,
         "name": "Wugtrio",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 983,
+        "name": "Kingambit",
         "form": "Normal",
         "released": true
     }

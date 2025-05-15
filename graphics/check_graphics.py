@@ -8,7 +8,7 @@ import json
 
 # global constants and variables
 
-URL_GAME_MASTER = "https://raw.githubusercontent.com/PokeMiners/game_masters/master/latest/latest.json"
+URL_GAME_MASTER = "https://raw.githubusercontent.com/alexelgt/game_masters/refs/heads/master/GAME_MASTER.json"
 
 DIRS = ("ani", "ani-shiny", "pogo", "pogo-shiny", "pogo-256", "pogo-shiny-256")
 

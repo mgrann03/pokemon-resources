@@ -53,7 +53,9 @@ def main():
 
     # if wanted, applies manual patch to objects
     if wants_manual_patch == "y":
-        ManualPatch()
+        ManualPatch("pogo_pkm_manual_moves.json")
+        ManualPatch("pogo_pkm_manual_released.json")
+        ManualPatch("pogo_pkm_manual_shadow.json")
 
     # dumps objects into JSON files
     print("dumping objects into JSON files...")
@@ -232,13 +234,13 @@ def CleanMove(move, is_fast):
         else:
             return str(move)
 
-def ManualPatch():
+def ManualPatch(patch_fname):
     """
-    Modifies 'pogo_pkm' values to match values in 'pogo_pkm_manual.json'.
+    Modifies 'pogo_pkm' values to match values in 'patch_fname'.
     """
     print("applying manual patch to objects...")
 
-    pogo_pkm_manual = json.load(open("pogo_pkm_manual.json"))
+    pogo_pkm_manual = json.load(open(patch_fname))
     num_changes = 0
 
     for pkm_obj in pogo_pkm:
