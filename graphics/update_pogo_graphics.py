@@ -20,7 +20,7 @@ DIR_256 = "pogo-256/"
 SHINY_DIR_256 = "pogo-shiny-256/"
 
 # parses pokemon names json file
-pokemon_names = json.load(open("../pokemon_names.json"))
+pogo_pkm_names = json.load(open("../pogo_pkm_names.json"))
 
 def main():
 
@@ -47,7 +47,7 @@ def GetFilenamesPairs(gm_obj):
 
     gm_obj_s = gm_obj["data"]["pokemonSettings"]
     id = int(gm_obj["templateId"][1:5])
-    name = CleanStr(pokemon_names[str(id)]["name"])
+    name = CleanStr(pogo_pkm_names[id]["name"])
     if id == 29: # female Nidoran
         name += "f"
     elif id == 32: # male Nidoran

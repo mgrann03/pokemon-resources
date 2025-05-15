@@ -15,7 +15,7 @@ JSON_PKM_PATH = "pogo_pkm.json"
 JSON_FM_PATH = "pogo_fm.json"
 JSON_CM_PATH = "pogo_cm.json"
 
-pokemon_names = json.load(open("pokemon_names.json"))
+pogo_pkm_names = json.load(open("pogo_pkm_names.json"))
 
 pogo_unused = {} # sets of unused pokemon, forms, shadows and moves
 
@@ -81,7 +81,7 @@ def AddPokemon(gm_obj):
 
     pkm_obj = {}
     pkm_obj["id"] = int(gm_obj["templateId"][1:5])
-    pkm_obj["name"] = pokemon_names[str(pkm_obj["id"])]["name"]
+    pkm_obj["name"] = pogo_pkm_names[pkm_obj["id"]]
     if "form" in gm_obj_s and isinstance(gm_obj_s["form"], str):
         form = gm_obj_s["form"]
         if gm_obj_s["pokemonId"] in form:

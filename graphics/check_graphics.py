@@ -13,7 +13,7 @@ URL_GAME_MASTER = "https://raw.githubusercontent.com/alexelgt/game_masters/refs/
 DIRS = ("ani", "ani-shiny", "pogo", "pogo-shiny", "pogo-256", "pogo-shiny-256")
 
 # parses pokemon names json file
-pokemon_names = json.load(open("../pokemon_names.json"))
+pogo_pkm_names = json.load(open("../pogo_pkm_names.json"))
 
 total = 0 # total number of pokemon searched for
 found_in_each_dir = {} # number of pokemon found in each DIR
@@ -61,7 +61,7 @@ def GetFilenames(gm_obj):
 
     gm_obj_s = gm_obj["data"]["pokemonSettings"]
     id = int(gm_obj["templateId"][1:5])
-    name = CleanStr(pokemon_names[str(id)]["name"])
+    name = CleanStr(pogo_pkm_names[id])
     if id == 29: # female Nidoran
         name += "f"
     elif id == 32: # male Nidoran
