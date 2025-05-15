@@ -1,0 +1,50 @@
+[
+    {
+        "id": 892,
+        "name": "Urshifu",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 892,
+        "name": "Urshifu",
+        "form": "Rapid_strike",
+        "released": true
+    },
+    {
+        "id": 892,
+        "name": "Urshifu",
+        "form": "Single_strike",
+        "released": true
+    },
+    {
+        "id": 479,
+        "name": "Rotom",
+        "form": "Fan",
+        "released": true
+    },
+    {
+        "id": 721,
+        "name": "Volcanion",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 888,
+        "name": "Zacian",
+        "form": "Crowned_sword",
+        "released": true,
+        "elite_cm": [
+            "Behemoth Blade"
+        ]
+    },
+    {
+        "id": 889,
+        "name": "Zamazenta",
+        "form": "Crowned_shield",
+        "released": true,
+        "elite_cm": [
+            "Behemoth Bash"
+        ]
+    }
+]
