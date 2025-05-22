@@ -360,6 +360,24 @@
         "released": true
     },
     {
+        "id": 892,
+        "name": "Urshifu",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 892,
+        "name": "Urshifu",
+        "form": "Rapid_strike",
+        "released": true
+    },
+    {
+        "id": 892,
+        "name": "Urshifu",
+        "form": "Single_strike",
+        "released": true
+    },
+    {
         "id": 924,
         "name": "Tandemaus",
         "form": "Normal",

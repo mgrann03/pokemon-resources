@@ -35859,7 +35859,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 892,
@@ -35887,7 +35887,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 892,
@@ -35915,7 +35915,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 893,
