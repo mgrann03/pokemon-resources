@@ -17,6 +17,7 @@ JSON_FM_PATH = "pogo_fm.json"
 JSON_CM_PATH = "pogo_cm.json"
 
 pogo_pkm_names = json.load(open("pogo_pkm_names.json"))
+pogo_pkm_tiers = json.load(open("pogo_pkm_tiers.json"))
 
 pogo_unused = {} # sets of unused pokemon, forms, shadows and moves
 
@@ -113,6 +114,12 @@ def AddPokemon(gm_obj):
         pkm_obj["class"] = gm_obj_s["pokemonClass"]
     pkm_obj["released"] = PokemonIsReleased(gm_obj_s)
 
+    tier = pogo_pkm_tiers.get(gm_obj["templateId"][14:], 0)
+    if not tier:
+        tier = pogo_pkm_tiers.get(gm_obj["templateId"][14:] + "_FORM", 0)
+    if tier:
+        pkm_obj["raid_tier"] = tier
+
     pkm_uniq_id = pkm_obj["name"] + "-" + str(pkm_obj["id"]) + "-" + pkm_obj["form"]
     if pkm_uniq_id not in pogo_seen:
         pogo_pkm.append(pkm_obj)
@@ -120,6 +127,10 @@ def AddPokemon(gm_obj):
 
         if "tempEvoOverrides" in gm_obj_s:
             for gm_obj_s_mega in gm_obj_s["tempEvoOverrides"]:
+                if "tempEvoId" not in gm_obj_s_mega or \
+                    ("MEGA" not in gm_obj_s_mega["tempEvoId"] and "PRIMAL" not in gm_obj_s_mega["tempEvoId"]):
+                    continue
+
                 mega_obj = {
                     "id": pkm_obj["id"],
                     "name": pkm_obj["name"],
@@ -129,6 +140,12 @@ def AddPokemon(gm_obj):
                     "shadow": False,
                     "released": pkm_obj["released"]
                 }
+
+                tier = pogo_pkm_tiers.get(gm_obj["templateId"][14:] + "_MEGA", 0)
+                if not tier:
+                    tier = pogo_pkm_tiers.get(gm_obj["templateId"][14:] + gm_obj_s_mega["tempEvoId"][-7:], 0)
+                if tier:
+                    mega_obj["raid_tier"] = tier
 
                 if "class" in pkm_obj:
                     mega_obj["class"] = pkm_obj["class"]
@@ -151,9 +168,9 @@ def AddPokemon(gm_obj):
                     mega_obj["types"] = mega_types
                 if "stats" in gm_obj_s_mega:
                     mega_obj["stats"] = gm_obj_s_mega["stats"]
-                if "tempEvoId" in gm_obj_s_mega and "MEGA_X" in gm_obj_s_mega["tempEvoId"]:
+                if "MEGA_X" in gm_obj_s_mega["tempEvoId"]:
                     mega_obj["name"] = mega_obj["name"] + " X"
-                elif "tempEvoId" in gm_obj_s_mega and "MEGA_Y" in gm_obj_s_mega["tempEvoId"]:
+                elif "MEGA_Y" in gm_obj_s_mega["tempEvoId"]:
                     mega_obj["name"] = mega_obj["name"] + " Y"
                     mega_obj["form"] = mega_obj["form"] + "Y"
 
