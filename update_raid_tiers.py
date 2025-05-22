@@ -6,12 +6,7 @@ URL_RAIDS = "https://fight.pokebattler.com/raids"
 JSON_TIER_PATH = "pogo_pkm_tiers.json"
 
 raid_tiers = [] # array of all raid tiers, from Pokebattler
-pkm_tier_map = { # dict mapping pokemon to their raid tiers
-    "TAUROS_PALDEA_AQUA_FORM": 3, # manually map a few
-    "TAUROS_PALDEA_BLAZE_FORM": 3,
-    "TAUROS_PALDEA_COMBAT_FORM": 3,
-    'MAWILE_MEGA': 4
-}
+pkm_tier_map = {} # dict mapping pokemon to their raid tiers
 
 def main():
     
@@ -30,6 +25,13 @@ def main():
                 pkm_name = raid['pokemon']
                 if IsRaidMon(pkm_name):
                     pkm_tier_map[pkm_name] = tier_num
+
+    # manually map a few
+    pkm_tier_map["TAUROS_PALDEA_AQUA_FORM"] = 3
+    pkm_tier_map["TAUROS_PALDEA_BLAZE_FORM"] = 3
+    pkm_tier_map["TAUROS_PALDEA_COMBAT_FORM"] = 3
+    pkm_tier_map["MAWILE_MEGA"] = 4
+    pkm_tier_map["RAYQUAZA_MEGA"] = 6
 
     print("dumping into JSON file...")
     json.dump(pkm_tier_map, open(JSON_TIER_PATH, "w"), indent=4)
