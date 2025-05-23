@@ -28,5 +28,13 @@
         "elite_cm": [
             "Behemoth Bash"
         ]
+    },
+    {
+        "id": 895,
+        "name": "Regidrago",
+        "form": "Normal",
+        "elite_fm": [
+            "Dragon Breath"
+        ]
     }
 ]

@@ -35967,7 +35967,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
+        "released": true,
         "raid_tier": 7
     },
     {
