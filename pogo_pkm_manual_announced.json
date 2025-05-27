@@ -195,6 +195,17 @@
         ]
     },
     {
+        "id": 306,
+        "name": "Mega Aggron",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Iron Tail",
+            "Smack Down",
+            "Metal Sound"
+        ]
+    },
+    {
         "id": 350,
         "name": "Milotic",
         "form": "Normal",
