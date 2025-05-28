@@ -47,7 +47,7 @@ def GetFilenamesPairs(gm_obj):
 
     gm_obj_s = gm_obj["data"]["pokemonSettings"]
     id = int(gm_obj["templateId"][1:5])
-    name = CleanStr(pogo_pkm_names[id]["name"])
+    name = CleanStr(pogo_pkm_names[id])
     if id == 29: # female Nidoran
         name += "f"
     elif id == 32: # male Nidoran
