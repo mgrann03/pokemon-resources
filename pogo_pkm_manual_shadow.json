@@ -120,6 +120,12 @@
         "shadow": false
     },
     {
+        "id": 150,
+        "name": "Mewtwo",
+        "form": "A",
+        "shadow": false
+    },
+    {
         "id": 157,
         "name": "Typhlosion",
         "form": "Hisuian",
