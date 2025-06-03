@@ -677,7 +677,8 @@
         },
         "fm": [
             "Infestation",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Sludge Bomb",
@@ -701,7 +702,8 @@
         "form": "Mega",
         "fm": [
             "Infestation",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Sludge Bomb",
@@ -1047,7 +1049,8 @@
         "fm": [
             "Bite",
             "Acid",
-            "Dragon Tail"
+            "Dragon Tail",
+            "Poison Sting"
         ],
         "cm": [
             "Dark Pulse",
@@ -2439,7 +2442,8 @@
             "Thunder Punch",
             "Wild Charge",
             "Skull Bash",
-            "Trailblaze"
+            "Trailblaze",
+            "Surf"
         ],
         "elite_cm": [
             "Thunder"
@@ -2471,7 +2475,8 @@
             "Thunder Punch",
             "Wild Charge",
             "Grass Knot",
-            "Trailblaze"
+            "Trailblaze",
+            "Surf"
         ],
         "shadow": false,
         "released": true,
@@ -2681,7 +2686,8 @@
         },
         "fm": [
             "Poison Jab",
-            "Bite"
+            "Bite",
+            "Poison Sting"
         ],
         "cm": [
             "Earthquake",
@@ -2784,7 +2790,8 @@
         "fm": [
             "Poison Jab",
             "Iron Tail",
-            "Double Kick"
+            "Double Kick",
+            "Poison Sting"
         ],
         "cm": [
             "Earthquake",
@@ -3456,7 +3463,8 @@
         },
         "fm": [
             "Scratch",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Night Slash",
@@ -4169,7 +4177,8 @@
         },
         "fm": [
             "Acid",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Hydro Pump",
@@ -5733,7 +5742,8 @@
         "cm": [
             "Hyper Beam",
             "Stomp",
-            "Power Whip"
+            "Power Whip",
+            "Wrap"
         ],
         "elite_cm": [
             "Body Slam"
@@ -7207,7 +7217,8 @@
         "cm": [
             "Futuresight",
             "Ancient Power",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -7263,7 +7274,8 @@
         "cm": [
             "Close Combat",
             "Ancient Power",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -7320,7 +7332,8 @@
         "cm": [
             "Payback",
             "Ancient Power",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -11281,7 +11294,8 @@
         "cm": [
             "Sky Attack",
             "Hydro Pump",
-            "Futuresight"
+            "Futuresight",
+            "Fly"
         ],
         "elite_cm": [
             "Aeroblast"
@@ -11311,7 +11325,8 @@
         "cm": [
             "Sky Attack",
             "Hydro Pump",
-            "Futuresight"
+            "Futuresight",
+            "Fly"
         ],
         "elite_cm": [
             "Aeroblast"
@@ -13050,7 +13065,8 @@
         },
         "fm": [
             "Tackle",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Iron Head",
@@ -13076,7 +13092,8 @@
         },
         "fm": [
             "Metal Claw",
-            "Iron Tail"
+            "Iron Tail",
+            "Metal Sound"
         ],
         "cm": [
             "Body Slam",
@@ -13104,7 +13121,8 @@
         "fm": [
             "Dragon Tail",
             "Iron Tail",
-            "Smack Down"
+            "Smack Down",
+            "Metal Sound"
         ],
         "cm": [
             "Thunder",
@@ -13124,7 +13142,8 @@
         "fm": [
             "Dragon Tail",
             "Iron Tail",
-            "Smack Down"
+            "Smack Down",
+            "Metal Sound"
         ],
         "cm": [
             "Thunder",
@@ -14875,7 +14894,8 @@
         "cm": [
             "Surf",
             "Blizzard",
-            "Hyper Beam"
+            "Hyper Beam",
+            "Wrap"
         ],
         "shadow": false,
         "released": true
@@ -15383,7 +15403,8 @@
         "cm": [
             "Aurora Beam",
             "Body Slam",
-            "Water Pulse"
+            "Water Pulse",
+            "Surf"
         ],
         "shadow": true,
         "released": true,
@@ -15693,7 +15714,8 @@
         },
         "fm": [
             "Zen Headbutt",
-            "Metal Claw"
+            "Metal Claw",
+            "Fury Cutter"
         ],
         "cm": [
             "Psychic",
@@ -15719,7 +15741,8 @@
         },
         "fm": [
             "Bullet Punch",
-            "Zen Headbutt"
+            "Zen Headbutt",
+            "Fury Cutter"
         ],
         "cm": [
             "Psychic",
@@ -18469,7 +18492,8 @@
         "fm": [
             "Poison Jab",
             "Counter",
-            "Mud Shot"
+            "Mud Shot",
+            "Poison Sting"
         ],
         "cm": [
             "Dynamic Punch",
@@ -21733,7 +21757,8 @@
         },
         "fm": [
             "Bug Bite",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Megahorn",
@@ -32461,12 +32486,14 @@
         },
         "fm": [
             "Astonish",
-            "Shadow Claw"
+            "Shadow Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Power Whip",
             "Shadow Ball",
-            "Heavy Slam"
+            "Heavy Slam",
+            "Wrap"
         ],
         "shadow": false,
         "released": true,
@@ -32760,7 +32787,8 @@
         },
         "fm": [
             "Confusion",
-            "Air Slash"
+            "Air Slash",
+            "Shadow Claw"
         ],
         "cm": [
             "Shadow Ball",
@@ -34808,7 +34836,8 @@
         },
         "fm": [
             "Metal Claw",
-            "Shadow Claw"
+            "Shadow Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Iron Head",
@@ -36174,7 +36203,8 @@
         },
         "fm": [
             "Quick Attack",
-            "Air Slash"
+            "Air Slash",
+            "Fury Cutter"
         ],
         "cm": [
             "X Scissor",
@@ -36495,7 +36525,8 @@
         },
         "fm": [
             "Incinerate",
-            "Bite"
+            "Bite",
+            "Hex"
         ],
         "cm": [
             "Flamethrower",
@@ -36771,7 +36802,8 @@
         },
         "fm": [
             "Spark",
-            "Charge Beam"
+            "Charge Beam",
+            "Thunder Shock"
         ],
         "cm": [
             "Thunderbolt",
@@ -36797,7 +36829,8 @@
         },
         "fm": [
             "Spark",
-            "Charge Beam"
+            "Charge Beam",
+            "Thunder Shock"
         ],
         "cm": [
             "Thunderbolt",
@@ -36824,7 +36857,8 @@
         "fm": [
             "Spark",
             "Charge Beam",
-            "Low Kick"
+            "Low Kick",
+            "Thunder Shock"
         ],
         "cm": [
             "Thunderbolt",
@@ -38083,7 +38117,8 @@
         },
         "fm": [
             "Lick",
-            "Poison Jab"
+            "Poison Jab",
+            "Metal Sound"
         ],
         "cm": [
             "Acid Spray",
@@ -38108,7 +38143,8 @@
         },
         "fm": [
             "Lick",
-            "Poison Jab"
+            "Poison Jab",
+            "Metal Sound"
         ],
         "cm": [
             "Acid Spray",
@@ -39072,7 +39108,8 @@
         "cm": [
             "Shadow Ball",
             "Dazzling Gleam",
-            "Focus Blast"
+            "Focus Blast",
+            "Power Gem"
         ],
         "shadow": false,
         "released": true
