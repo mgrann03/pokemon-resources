@@ -6,6 +6,14 @@
         "released": true
     },
     {
+        "id": 486,
+        "name": "Regigigas",
+        "form": "Normal",
+        "elite_cm": [
+            "Crush Grip"
+        ]
+    },
+    {
         "id": 721,
         "name": "Volcanion",
         "form": "Normal",
@@ -42,11 +50,24 @@
         ]
     },
     {
+        "id": 894,
+        "name": "Regieleki",
+        "form": "Normal",
+        "elite_cm": [
+            "Thunder Cage"
+        ],
+        "raid_tier": 5
+    },
+    {
         "id": 895,
         "name": "Regidrago",
         "form": "Normal",
         "elite_fm": [
             "Dragon Breath"
-        ]
+        ],
+        "elite_cm": [
+            "Dragon Energy"
+        ],
+        "raid_tier": 5
     }
 ]

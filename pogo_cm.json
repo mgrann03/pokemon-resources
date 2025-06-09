@@ -2059,5 +2059,32 @@
         "damage_window_start": 2300,
         "damage_window_end": 3100,
         "energy_delta": -33
+    },
+    {
+        "name": "Thunder Cage",
+        "type": "Electric",
+        "power": 220.0,
+        "duration": 3300,
+        "damage_window_start": 1880,
+        "damage_window_end": 3200,
+        "energy_delta": -100
+    },
+    {
+        "name": "Crush Grip",
+        "type": "Normal",
+        "power": 210.0,
+        "duration": 1800,
+        "damage_window_start": 700,
+        "damage_window_end": 1700,
+        "energy_delta": -100
+    },
+    {
+        "name": "Dragon Energy",
+        "type": "Dragon",
+        "power": 155.0,
+        "duration": 3300,
+        "damage_window_start": 1880,
+        "damage_window_end": 3200,
+        "energy_delta": -50
     }
 ]
