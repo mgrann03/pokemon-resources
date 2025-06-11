@@ -20,6 +20,14 @@
         "released": true
     },
     {
+        "id": 784,
+        "name": "Kommo-o",
+        "form": "Normal",
+        "elite_cm": [
+            "Clanging Scales"
+        ]
+    },
+    {
         "id": 835,
         "name": "Yamper",
         "form": "Normal",

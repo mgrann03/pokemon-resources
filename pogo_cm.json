@@ -2070,6 +2070,15 @@
         "energy_delta": -100
     },
     {
+        "name": "Clanging Scales",
+        "type": "Dragon",
+        "power": 120.0,
+        "duration": 3300,
+        "damage_window_start": 1880,
+        "damage_window_end": 3200,
+        "energy_delta": -100
+    },
+    {
         "name": "Crush Grip",
         "type": "Normal",
         "power": 210.0,
