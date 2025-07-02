@@ -26,8 +26,26 @@
     {
         "id": 479,
         "name": "Rotom",
+        "form": "Fan",
+        "released": true
+    },
+    {
+        "id": 479,
+        "name": "Rotom",
         "form": "Heat",
         "released": true
+    },
+    {
+        "id": 570,
+        "name": "Zorua",
+        "form": "Hisuian",
+        "released": false
+    },
+    {
+        "id": 571,
+        "name": "Zoroark",
+        "form": "Hisuian",
+        "released": false
     },
     {
         "id": 646,
@@ -39,6 +57,12 @@
         "id": 646,
         "name": "Kyurem",
         "form": "White",
+        "released": true
+    },
+    {
+        "id": 721,
+        "name": "Volcanion",
+        "form": "Normal",
         "released": true
     },
     {
@@ -198,6 +222,18 @@
         "released": true
     },
     {
+        "id": 835,
+        "name": "Yamper",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 836,
+        "name": "Boltund",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 840,
         "name": "Applin",
         "form": "Normal",
@@ -352,6 +388,24 @@
         "name": "Dragapult",
         "form": "Normal",
         "released": true
+    },
+    {
+        "id": 888,
+        "name": "Zacian",
+        "form": "Crowned_sword",
+        "released": true,
+        "elite_cm": [
+            "Behemoth Blade"
+        ]
+    },
+    {
+        "id": 889,
+        "name": "Zamazenta",
+        "form": "Crowned_shield",
+        "released": true,
+        "elite_cm": [
+            "Behemoth Bash"
+        ]
     },
     {
         "id": 891,

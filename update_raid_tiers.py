@@ -32,6 +32,8 @@ def main():
     pkm_tier_map["TAUROS_PALDEA_COMBAT_FORM"] = 3
     pkm_tier_map["MAWILE_MEGA"] = 4
     pkm_tier_map["RAYQUAZA_MEGA"] = 6
+    pkm_tier_map["REGIDRAGO"] = 5
+    pkm_tier_map["REGIELEKI"] = 5
 
     print("dumping into JSON file...")
     json.dump(pkm_tier_map, open(JSON_TIER_PATH, "w"), indent=4)

@@ -19280,7 +19280,7 @@
             "Thunder"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 479,
@@ -19628,6 +19628,9 @@
             "Giga Impact",
             "Focus Blast",
             "Thunder"
+        ],
+        "elite_cm": [
+            "Crush Grip"
         ],
         "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -20562,7 +20565,8 @@
             "Blast Burn"
         ],
         "shadow": true,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 501,
@@ -22634,6 +22638,32 @@
         "raid_tier": 1
     },
     {
+        "id": 570,
+        "name": "Zorua",
+        "form": "Hisuian",
+        "types": [
+            "Normal",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 162,
+            "baseDefense": 79
+        },
+        "fm": [
+            "Scratch",
+            "Snarl"
+        ],
+        "cm": [
+            "Foul Play",
+            "Shadow Ball",
+            "Dark Pulse",
+            "Night Shade"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
         "id": 571,
         "name": "Zoroark",
         "form": "Normal",
@@ -22654,6 +22684,32 @@
             "Sludge Bomb",
             "Flamethrower",
             "Night Shade"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 571,
+        "name": "Zoroark",
+        "form": "Hisuian",
+        "types": [
+            "Normal",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 261,
+            "baseDefense": 128
+        },
+        "fm": [
+            "Shadow Claw",
+            "Snarl"
+        ],
+        "cm": [
+            "Foul Play",
+            "Sludge Bomb",
+            "Flamethrower",
+            "Shadow Ball"
         ],
         "shadow": false,
         "released": true
@@ -23904,7 +23960,8 @@
             "Poltergeist"
         ],
         "shadow": true,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 610,
@@ -29982,7 +30039,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": false
+        "released": true
     },
     {
         "id": 722,
@@ -32573,6 +32630,9 @@
             "Boomburst",
             "Brick Break"
         ],
+        "elite_cm": [
+            "Clanging Scales"
+        ],
         "shadow": false,
         "released": true
     },
@@ -32770,7 +32830,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "raid_tier": 5
     },
     {
         "id": 792,
@@ -32798,7 +32859,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "raid_tier": 5
     },
     {
         "id": 793,
@@ -33994,7 +34056,7 @@
             "Thunder"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 836,
@@ -34017,7 +34079,7 @@
             "Thunder"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 837,
@@ -35669,8 +35731,11 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
-        "raid_tier": 5
+        "released": true,
+        "raid_tier": 5,
+        "elite_cm": [
+            "Behemoth Blade"
+        ]
     },
     {
         "id": 888,
@@ -35755,8 +35820,11 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
-        "raid_tier": 5
+        "released": true,
+        "raid_tier": 5,
+        "elite_cm": [
+            "Behemoth Bash"
+        ]
     },
     {
         "id": 889,
@@ -35994,10 +36062,13 @@
             "Thunder",
             "Zap Cannon"
         ],
+        "elite_cm": [
+            "Thunder Cage"
+        ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 7
+        "raid_tier": 5
     },
     {
         "id": 895,
@@ -36020,10 +36091,16 @@
             "Dragon Pulse",
             "Breaking Swipe"
         ],
+        "elite_fm": [
+            "Dragon Breath"
+        ],
+        "elite_cm": [
+            "Dragon Energy"
+        ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 7
+        "raid_tier": 5
     },
     {
         "id": 896,
@@ -39071,6 +39148,27 @@
         "id": 999,
         "name": "Gimmighoul",
         "form": "Normal",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 140,
+            "baseDefense": 76
+        },
+        "fm": [
+            "Astonish"
+        ],
+        "cm": [
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 999,
+        "name": "Gimmighoul",
+        "form": "Coin_a1",
         "types": [
             "Ghost"
         ],

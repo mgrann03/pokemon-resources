@@ -1,81 +1,32 @@
 [
     {
-        "id": 479,
-        "name": "Rotom",
-        "form": "Fan",
+        "id": 570,
+        "name": "Zorua",
+        "form": "Hisuian",
         "released": true
     },
     {
-        "id": 486,
-        "name": "Regigigas",
-        "form": "Normal",
-        "elite_cm": [
-            "Crush Grip"
-        ]
-    },
-    {
-        "id": 721,
-        "name": "Volcanion",
-        "form": "Normal",
+        "id": 571,
+        "name": "Zoroark",
+        "form": "Hisuian",
         "released": true
     },
     {
-        "id": 784,
-        "name": "Kommo-o",
-        "form": "Normal",
-        "elite_cm": [
-            "Clanging Scales"
-        ]
-    },
-    {
-        "id": 835,
-        "name": "Yamper",
+        "id": 679,
+        "name": "Honedge",
         "form": "Normal",
         "released": true
     },
     {
-        "id": 836,
-        "name": "Boltund",
+        "id": 680,
+        "name": "Doublade",
         "form": "Normal",
         "released": true
     },
     {
-        "id": 888,
-        "name": "Zacian",
-        "form": "Crowned_sword",
-        "released": true,
-        "elite_cm": [
-            "Behemoth Blade"
-        ]
-    },
-    {
-        "id": 889,
-        "name": "Zamazenta",
-        "form": "Crowned_shield",
-        "released": true,
-        "elite_cm": [
-            "Behemoth Bash"
-        ]
-    },
-    {
-        "id": 894,
-        "name": "Regieleki",
+        "id": 681,
+        "name": "Aegislash",
         "form": "Normal",
-        "elite_cm": [
-            "Thunder Cage"
-        ],
-        "raid_tier": 5
-    },
-    {
-        "id": 895,
-        "name": "Regidrago",
-        "form": "Normal",
-        "elite_fm": [
-            "Dragon Breath"
-        ],
-        "elite_cm": [
-            "Dragon Energy"
-        ],
-        "raid_tier": 5
+        "released": true
     }
 ]
