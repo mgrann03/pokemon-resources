@@ -28513,6 +28513,27 @@
         "released": false
     },
     {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Blade",
+        "types": [
+            "Steel",
+            "Ghost"
+        ],
+        "stats": {},
+        "fm": [
+            "Psycho Cut",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Gyro Ball",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
         "id": 682,
         "name": "Spritzee",
         "form": "Normal",
@@ -39475,26 +39496,5 @@
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false,
         "raid_tier": 5
-    },
-    {
-        "id": 681,
-        "name": "Aegislash",
-        "form": "Blade",
-        "types": [
-            "Steel",
-            "Ghost"
-        ],
-        "stats": {},
-        "fm": [
-            "Psycho Cut",
-            "Fury Cutter"
-        ],
-        "cm": [
-            "Flash Cannon",
-            "Gyro Ball",
-            "Shadow Ball"
-        ],
-        "shadow": false,
-        "released": false
     }
 ]

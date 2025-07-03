@@ -60,6 +60,9 @@ def main():
         ManualPatch("pogo_pkm_manual_released.json")
         ManualPatch("pogo_pkm_manual_shadow.json")
 
+    # Sort by id, just to ensure everything is in order
+    pogo_pkm.sort(key=lambda pkm_obj: pkm_obj['id'])
+
     # dumps objects into JSON files
     print("dumping objects into JSON files...")
     json.dump(pogo_pkm, open(JSON_PKM_PATH, "w"), indent=4)
