@@ -393,19 +393,13 @@
         "id": 888,
         "name": "Zacian",
         "form": "Crowned_sword",
-        "released": true,
-        "elite_cm": [
-            "Behemoth Blade"
-        ]
+        "released": true
     },
     {
         "id": 889,
         "name": "Zamazenta",
         "form": "Crowned_shield",
-        "released": true,
-        "elite_cm": [
-            "Behemoth Bash"
-        ]
+        "released": true
     },
     {
         "id": 891,

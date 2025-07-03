@@ -55,6 +55,7 @@ def main():
 
     # if wanted, applies manual patch to objects
     if wants_manual_patch == "y":
+        ManualPatch("pogo_pkm_manual_speculative.json")
         ManualPatch("pogo_pkm_manual_moves.json")
         ManualPatch("pogo_pkm_manual_released.json")
         ManualPatch("pogo_pkm_manual_shadow.json")
@@ -263,7 +264,7 @@ def ManualPatch(patch_fname):
     num_changes = 0
 
     for pkm_obj in pogo_pkm:
-        for manual_obj in pogo_pkm_manual:
+        for manual_obj in list(pogo_pkm_manual):
             if pkm_obj["id"] == manual_obj["id"] and pkm_obj["name"] == manual_obj["name"] and pkm_obj["form"] == manual_obj["form"]:
                 for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "released"]:
                     if key in manual_obj:
@@ -273,6 +274,10 @@ def ManualPatch(patch_fname):
                         else:
                             pkm_obj[key] = manual_obj[key]
                             num_changes += 1
+                pogo_pkm_manual.remove(manual_obj)
+
+    for manual_obj in pogo_pkm_manual: # not matched and consumed above
+        pogo_pkm.append(manual_obj)
     
     print(" " + str(num_changes) + " changes done")
 

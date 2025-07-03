@@ -15,18 +15,44 @@
         "id": 679,
         "name": "Honedge",
         "form": "Normal",
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 135,
+            "baseDefense": 139
+        },
         "released": true
     },
     {
         "id": 680,
         "name": "Doublade",
         "form": "Normal",
+        "stats": {
+            "baseStamina": 153,
+            "baseAttack": 188,
+            "baseDefense": 206
+        },
         "released": true
     },
     {
         "id": 681,
         "name": "Aegislash",
         "form": "Normal",
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 97,
+            "baseDefense": 291
+        },
+        "released": true
+    },
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Blade",
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 291,
+            "baseDefense": 97
+        },
         "released": true
     }
 ]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Blade",
+        "types": [
+            "Steel",
+            "Ghost"
+        ],
+        "stats": {},
+        "fm": [
+            "Psycho Cut",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Gyro Ball",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "released": false
+    }
+]
