@@ -21878,6 +21878,32 @@
         "released": true
     },
     {
+        "id": 549,
+        "name": "Lilligant",
+        "form": "Hisuian",
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 208,
+            "baseDefense": 159
+        },
+        "fm": [
+            "Magical Leaf",
+            "Bullet Seed"
+        ],
+        "cm": [
+            "Petal Blizzard",
+            "Close Combat",
+            "Solar Beam",
+            "Upper Hand"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
         "id": 550,
         "name": "Basculin",
         "form": "Normal",

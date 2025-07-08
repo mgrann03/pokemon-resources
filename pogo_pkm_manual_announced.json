@@ -1,5 +1,11 @@
 [
     {
+        "id": 549,
+        "name": "Lilligant",
+        "form": "Hisuian",
+        "released": true
+    },
+    {
         "id": 570,
         "name": "Zorua",
         "form": "Hisuian",
