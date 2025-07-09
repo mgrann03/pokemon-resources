@@ -61,7 +61,24 @@
         },
         "released": true
     },
-    
+    {
+        "id": 890,
+        "name": "Eternatus",
+        "form": "Normal",
+        "released": true,
+        "elite_cm": [
+            "Dynamax Cannon"
+        ]
+    },
+    {
+        "id": 890,
+        "name": "Eternatus",
+        "form": "Eternamax",
+        "released": true,
+        "elite_cm": [
+            "Dynamax Cannon"
+        ]
+    },
     {
         "id": 978,
         "name": "Tatsugiri",

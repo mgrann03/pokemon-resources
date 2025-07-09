@@ -2070,6 +2070,15 @@
         "energy_delta": -100
     },
     {
+        "name": "Dynamax Cannon",
+        "type": "Dragon",
+        "power": 215.0,
+        "duration": 1500,
+        "damage_window_start": 900,
+        "damage_window_end": 1400,
+        "energy_delta": -100
+    },
+    {
         "name": "Clanging Scales",
         "type": "Dragon",
         "power": 120.0,
