@@ -61,29 +61,5 @@
         "elite_cm": [
             "Hydro Cannon"
         ]
-    },
-    {
-        "id": 978,
-        "name": "Tatsugiri",
-        "form": "Normal",
-        "released": true
-    },
-    {
-        "id": 978,
-        "name": "Tatsugiri",
-        "form": "Curly",
-        "released": true
-    },
-    {
-        "id": 978,
-        "name": "Tatsugiri",
-        "form": "Droopy",
-        "released": true
-    },
-    {
-        "id": 978,
-        "name": "Tatsugiri",
-        "form": "Stretchy",
-        "released": true
     }
 ]
