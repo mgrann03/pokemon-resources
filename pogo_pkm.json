@@ -28485,7 +28485,11 @@
             "Steel",
             "Ghost"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 135,
+            "baseDefense": 139
+        },
         "fm": [
             "Psycho Cut",
             "Tackle"
@@ -28505,7 +28509,11 @@
             "Steel",
             "Ghost"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 153,
+            "baseAttack": 188,
+            "baseDefense": 206
+        },
         "fm": [
             "Psycho Cut",
             "Tackle"
@@ -28525,7 +28533,11 @@
             "Steel",
             "Ghost"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 97,
+            "baseDefense": 272
+        },
         "fm": [
             "Psycho Cut",
             "Air Slash"
@@ -28546,7 +28558,36 @@
             "Steel",
             "Ghost"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 272,
+            "baseDefense": 97
+        },
+        "fm": [
+            "Psycho Cut",
+            "Air Slash"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Gyro Ball",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Shield",
+        "types": [
+            "Steel",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 97,
+            "baseDefense": 272
+        },
         "fm": [
             "Psycho Cut",
             "Air Slash"
