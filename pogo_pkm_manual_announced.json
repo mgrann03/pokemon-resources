@@ -66,6 +66,21 @@
         ]
     },
     {
+        "id": 914,
+        "name": "Quaquaval",
+        "form": "Normal",
+        "cm": [
+            "Aqua Jet",
+            "Aerial Ace",
+            "Liquidation",
+            "Close Combat",
+            "Aqua Step"
+        ],
+        "elite_cm": [
+            "Hydro Cannon"
+        ]
+    },
+    {
         "id": 978,
         "name": "Tatsugiri",
         "form": "Normal",

@@ -2104,5 +2104,14 @@
         "damage_window_start": 1880,
         "damage_window_end": 3200,
         "energy_delta": -50
+    },
+    {
+        "name": "Aqua Step",
+        "type": "Water",
+        "power": 55.0,
+        "duration": 3500,
+        "damage_window_start": 2050,
+        "damage_window_end": 3100,
+        "energy_delta": -33
     }
 ]
