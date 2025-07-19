@@ -61,5 +61,17 @@
         "elite_cm": [
             "Hydro Cannon"
         ]
+    },
+    {
+        "id": 948,
+        "name": "Toedscool",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 949,
+        "name": "Toedscruel",
+        "form": "Normal",
+        "released": true
     }
 ]
