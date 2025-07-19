@@ -21901,7 +21901,7 @@
             "Upper Hand"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 550,
@@ -22687,7 +22687,7 @@
             "Night Shade"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 571,
@@ -22738,7 +22738,7 @@
             "Shadow Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 572,

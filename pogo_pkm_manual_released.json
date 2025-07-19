@@ -36,16 +36,10 @@
         "released": true
     },
     {
-        "id": 570,
-        "name": "Zorua",
+        "id": 549,
+        "name": "Lilligant",
         "form": "Hisuian",
-        "released": false
-    },
-    {
-        "id": 571,
-        "name": "Zoroark",
-        "form": "Hisuian",
-        "released": false
+        "released": true
     },
     {
         "id": 646,

@@ -1,23 +1,5 @@
 [
     {
-        "id": 549,
-        "name": "Lilligant",
-        "form": "Hisuian",
-        "released": true
-    },
-    {
-        "id": 570,
-        "name": "Zorua",
-        "form": "Hisuian",
-        "released": true
-    },
-    {
-        "id": 571,
-        "name": "Zoroark",
-        "form": "Hisuian",
-        "released": true
-    },
-    {
         "id": 679,
         "name": "Honedge",
         "form": "Normal",
