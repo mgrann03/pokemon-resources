@@ -33,34 +33,7 @@
         "id": 890,
         "name": "Eternatus",
         "form": "Normal",
-        "released": true,
-        "elite_cm": [
-            "Dynamax Cannon"
-        ]
-    },
-    {
-        "id": 890,
-        "name": "Eternatus",
-        "form": "Eternamax",
-        "released": true,
-        "elite_cm": [
-            "Dynamax Cannon"
-        ]
-    },
-    {
-        "id": 914,
-        "name": "Quaquaval",
-        "form": "Normal",
-        "cm": [
-            "Aqua Jet",
-            "Aerial Ace",
-            "Liquidation",
-            "Close Combat",
-            "Aqua Step"
-        ],
-        "elite_cm": [
-            "Hydro Cannon"
-        ]
+        "released": true
     },
     {
         "id": 948,

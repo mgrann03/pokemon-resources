@@ -35965,6 +35965,9 @@
             "Dragon Pulse",
             "Flamethrower"
         ],
+        "elite_cm": [
+            "Dynamax Cannon"
+        ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false
@@ -35991,6 +35994,9 @@
             "Dragon Pulse",
             "Flamethrower",
             "Hyper Beam"
+        ],
+        "elite_cm": [
+            "Dynamax Cannon"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -36775,7 +36781,11 @@
             "Aqua Jet",
             "Aerial Ace",
             "Liquidation",
-            "Close Combat"
+            "Close Combat",
+            "Aqua Step"
+        ],
+        "elite_cm": [
+            "Hydro Cannon"
         ],
         "shadow": false,
         "released": true
