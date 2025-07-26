@@ -54,6 +54,36 @@
         "released": true
     },
     {
+        "id": 679,
+        "name": "Honedge",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 680,
+        "name": "Doublade",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Blade",
+        "released": true
+    },
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Shield",
+        "released": true
+    },
+    {
         "id": 721,
         "name": "Volcanion",
         "form": "Normal",
