@@ -28499,7 +28499,7 @@
             "Gyro Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 680,
@@ -28523,7 +28523,7 @@
             "Gyro Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 681,
@@ -28548,7 +28548,7 @@
             "Shadow Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 681,
@@ -28573,7 +28573,7 @@
             "Shadow Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 681,
@@ -28598,7 +28598,7 @@
             "Shadow Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 682,
@@ -38526,7 +38526,7 @@
             "Heavy Slam"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 1
     },
     {
@@ -38552,7 +38552,7 @@
             "Heavy Slam"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 976,
