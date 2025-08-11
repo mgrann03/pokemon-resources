@@ -372,6 +372,18 @@
         "released": true
     },
     {
+        "id": 872,
+        "name": "Snom",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 873,
+        "name": "Frosmoth",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 874,
         "name": "Stonjourner",
         "form": "Normal",
@@ -500,6 +512,18 @@
     {
         "id": 945,
         "name": "Grafaiai",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 948,
+        "name": "Toedscool",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 949,
+        "name": "Toedscruel",
         "form": "Normal",
         "released": true
     },

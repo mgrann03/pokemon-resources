@@ -35294,7 +35294,7 @@
             "Bug Buzz"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 873,
@@ -35320,7 +35320,7 @@
             "Hurricane"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 874,
@@ -37870,7 +37870,7 @@
             "Wrap"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 949,
@@ -37896,7 +37896,7 @@
             "Acid Spray"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 950,
