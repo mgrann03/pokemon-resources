@@ -6130,7 +6130,7 @@
             "Bubble Beam",
             "Power Gem"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -6164,7 +6164,7 @@
         "elite_fm": [
             "Tackle"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -19662,7 +19662,7 @@
         "elite_cm": [
             "Shadow Force"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -19692,7 +19692,7 @@
         "elite_cm": [
             "Shadow Force"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -25962,7 +25962,7 @@
             "Swift",
             "Fly"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -25990,7 +25990,7 @@
             "Flame Charge",
             "Fly"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -26022,7 +26022,7 @@
         "elite_fm": [
             "Incinerate"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -30425,7 +30425,7 @@
             "Aerial Ace",
             "Sky Attack"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -30451,7 +30451,7 @@
             "Rock Blast",
             "Sky Attack"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -30477,7 +30477,7 @@
             "Rock Blast",
             "Flash Cannon"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -30551,7 +30551,7 @@
             "Vice Grip",
             "Crunch"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -30580,7 +30580,7 @@
         "elite_fm": [
             "Volt Switch"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -30611,7 +30611,7 @@
         "elite_fm": [
             "Volt Switch"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
