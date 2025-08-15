@@ -4,5 +4,11 @@
         "name": "Eternatus",
         "form": "Normal",
         "released": true
+    },
+    {
+        "id": 977,
+        "name": "Dondozo",
+        "form": "Normal",
+        "released": true
     }
 ]
