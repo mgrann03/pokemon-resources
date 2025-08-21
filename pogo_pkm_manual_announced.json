@@ -1,5 +1,771 @@
 [
     {
+        "id": 3,
+        "name": "Venusaur",
+        "form": "Normal",
+        "cm": [
+            "Sludge Bomb",
+            "Petal Blizzard",
+            "Solar Beam",
+            "Sludge"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mega Venusaur",
+        "form": "Mega",
+        "cm": [
+            "Sludge Bomb",
+            "Petal Blizzard",
+            "Solar Beam",
+            "Sludge"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "form": "Copy_2019",
+        "cm": [
+            "Sludge Bomb",
+            "Petal Blizzard",
+            "Solar Beam",
+            "Sludge"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "form": "Normal",
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat",
+            "Air Cutter"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Mega Charizard X",
+        "form": "Mega",
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat",
+            "Air Cutter"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Mega Charizard Y",
+        "form": "MegaY",
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat",
+            "Air Cutter"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "form": "Copy_2019",
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat",
+            "Air Cutter"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "form": "Normal",
+        "cm": [
+            "Aerial Ace",
+            "Drill Run",
+            "Sky Attack",
+            "Fly",
+            "Drill Peck"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "form": "Alola",
+        "cm": [
+            "Psychic",
+            "Thunder Punch",
+            "Wild Charge",
+            "Grass Knot",
+            "Trailblaze",
+            "Surf",
+            "Psyshock"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "form": "Normal",
+        "fm": [
+            "Poison Jab",
+            "Bite",
+            "Poison Sting",
+            "Mud Slap"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "form": "Normal",
+        "cm": [
+            "Water Pulse",
+            "Psychic",
+            "Ice Beam",
+            "Scald",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Mega Slowbro",
+        "form": "Mega",
+        "cm": [
+            "Water Pulse",
+            "Psychic",
+            "Ice Beam",
+            "Scald",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "form": "2021",
+        "cm": [
+            "Water Pulse",
+            "Psychic",
+            "Ice Beam",
+            "Scald",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "form": "Galarian",
+        "cm": [
+            "Focus Blast",
+            "Psychic",
+            "Sludge Bomb",
+            "Scald",
+            "Brutal Swing",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Dodrio",
+        "form": "Normal",
+        "fm": [
+            "Feint Attack",
+            "Steel Wing",
+            "Peck"
+        ],
+        "cm": [
+            "Drill Peck",
+            "Aerial Ace",
+            "Brave Bird",
+            "Trailblaze"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "form": "Normal",
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Mega Gengar",
+        "form": "Mega",
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "form": "Costume_2020",
+        "cm": [
+            "Shadow Ball",
+            "Focus Blast",
+            "Sludge Bomb",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "form": "Normal",
+        "cm": [
+            "Hurricane",
+            "Hyper Beam",
+            "Outrage",
+            "Dragon Claw",
+            "Super Power",
+            "Thunder Punch"
+        ]
+    },
+    {
+        "id": 178,
+        "name": "Xatu",
+        "form": "Normal",
+        "fm": [
+            "Air Slash",
+            "Feint Attack",
+            "Peck"
+        ],
+        "cm": [
+            "Ominous Wind",
+            "Futuresight",
+            "Aerial Ace",
+            "Psyshock"
+        ]
+    },
+    {
+        "id": 195,
+        "name": "Quagsire",
+        "form": "Normal",
+        "cm": [
+            "Sludge Bomb",
+            "Earthquake",
+            "Stone Edge",
+            "Acid Spray",
+            "Mud Bomb",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 199,
+        "name": "Slowking",
+        "form": "Galarian",
+        "cm": [
+            "Futuresight",
+            "Shadow Ball",
+            "Sludge Wave",
+            "Scald",
+            "Psyshock"
+        ]
+    },
+    {
+        "id": 230,
+        "name": "Kingdra",
+        "form": "Normal",
+        "cm": [
+            "Hydro Pump",
+            "Blizzard",
+            "Outrage",
+            "Octazooka",
+            "Swift"
+        ]
+    },
+    {
+        "id": 243,
+        "name": "Raikou",
+        "form": "Normal",
+        "cm": [
+            "Thunder",
+            "Thunderbolt",
+            "Wild Charge",
+            "Shadow Ball",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 243,
+        "name": "Raikou",
+        "form": "S",
+        "cm": [
+            "Thunder",
+            "Thunderbolt",
+            "Wild Charge",
+            "Shadow Ball",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 251,
+        "name": "Celebi",
+        "form": "Normal",
+        "cm": [
+            "Hyper Beam",
+            "Psychic",
+            "Dazzling Gleam",
+            "Seed Bomb",
+            "Leaf Storm",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 302,
+        "name": "Sableye",
+        "form": "Normal",
+        "cm": [
+            "Power Gem",
+            "Foul Play",
+            "Shadow Sneak",
+            "Dazzling Gleam",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 302,
+        "name": "Mega Sableye",
+        "form": "Mega",
+        "cm": [
+            "Power Gem",
+            "Foul Play",
+            "Shadow Sneak",
+            "Dazzling Gleam",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 302,
+        "name": "Sableye",
+        "form": "Costume_2020",
+        "cm": [
+            "Power Gem",
+            "Foul Play",
+            "Shadow Sneak",
+            "Dazzling Gleam",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 324,
+        "name": "Torkoal",
+        "form": "Normal",
+        "cm": [
+            "Overheat",
+            "Solar Beam",
+            "Earthquake",
+            "Flame Wheel"
+        ]
+    },
+    {
+        "id": 330,
+        "name": "Flygon",
+        "form": "Normal",
+        "cm": [
+            "Earthquake",
+            "Dragon Claw",
+            "Stone Edge",
+            "Boomburst",
+            "Scorching Sands",
+            "Sand Tomb"
+        ]
+    },
+    {
+        "id": 334,
+        "name": "Altaria",
+        "form": "Normal",
+        "cm": [
+            "Sky Attack",
+            "Dazzling Gleam",
+            "Dragon Pulse",
+            "Flamethrower"
+        ]
+    },
+    {
+        "id": 372,
+        "name": "Shelgon",
+        "form": "Normal",
+        "cm": [
+            "Flamethrower",
+            "Dragon Pulse",
+            "Twister",
+            "Crunch"
+        ]
+    },
+    {
+        "id": 373,
+        "name": "Salamence",
+        "form": "Normal",
+        "cm": [
+            "Fire Blast",
+            "Hydro Pump",
+            "Draco Meteor",
+            "Fly",
+            "Brutal Swing",
+            "Crunch"
+        ]
+    },
+    {
+        "id": 373,
+        "name": "Mega Salamence",
+        "form": "Mega",
+        "cm": [
+            "Fire Blast",
+            "Hydro Pump",
+            "Draco Meteor",
+            "Fly",
+            "Brutal Swing",
+            "Crunch"
+        ]
+    },
+    {
+        "id": 380,
+        "name": "Latias",
+        "form": "Normal",
+        "cm": [
+            "Psychic",
+            "Outrage",
+            "Thunder",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 380,
+        "name": "Mega Latias",
+        "form": "Mega",
+        "cm": [
+            "Psychic",
+            "Outrage",
+            "Thunder",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 380,
+        "name": "Latias",
+        "form": "S",
+        "cm": [
+            "Psychic",
+            "Outrage",
+            "Thunder",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 381,
+        "name": "Latios",
+        "form": "Normal",
+        "cm": [
+            "Psychic",
+            "Dragon Claw",
+            "Solar Beam",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 381,
+        "name": "Mega Latios",
+        "form": "Mega",
+        "cm": [
+            "Psychic",
+            "Dragon Claw",
+            "Solar Beam",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 381,
+        "name": "Latios",
+        "form": "S",
+        "cm": [
+            "Psychic",
+            "Dragon Claw",
+            "Solar Beam",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 385,
+        "name": "Jirachi",
+        "form": "Normal",
+        "cm": [
+            "Dazzling Gleam",
+            "Psychic",
+            "Doom Desire",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": 389,
+        "name": "Torterra",
+        "form": "Normal",
+        "fm": [
+            "Bite",
+            "Razor Leaf",
+            "Mud Slap"
+        ]
+    },
+    {
+        "id": 395,
+        "name": "Empoleon",
+        "form": "Normal",
+        "fm": [
+            "Waterfall",
+            "Metal Claw",
+            "Steel Wing",
+            "Metal Sound"
+        ]
+    },
+    {
+        "id": 417,
+        "name": "Pachirisu",
+        "form": "Normal",
+        "cm": [
+            "Thunder",
+            "Thunderbolt",
+            "Thunder Punch",
+            "Hyper Fang"
+        ]
+    },
+    {
+        "id": 445,
+        "name": "Garchomp",
+        "form": "Normal",
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Fire Blast",
+            "Sand Tomb",
+            "Breaking Swipe"
+        ]
+    },
+    {
+        "id": 445,
+        "name": "Mega Garchomp",
+        "form": "Mega",
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Fire Blast",
+            "Sand Tomb",
+            "Breaking Swipe"
+        ]
+    },
+    {
+        "id": 454,
+        "name": "Toxicroak",
+        "form": "Normal",
+        "cm": [
+            "Dynamic Punch",
+            "Mud Bomb",
+            "Sludge Bomb",
+            "Shadow Ball",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 468,
+        "name": "Togekiss",
+        "form": "Normal",
+        "fm": [
+            "Air Slash",
+            "Hidden Power",
+            "Charm",
+            "Peck"
+        ]
+    },
+    {
+        "id": 494,
+        "name": "Victini",
+        "form": "Normal",
+        "cm": [
+            "Overheat",
+            "Focus Blast",
+            "Psychic",
+            "V Create",
+            "Psyshock"
+        ]
+    },
+    {
+        "id": 553,
+        "name": "Krookodile",
+        "form": "Normal",
+        "cm": [
+            "Earthquake",
+            "Crunch",
+            "Outrage",
+            "Brick Break",
+            "Sand Tomb"
+        ]
+    },
+    {
+        "id": 558,
+        "name": "Crustle",
+        "form": "Normal",
+        "cm": [
+            "Rock Blast",
+            "X Scissor",
+            "Rock Slide",
+            "Rock Wrecker"
+        ]
+    },
+    {
+        "id": 619,
+        "name": "Mienfoo",
+        "form": "Normal",
+        "cm": [
+            "Brick Break",
+            "Low Sweep",
+            "Focus Blast",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 620,
+        "name": "Mienshao",
+        "form": "Normal",
+        "cm": [
+            "Brick Break",
+            "Grass Knot",
+            "Stone Edge",
+            "Blaze Kick",
+            "Brutal Swing",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 621,
+        "name": "Druddigon",
+        "form": "Normal",
+        "cm": [
+            "Dragon Claw",
+            "Night Slash",
+            "Hyper Beam",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": 655,
+        "name": "Delphox",
+        "form": "Normal",
+        "cm": [
+            "Psychic",
+            "Flamethrower",
+            "Flame Charge",
+            "Fire Blast",
+            "Mystical Fire",
+            "Psyshock"
+        ]
+    },
+    {
+        "id": 683,
+        "name": "Aromatisse",
+        "form": "Normal",
+        "cm": [
+            "Moonblast",
+            "Thunderbolt",
+            "Psychic",
+            "Draining Kiss",
+            "Psyshock"
+        ]
+    },
+    {
+        "id": 696,
+        "name": "Tyrunt",
+        "form": "Normal",
+        "cm": [
+            "Stomp",
+            "Ancient Power",
+            "Dragon Claw",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": 697,
+        "name": "Tyrantrum",
+        "form": "Normal",
+        "cm": [
+            "Crunch",
+            "Stone Edge",
+            "Outrage",
+            "Earthquake",
+            "Meteor Beam",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": 727,
+        "name": "Incineroar",
+        "form": "Normal",
+        "cm": [
+            "Fire Blast",
+            "Flame Charge",
+            "Dark Pulse",
+            "Blaze Kick",
+            "Darkest Lariat",
+            "Brutal Swing",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 766,
+        "name": "Passimian",
+        "form": "Normal",
+        "cm": [
+            "Brick Break",
+            "Close Combat",
+            "Super Power",
+            "Brutal Swing",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": 776,
+        "name": "Turtonator",
+        "form": "Normal",
+        "cm": [
+            "Overheat",
+            "Flamethrower",
+            "Dragon Pulse",
+            "Flash Cannon",
+            "Brutal Swing",
+            "Dragon Claw"
+        ]
+    },
+    {
+        "id": 783,
+        "name": "Hakamo-o",
+        "form": "Normal",
+        "cm": [
+            "Dragon Claw",
+            "Brick Break",
+            "Dragon Pulse",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": 784,
+        "name": "Kommo-o",
+        "form": "Normal",
+        "fm": [
+            "Poison Jab",
+            "Dragon Tail",
+            "Metal Sound"
+        ],
+        "cm": [
+            "Dragon Claw",
+            "Close Combat",
+            "Flamethrower",
+            "Boomburst",
+            "Brick Break",
+            "Upper Hand"
+        ]
+    },
+    {
         "id": 977,
         "name": "Dondozo",
         "form": "Normal",
