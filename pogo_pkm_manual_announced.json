@@ -770,5 +770,23 @@
             "Brick Break",
             "Upper Hand"
         ]
+    },
+    {
+        "id": 859,
+        "name": "Impidimp",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 860,
+        "name": "Morgrem",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 861,
+        "name": "Grimmsnarl",
+        "form": "Normal",
+        "released": true
     }
 ]
