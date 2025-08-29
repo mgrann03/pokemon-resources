@@ -13591,6 +13591,32 @@
         "raid_tier": 3
     },
     {
+        "id": 319,
+        "name": "Mega Sharpedo",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Waterfall"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Crunch",
+            "Poison Fang"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "types": [
+            "Water",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 289,
+            "baseDefense": 144
+        }
+    },
+    {
         "id": 320,
         "name": "Wailmer",
         "form": "Normal",
@@ -13696,6 +13722,34 @@
         "shadow": true,
         "released": true,
         "raid_tier": 3
+    },
+    {
+        "id": 323,
+        "name": "Mega Camerupt",
+        "form": "Mega",
+        "fm": [
+            "Ember",
+            "Rock Smash",
+            "Incinerate"
+        ],
+        "cm": [
+            "Earthquake",
+            "Overheat",
+            "Solar Beam",
+            "Earth Power"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "types": [
+            "Fire",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 253,
+            "baseDefense": 183
+        }
     },
     {
         "id": 324,
