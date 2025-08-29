@@ -351,6 +351,12 @@
         ]
     },
     {
+        "id": 319,
+        "name": "Mega Sharpedo",
+        "form": "Mega",
+        "released": true
+    },
+    {
         "id": 324,
         "name": "Torkoal",
         "form": "Normal",

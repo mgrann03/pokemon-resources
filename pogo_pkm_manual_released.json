@@ -24,6 +24,12 @@
         "released": true
     },
     {
+        "id": 319,
+        "name": "Mega Sharpedo",
+        "form": "Mega",
+        "released": false
+    },
+    {
         "id": 479,
         "name": "Rotom",
         "form": "Fan",

@@ -13604,7 +13604,7 @@
             "Poison Fang"
         ],
         "shadow": false,
-        "released": true,
+        "released": false,
         "raid_tier": 4,
         "types": [
             "Water",
