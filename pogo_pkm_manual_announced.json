@@ -585,6 +585,12 @@
         ]
     },
     {
+        "id": 491,
+        "name": "Darkrai",
+        "form": "Normal",
+        "shadow": true
+    },
+    {
         "id": 494,
         "name": "Victini",
         "form": "Normal",
