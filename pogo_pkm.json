@@ -96,7 +96,8 @@
         "cm": [
             "Sludge Bomb",
             "Petal Blizzard",
-            "Solar Beam"
+            "Solar Beam",
+            "Sludge"
         ],
         "elite_cm": [
             "Frenzy Plant"
@@ -116,7 +117,8 @@
         "cm": [
             "Sludge Bomb",
             "Petal Blizzard",
-            "Solar Beam"
+            "Solar Beam",
+            "Sludge"
         ],
         "shadow": false,
         "released": true,
@@ -154,7 +156,8 @@
         "cm": [
             "Sludge Bomb",
             "Petal Blizzard",
-            "Solar Beam"
+            "Solar Beam",
+            "Sludge"
         ],
         "elite_cm": [
             "Frenzy Plant"
@@ -259,7 +262,8 @@
         "cm": [
             "Fire Blast",
             "Dragon Claw",
-            "Overheat"
+            "Overheat",
+            "Air Cutter"
         ],
         "elite_fm": [
             "Ember",
@@ -285,7 +289,8 @@
         "cm": [
             "Fire Blast",
             "Dragon Claw",
-            "Overheat"
+            "Overheat",
+            "Air Cutter"
         ],
         "shadow": false,
         "released": true,
@@ -320,7 +325,8 @@
         "cm": [
             "Fire Blast",
             "Dragon Claw",
-            "Overheat"
+            "Overheat",
+            "Air Cutter"
         ],
         "shadow": false,
         "released": true,
@@ -364,7 +370,8 @@
         "cm": [
             "Fire Blast",
             "Dragon Claw",
-            "Overheat"
+            "Overheat",
+            "Air Cutter"
         ],
         "elite_fm": [
             "Ember",
@@ -997,7 +1004,8 @@
             "Aerial Ace",
             "Drill Run",
             "Sky Attack",
-            "Fly"
+            "Fly",
+            "Drill Peck"
         ],
         "elite_cm": [
             "Twister"
@@ -2507,7 +2515,8 @@
             "Wild Charge",
             "Grass Knot",
             "Trailblaze",
-            "Surf"
+            "Surf",
+            "Psyshock"
         ],
         "shadow": false,
         "released": true,
@@ -2718,7 +2727,8 @@
         "fm": [
             "Poison Jab",
             "Bite",
-            "Poison Sting"
+            "Poison Sting",
+            "Mud Slap"
         ],
         "cm": [
             "Earthquake",
@@ -3585,6 +3595,30 @@
         "shadow": true,
         "released": true,
         "raid_tier": 1
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "form": "Swim_2025",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 122,
+            "baseDefense": 95
+        },
+        "fm": [
+            "Water Gun",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Psybeam",
+            "Aqua Tail",
+            "Cross Chop"
+        ],
+        "shadow": true,
+        "released": true
     },
     {
         "id": 55,
@@ -4602,7 +4636,8 @@
             "Water Pulse",
             "Psychic",
             "Ice Beam",
-            "Scald"
+            "Scald",
+            "Drain Punch"
         ],
         "elite_cm": [
             "Surf"
@@ -4623,7 +4658,8 @@
             "Water Pulse",
             "Psychic",
             "Ice Beam",
-            "Scald"
+            "Scald",
+            "Drain Punch"
         ],
         "shadow": false,
         "released": true,
@@ -4662,7 +4698,8 @@
             "Water Pulse",
             "Psychic",
             "Ice Beam",
-            "Scald"
+            "Scald",
+            "Drain Punch"
         ],
         "elite_cm": [
             "Surf"
@@ -4693,7 +4730,8 @@
             "Psychic",
             "Sludge Bomb",
             "Scald",
-            "Brutal Swing"
+            "Brutal Swing",
+            "Drain Punch"
         ],
         "elite_cm": [
             "Surf"
@@ -4857,12 +4895,14 @@
         },
         "fm": [
             "Feint Attack",
-            "Steel Wing"
+            "Steel Wing",
+            "Peck"
         ],
         "cm": [
             "Drill Peck",
             "Aerial Ace",
-            "Brave Bird"
+            "Brave Bird",
+            "Trailblaze"
         ],
         "elite_cm": [
             "Air Cutter"
@@ -5186,7 +5226,8 @@
         "cm": [
             "Shadow Ball",
             "Focus Blast",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Drain Punch"
         ],
         "elite_fm": [
             "Lick"
@@ -5212,7 +5253,8 @@
         "cm": [
             "Shadow Ball",
             "Focus Blast",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Drain Punch"
         ],
         "shadow": false,
         "released": true,
@@ -5257,7 +5299,8 @@
         "cm": [
             "Shadow Ball",
             "Focus Blast",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Drain Punch"
         ],
         "elite_fm": [
             "Lick"
@@ -7443,7 +7486,8 @@
             "Hyper Beam",
             "Outrage",
             "Dragon Claw",
-            "Super Power"
+            "Super Power",
+            "Thunder Punch"
         ],
         "elite_cm": [
             "Draco Meteor",
@@ -8320,12 +8364,14 @@
         },
         "fm": [
             "Air Slash",
-            "Feint Attack"
+            "Feint Attack",
+            "Peck"
         ],
         "cm": [
             "Ominous Wind",
             "Futuresight",
-            "Aerial Ace"
+            "Aerial Ace",
+            "Psyshock"
         ],
         "shadow": true,
         "released": true,
@@ -8842,7 +8888,8 @@
             "Earthquake",
             "Stone Edge",
             "Acid Spray",
-            "Mud Bomb"
+            "Mud Bomb",
+            "Drain Punch"
         ],
         "elite_cm": [
             "Aqua Tail"
@@ -9072,7 +9119,8 @@
             "Futuresight",
             "Shadow Ball",
             "Sludge Wave",
-            "Scald"
+            "Scald",
+            "Psyshock"
         ],
         "elite_cm": [
             "Surf"
@@ -10704,7 +10752,8 @@
             "Hydro Pump",
             "Blizzard",
             "Outrage",
-            "Octazooka"
+            "Octazooka",
+            "Swift"
         ],
         "elite_fm": [
             "Water Gun"
@@ -11041,7 +11090,8 @@
             "Thunder",
             "Thunderbolt",
             "Wild Charge",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Aura Sphere"
         ],
         "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -11068,7 +11118,8 @@
             "Thunder",
             "Thunderbolt",
             "Wild Charge",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Aura Sphere"
         ],
         "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -11453,7 +11504,8 @@
             "Psychic",
             "Dazzling Gleam",
             "Seed Bomb",
-            "Leaf Storm"
+            "Leaf Storm",
+            "Aura Sphere"
         ],
         "elite_fm": [
             "Magical Leaf"
@@ -12962,7 +13014,8 @@
             "Power Gem",
             "Foul Play",
             "Shadow Sneak",
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Drain Punch"
         ],
         "shadow": true,
         "released": true,
@@ -12980,7 +13033,8 @@
             "Power Gem",
             "Foul Play",
             "Shadow Sneak",
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Drain Punch"
         ],
         "shadow": false,
         "released": true,
@@ -13016,7 +13070,8 @@
             "Power Gem",
             "Foul Play",
             "Shadow Sneak",
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Drain Punch"
         ],
         "shadow": true,
         "released": true
@@ -13770,7 +13825,8 @@
         "cm": [
             "Overheat",
             "Solar Beam",
-            "Earthquake"
+            "Earthquake",
+            "Flame Wheel"
         ],
         "shadow": false,
         "released": true
@@ -14410,7 +14466,8 @@
             "Dragon Claw",
             "Stone Edge",
             "Boomburst",
-            "Scorching Sands"
+            "Scorching Sands",
+            "Sand Tomb"
         ],
         "elite_cm": [
             "Earth Power"
@@ -14522,7 +14579,8 @@
         "cm": [
             "Sky Attack",
             "Dazzling Gleam",
-            "Dragon Pulse"
+            "Dragon Pulse",
+            "Flamethrower"
         ],
         "elite_cm": [
             "Moonblast"
@@ -14541,7 +14599,8 @@
         "cm": [
             "Sky Attack",
             "Dazzling Gleam",
-            "Dragon Pulse"
+            "Dragon Pulse",
+            "Flamethrower"
         ],
         "shadow": false,
         "released": true,
@@ -15693,7 +15752,8 @@
         "cm": [
             "Flamethrower",
             "Dragon Pulse",
-            "Twister"
+            "Twister",
+            "Crunch"
         ],
         "shadow": true,
         "released": true,
@@ -15721,7 +15781,9 @@
             "Fire Blast",
             "Hydro Pump",
             "Draco Meteor",
-            "Fly"
+            "Fly",
+            "Brutal Swing",
+            "Crunch"
         ],
         "elite_cm": [
             "Outrage"
@@ -15743,7 +15805,9 @@
             "Fire Blast",
             "Hydro Pump",
             "Draco Meteor",
-            "Fly"
+            "Fly",
+            "Brutal Swing",
+            "Crunch"
         ],
         "shadow": false,
         "released": true,
@@ -15840,6 +15904,36 @@
         "shadow": true,
         "released": true,
         "raid_tier": 3
+    },
+    {
+        "id": 376,
+        "name": "Mega Metagross",
+        "form": "Mega",
+        "fm": [
+            "Bullet Punch",
+            "Zen Headbutt",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Psychic",
+            "Flash Cannon",
+            "Earthquake"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "elite_cm": [
+            "Meteor Mash"
+        ],
+        "types": [
+            "Steel",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 300,
+            "baseDefense": 289
+        }
     },
     {
         "id": 377,
@@ -15952,7 +16046,8 @@
         "cm": [
             "Psychic",
             "Outrage",
-            "Thunder"
+            "Thunder",
+            "Aura Sphere"
         ],
         "elite_cm": [
             "Mist Ball"
@@ -15974,7 +16069,8 @@
         "cm": [
             "Psychic",
             "Outrage",
-            "Thunder"
+            "Thunder",
+            "Aura Sphere"
         ],
         "shadow": false,
         "released": true,
@@ -16014,7 +16110,8 @@
         "cm": [
             "Psychic",
             "Outrage",
-            "Thunder"
+            "Thunder",
+            "Aura Sphere"
         ],
         "elite_cm": [
             "Mist Ball"
@@ -16043,7 +16140,8 @@
         "cm": [
             "Psychic",
             "Dragon Claw",
-            "Solar Beam"
+            "Solar Beam",
+            "Aura Sphere"
         ],
         "elite_cm": [
             "Luster Purge"
@@ -16064,7 +16162,8 @@
         "cm": [
             "Psychic",
             "Dragon Claw",
-            "Solar Beam"
+            "Solar Beam",
+            "Aura Sphere"
         ],
         "shadow": false,
         "released": true,
@@ -16103,7 +16202,8 @@
         "cm": [
             "Psychic",
             "Dragon Claw",
-            "Solar Beam"
+            "Solar Beam",
+            "Aura Sphere"
         ],
         "elite_cm": [
             "Luster Purge"
@@ -16315,7 +16415,8 @@
         "cm": [
             "Dazzling Gleam",
             "Psychic",
-            "Doom Desire"
+            "Doom Desire",
+            "Aura Sphere"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
@@ -16490,7 +16591,8 @@
         },
         "fm": [
             "Bite",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Mud Slap"
         ],
         "cm": [
             "Stone Edge",
@@ -16651,7 +16753,8 @@
         "fm": [
             "Waterfall",
             "Metal Claw",
-            "Steel Wing"
+            "Steel Wing",
+            "Metal Sound"
         ],
         "cm": [
             "Hydro Pump",
@@ -17376,7 +17479,8 @@
         "cm": [
             "Thunder",
             "Thunderbolt",
-            "Thunder Punch"
+            "Thunder Punch",
+            "Hyper Fang"
         ],
         "shadow": false,
         "released": true
@@ -18267,7 +18371,8 @@
             "Outrage",
             "Earthquake",
             "Fire Blast",
-            "Sand Tomb"
+            "Sand Tomb",
+            "Breaking Swipe"
         ],
         "elite_cm": [
             "Earth Power"
@@ -18288,7 +18393,8 @@
             "Outrage",
             "Earthquake",
             "Fire Blast",
-            "Sand Tomb"
+            "Sand Tomb",
+            "Breaking Swipe"
         ],
         "shadow": false,
         "released": true,
@@ -18584,7 +18690,8 @@
             "Dynamic Punch",
             "Mud Bomb",
             "Sludge Bomb",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Drain Punch"
         ],
         "shadow": true,
         "released": true,
@@ -18987,7 +19094,8 @@
         "fm": [
             "Air Slash",
             "Hidden Power",
-            "Charm"
+            "Charm",
+            "Peck"
         ],
         "cm": [
             "Ancient Power",
@@ -20491,7 +20599,8 @@
             "Overheat",
             "Focus Blast",
             "Psychic",
-            "V Create"
+            "V Create",
+            "Psyshock"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
@@ -22155,7 +22264,8 @@
             "Earthquake",
             "Crunch",
             "Outrage",
-            "Brick Break"
+            "Brick Break",
+            "Sand Tomb"
         ],
         "shadow": false,
         "released": true
@@ -22408,7 +22518,8 @@
         "cm": [
             "Rock Blast",
             "X Scissor",
-            "Rock Slide"
+            "Rock Slide",
+            "Rock Wrecker"
         ],
         "shadow": true,
         "released": true,
@@ -24402,7 +24513,8 @@
         "cm": [
             "Brick Break",
             "Low Sweep",
-            "Focus Blast"
+            "Focus Blast",
+            "Drain Punch"
         ],
         "elite_cm": [
             "High Jump Kick"
@@ -24433,7 +24545,8 @@
             "Grass Knot",
             "Stone Edge",
             "Blaze Kick",
-            "Brutal Swing"
+            "Brutal Swing",
+            "Drain Punch"
         ],
         "shadow": false,
         "released": true
@@ -24457,7 +24570,8 @@
         "cm": [
             "Dragon Claw",
             "Night Slash",
-            "Hyper Beam"
+            "Hyper Beam",
+            "Rock Tomb"
         ],
         "shadow": false,
         "released": true,
@@ -25884,7 +25998,8 @@
             "Flamethrower",
             "Flame Charge",
             "Fire Blast",
-            "Mystical Fire"
+            "Mystical Fire",
+            "Psyshock"
         ],
         "elite_cm": [
             "Blast Burn"
@@ -28729,7 +28844,8 @@
             "Moonblast",
             "Thunderbolt",
             "Psychic",
-            "Draining Kiss"
+            "Draining Kiss",
+            "Psyshock"
         ],
         "shadow": false,
         "released": true
@@ -29070,7 +29186,8 @@
         "cm": [
             "Stomp",
             "Ancient Power",
-            "Dragon Claw"
+            "Dragon Claw",
+            "Rock Tomb"
         ],
         "shadow": true,
         "released": true,
@@ -29099,7 +29216,8 @@
             "Stone Edge",
             "Outrage",
             "Earthquake",
-            "Meteor Beam"
+            "Meteor Beam",
+            "Rock Tomb"
         ],
         "shadow": true,
         "released": true
@@ -30400,7 +30518,9 @@
             "Flame Charge",
             "Dark Pulse",
             "Blaze Kick",
-            "Darkest Lariat"
+            "Darkest Lariat",
+            "Brutal Swing",
+            "Drain Punch"
         ],
         "elite_cm": [
             "Blast Burn"
@@ -31668,7 +31788,8 @@
             "Brick Break",
             "Close Combat",
             "Super Power",
-            "Brutal Swing"
+            "Brutal Swing",
+            "Drain Punch"
         ],
         "shadow": false,
         "released": true,
@@ -32559,7 +32680,9 @@
             "Overheat",
             "Flamethrower",
             "Dragon Pulse",
-            "Flash Cannon"
+            "Flash Cannon",
+            "Brutal Swing",
+            "Dragon Claw"
         ],
         "shadow": false,
         "released": true,
@@ -32793,7 +32916,8 @@
         "cm": [
             "Dragon Claw",
             "Brick Break",
-            "Dragon Pulse"
+            "Dragon Pulse",
+            "Rock Tomb"
         ],
         "shadow": false,
         "released": true
@@ -32813,14 +32937,16 @@
         },
         "fm": [
             "Poison Jab",
-            "Dragon Tail"
+            "Dragon Tail",
+            "Metal Sound"
         ],
         "cm": [
             "Dragon Claw",
             "Close Combat",
             "Flamethrower",
             "Boomburst",
-            "Brick Break"
+            "Brick Break",
+            "Upper Hand"
         ],
         "elite_cm": [
             "Clanging Scales"
@@ -33960,7 +34086,8 @@
             "Payback"
         ],
         "elite_cm": [
-            "Iron Head"
+            "Iron Head",
+            "Air Cutter"
         ],
         "shadow": false,
         "released": true
