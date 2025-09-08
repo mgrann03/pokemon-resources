@@ -13659,7 +13659,7 @@
             "Poison Fang"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 4,
         "types": [
             "Water",
@@ -13794,7 +13794,7 @@
             "Earth Power"
         ],
         "shadow": false,
-        "released": true,
+        "released": false,
         "raid_tier": 4,
         "types": [
             "Fire",
@@ -15920,7 +15920,7 @@
             "Earthquake"
         ],
         "shadow": false,
-        "released": true,
+        "released": false,
         "raid_tier": 4,
         "elite_cm": [
             "Meteor Mash"

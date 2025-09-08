@@ -27,6 +27,18 @@
         "id": 319,
         "name": "Mega Sharpedo",
         "form": "Mega",
+        "released": true
+    },
+    {
+        "id": 323,
+        "name": "Mega Camerupt",
+        "form": "Mega",
+        "released": false
+    },
+    {
+        "id": 376,
+        "name": "Mega Metagross",
+        "form": "Mega",
         "released": false
     },
     {
