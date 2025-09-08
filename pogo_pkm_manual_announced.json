@@ -100,5 +100,11 @@
         "name": "Indeedee",
         "form": "Male",
         "released": true
+    },
+    {
+        "id": 982,
+        "name": "Dudunsparce",
+        "form": "Normal",
+        "released": true
     }
 ]
