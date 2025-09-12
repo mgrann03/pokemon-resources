@@ -15337,7 +15337,6 @@
         "cm": [
             "Energy Ball",
             "Shadow Ball",
-            "Psyshock",
             "Psyshock"
         ],
         "shadow": false,
@@ -39803,5 +39802,421 @@
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false,
         "raid_tier": 5
+    },
+    {
+        "id": 1009,
+        "name": "Walking Wake",
+        "form": "Normal",
+        "types": [
+            "Water",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 203,
+            "baseAttack": 233,
+            "baseDefense": 171
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1010,
+        "name": "Iron Leaves",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 189,
+            "baseAttack": 236,
+            "baseDefense": 194
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1011,
+        "name": "Dipplin",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 173,
+            "baseDefense": 184
+        },
+        "fm": [
+            "Bullet Seed",
+            "Dragon Tail",
+            "Rollout"
+        ],
+        "cm": [
+            "Dragon Pulse",
+            "Outrage",
+            "Seed Bomb"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 1012,
+        "name": "Poltchageist",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 134,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Astonish",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Energy Ball",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 1013,
+        "name": "Sinistcha",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 174,
+            "baseAttack": 225,
+            "baseDefense": 191
+        },
+        "fm": [
+            "Astonish",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Energy Ball",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 1014,
+        "name": "Okidogi",
+        "form": "Normal",
+        "types": [
+            "Poison",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 220,
+            "baseDefense": 191
+        },
+        "fm": [
+            "Poison Jab",
+            "Force Palm"
+        ],
+        "cm": [
+            "Super Power",
+            "Upper Hand",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1015,
+        "name": "Munkidori",
+        "form": "Normal",
+        "types": [
+            "Poison",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 238,
+            "baseDefense": 157
+        },
+        "fm": [
+            "Poison Jab",
+            "Confusion"
+        ],
+        "cm": [
+            "Futuresight",
+            "Psychic",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1016,
+        "name": "Fezandipiti",
+        "form": "Normal",
+        "types": [
+            "Poison",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 169,
+            "baseDefense": 208
+        },
+        "fm": [
+            "Poison Jab",
+            "Charm"
+        ],
+        "cm": [
+            "Moonblast",
+            "Disarming Voice",
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1017,
+        "name": "Ogerpon",
+        "form": "Normal",
+        "types": [
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 173,
+            "baseAttack": 219,
+            "baseDefense": 178
+        },
+        "fm": [
+            "Vine Whip",
+            "Magical Leaf",
+            "Double Kick"
+        ],
+        "cm": [
+            "Power Whip",
+            "Grass Knot",
+            "Play Rough"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1018,
+        "name": "Archaludon",
+        "form": "Normal",
+        "types": [
+            "Steel",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 250,
+            "baseDefense": 215
+        },
+        "fm": [
+            "Dragon Tail",
+            "Metal Claw"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Dragon Claw",
+            "Hyper Beam"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 1019,
+        "name": "Hydrapple",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 235,
+            "baseAttack": 216,
+            "baseDefense": 186
+        },
+        "fm": [
+            "Bullet Seed",
+            "Dragon Tail",
+            "Rollout"
+        ],
+        "cm": [
+            "Dragon Pulse",
+            "Outrage",
+            "Seed Bomb"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 1020,
+        "name": "Gouging Fire",
+        "form": "Normal",
+        "types": [
+            "Fire",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 213,
+            "baseAttack": 205,
+            "baseDefense": 208
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1021,
+        "name": "Raging Bolt",
+        "form": "Normal",
+        "types": [
+            "Electric",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 245,
+            "baseAttack": 235,
+            "baseDefense": 165
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1022,
+        "name": "Iron Boulder",
+        "form": "Normal",
+        "types": [
+            "Rock",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 189,
+            "baseAttack": 227,
+            "baseDefense": 195
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1023,
+        "name": "Iron Crown",
+        "form": "Normal",
+        "types": [
+            "Steel",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 189,
+            "baseAttack": 221,
+            "baseDefense": 200
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1024,
+        "name": "Terapagos",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 126,
+            "baseDefense": 165
+        },
+        "fm": [
+            "Take Down"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 1025,
+        "name": "Pecharunt",
+        "form": "Normal",
+        "types": [
+            "Poison",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 164,
+            "baseDefense": 248
+        },
+        "fm": [
+            "Astonish"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Gunk Shot",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_MYTHIC",
+        "released": true
     }
 ]

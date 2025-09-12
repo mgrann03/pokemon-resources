@@ -262,5 +262,90 @@
         "name": "Runerigus",
         "form": "Normal",
         "shadow": false
+    },
+
+    {
+        "id": 211,
+        "name": "Qwilfish",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 211,
+        "name": "Qwilfish",
+        "form": "Hisuian",
+        "shadow": false
+    },
+    {
+        "id": 333,
+        "name": "Swablu",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 334,
+        "name": "Altaria",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 343,
+        "name": "Baltoy",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 344,
+        "name": "Claydol",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 491,
+        "name": "Darkrai",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 633,
+        "name": "Deino",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 634,
+        "name": "Zweilous",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 635,
+        "name": "Hydreigon",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 641,
+        "name": "Tornadus",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 641,
+        "name": "Tornadus",
+        "form": "Incarnate",
+        "shadow": false
+    },
+    {
+        "id": 641,
+        "name": "Tornadus",
+        "form": "Therian",
+        "shadow": false
+    },
+    {
+        "id": 904,
+        "name": "Overqwil",
+        "form": "Normal",
+        "shadow": false
     }
 ]
