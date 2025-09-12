@@ -628,5 +628,107 @@
         "name": "Kingambit",
         "form": "Normal",
         "released": true
+    },
+    {
+        "id": 1009,
+        "name": "Walking Wake",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1010,
+        "name": "Iron Leaves",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1011,
+        "name": "Dipplin",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1012,
+        "name": "Poltchageist",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1013,
+        "name": "Sinistcha",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1014,
+        "name": "Okidogi",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1015,
+        "name": "Munkidori",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1016,
+        "name": "Fezandipiti",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1017,
+        "name": "Ogerpon",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1018,
+        "name": "Archaludon",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1019,
+        "name": "Hydrapple",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1020,
+        "name": "Gouging Fire",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1021,
+        "name": "Raging Bolt",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1022,
+        "name": "Iron Boulder",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1023,
+        "name": "Iron Crown",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1024,
+        "name": "Terapagos",
+        "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1025,
+        "name": "Pecharunt",
+        "form": "Normal",
+        "released": false
     }
 ]

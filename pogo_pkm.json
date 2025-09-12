@@ -39824,7 +39824,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1010,
@@ -39847,7 +39847,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1011,
@@ -39873,7 +39873,7 @@
             "Seed Bomb"
         ],
         "shadow": false,
-        "released": true
+        "released": false
     },
     {
         "id": 1012,
@@ -39898,7 +39898,7 @@
             "Poltergeist"
         ],
         "shadow": false,
-        "released": true
+        "released": false
     },
     {
         "id": 1013,
@@ -39923,7 +39923,7 @@
             "Poltergeist"
         ],
         "shadow": false,
-        "released": true
+        "released": false
     },
     {
         "id": 1014,
@@ -39949,7 +39949,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1015,
@@ -39975,7 +39975,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1016,
@@ -40001,7 +40001,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1017,
@@ -40027,7 +40027,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1018,
@@ -40052,7 +40052,7 @@
             "Hyper Beam"
         ],
         "shadow": false,
-        "released": true
+        "released": false
     },
     {
         "id": 1019,
@@ -40078,7 +40078,7 @@
             "Seed Bomb"
         ],
         "shadow": false,
-        "released": true
+        "released": false
     },
     {
         "id": 1020,
@@ -40101,7 +40101,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1021,
@@ -40124,7 +40124,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1022,
@@ -40147,7 +40147,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1023,
@@ -40170,7 +40170,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1024,
@@ -40192,7 +40192,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": false
     },
     {
         "id": 1025,
@@ -40217,6 +40217,6 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": true
+        "released": false
     }
 ]
