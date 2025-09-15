@@ -1,68 +1,8 @@
 [
     {
-        "id": 211,
-        "name": "Qwilfish",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 333,
-        "name": "Swablu",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 334,
-        "name": "Altaria",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 343,
-        "name": "Baltoy",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 344,
-        "name": "Claydol",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
         "id": 491,
         "name": "Darkrai",
         "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 633,
-        "name": "Deino",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 634,
-        "name": "Zweilous",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 635,
-        "name": "Hydreigon",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 641,
-        "name": "Tornadus",
-        "form": "Normal",
-        "shadow": true
-    },
-    {
-        "id": 641,
-        "name": "Tornadus",
-        "form": "Incarnate",
         "shadow": true
     },
     {
@@ -81,24 +21,6 @@
         "id": 861,
         "name": "Grimmsnarl",
         "form": "Normal",
-        "released": true
-    },
-    {
-        "id": 876,
-        "name": "Indeedee",
-        "form": "Normal",
-        "released": true
-    },
-    {
-        "id": 876,
-        "name": "Indeedee",
-        "form": "Female",
-        "released": true
-    },
-    {
-        "id": 876,
-        "name": "Indeedee",
-        "form": "Male",
         "released": true
     },
     {

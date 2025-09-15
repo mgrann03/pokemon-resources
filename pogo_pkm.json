@@ -10061,7 +10061,7 @@
             "Fell Stinger",
             "Scald"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -14555,7 +14555,7 @@
             "Aerial Ace",
             "Ice Beam"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -14585,7 +14585,7 @@
         "elite_cm": [
             "Moonblast"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -14853,7 +14853,7 @@
             "Psybeam",
             "Dig"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -14885,7 +14885,7 @@
             "Rock Tomb",
             "Scorching Sands"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -24913,7 +24913,7 @@
             "Crunch",
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -24939,7 +24939,7 @@
             "Dark Pulse",
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -24968,7 +24968,7 @@
         "elite_cm": [
             "Brutal Swing"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -25137,7 +25137,7 @@
             "Hyper Beam",
             "Hurricane"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -25164,7 +25164,7 @@
             "Hyper Beam",
             "Hurricane"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -35616,7 +35616,7 @@
             "Shadow Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 876,
@@ -35640,7 +35640,7 @@
             "Energy Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 876,
@@ -35664,7 +35664,7 @@
             "Shadow Ball"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 877,

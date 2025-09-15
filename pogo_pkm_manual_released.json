@@ -408,6 +408,24 @@
         "released": true
     },
     {
+        "id": 876,
+        "name": "Indeedee",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 876,
+        "name": "Indeedee",
+        "form": "Female",
+        "released": true
+    },
+    {
+        "id": 876,
+        "name": "Indeedee",
+        "form": "Male",
+        "released": true
+    },
+    {
         "id": 877,
         "name": "Morpeko",
         "form": "Normal",
