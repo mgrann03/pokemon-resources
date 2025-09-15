@@ -6,6 +6,16 @@
         "shadow": true
     },
     {
+        "id": 579,
+        "name": "Reuniclus",
+        "form": "Normal",
+        "fm": [
+            "Hidden Power",
+            "Zen Headbutt",
+            "Charm"
+        ]
+    },
+    {
         "id": 859,
         "name": "Impidimp",
         "form": "Normal",
