@@ -1,5 +1,17 @@
 [
     {
+        "id": 323,
+        "name": "Mega Camerupt",
+        "form": "Mega",
+        "released": true
+    },
+    {
+        "id": 376,
+        "name": "Mega Metagross",
+        "form": "Mega",
+        "released": true
+    },
+    {
         "id": 491,
         "name": "Darkrai",
         "form": "Normal",
@@ -30,6 +42,12 @@
     {
         "id": 861,
         "name": "Grimmsnarl",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 884,
+        "name": "Duraludon",
         "form": "Normal",
         "released": true
     },
