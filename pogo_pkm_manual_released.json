@@ -24,24 +24,6 @@
         "released": true
     },
     {
-        "id": 319,
-        "name": "Mega Sharpedo",
-        "form": "Mega",
-        "released": true
-    },
-    {
-        "id": 323,
-        "name": "Mega Camerupt",
-        "form": "Mega",
-        "released": false
-    },
-    {
-        "id": 376,
-        "name": "Mega Metagross",
-        "form": "Mega",
-        "released": false
-    },
-    {
         "id": 479,
         "name": "Rotom",
         "form": "Fan",
@@ -672,9 +654,33 @@
         "released": false
     },
     {
+        "id": 1012,
+        "name": "Poltchageist",
+        "form": "Artisan",
+        "released": false
+    },
+    {
+        "id": 1012,
+        "name": "Poltchageist",
+        "form": "Counterfeit",
+        "released": false
+    },
+    {
         "id": 1013,
         "name": "Sinistcha",
         "form": "Normal",
+        "released": false
+    },
+    {
+        "id": 1013,
+        "name": "Sinistcha",
+        "form": "Masterpiece",
+        "released": false
+    },
+    {
+        "id": 1013,
+        "name": "Sinistcha",
+        "form": "Unremarkable",
         "released": false
     },
     {

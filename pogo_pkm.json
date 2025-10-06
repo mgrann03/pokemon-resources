@@ -13794,7 +13794,7 @@
             "Earth Power"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 4,
         "types": [
             "Fire",
@@ -15897,6 +15897,9 @@
             "Flash Cannon",
             "Earthquake"
         ],
+        "elite_fm": [
+            "Shadow Claw"
+        ],
         "elite_cm": [
             "Meteor Mash"
         ],
@@ -15919,8 +15922,11 @@
             "Earthquake"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 4,
+        "elite_fm": [
+            "Shadow Claw"
+        ],
         "elite_cm": [
             "Meteor Mash"
         ],
@@ -20758,8 +20764,7 @@
             "Blast Burn"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 501,
@@ -24181,8 +24186,7 @@
             "Poltergeist"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 610,
@@ -28716,7 +28720,8 @@
             "Gyro Ball"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 1
     },
     {
         "id": 680,
@@ -31653,6 +31658,35 @@
         "released": true
     },
     {
+        "id": 760,
+        "name": "Bewear",
+        "form": "Wildarea_2025",
+        "types": [
+            "Normal",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 260,
+            "baseAttack": 226,
+            "baseDefense": 141
+        },
+        "fm": [
+            "Tackle",
+            "Low Kick",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "Super Power",
+            "Payback",
+            "Stomp"
+        ],
+        "elite_cm": [
+            "Drain Punch"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
         "id": 761,
         "name": "Bounsweet",
         "form": "Normal",
@@ -31963,7 +31997,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -31990,7 +32025,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32017,7 +32053,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32044,7 +32081,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32071,7 +32109,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32098,7 +32137,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32125,7 +32165,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32152,7 +32193,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32179,7 +32221,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32206,7 +32249,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32233,7 +32277,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32260,7 +32305,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32287,7 +32333,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32314,7 +32361,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32341,7 +32389,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32368,7 +32417,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32395,7 +32445,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32422,7 +32473,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 773,
@@ -32449,7 +32501,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 774,
@@ -33165,8 +33218,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true,
-        "raid_tier": 5
+        "released": true
     },
     {
         "id": 792,
@@ -33194,8 +33246,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true,
-        "raid_tier": 5
+        "released": true
     },
     {
         "id": 793,
@@ -39842,7 +39893,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1010,
@@ -39865,7 +39917,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1011,
@@ -39919,9 +39972,109 @@
         "released": false
     },
     {
+        "id": 1012,
+        "name": "Poltchageist",
+        "form": "Artisan",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 134,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Astonish",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Energy Ball",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
+        "id": 1012,
+        "name": "Poltchageist",
+        "form": "Counterfeit",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 134,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Astonish",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Energy Ball",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
         "id": 1013,
         "name": "Sinistcha",
         "form": "Normal",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 174,
+            "baseAttack": 225,
+            "baseDefense": 191
+        },
+        "fm": [
+            "Astonish",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Energy Ball",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
+        "id": 1013,
+        "name": "Sinistcha",
+        "form": "Masterpiece",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 174,
+            "baseAttack": 225,
+            "baseDefense": 191
+        },
+        "fm": [
+            "Astonish",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Shadow Ball",
+            "Energy Ball",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
+        "id": 1013,
+        "name": "Sinistcha",
+        "form": "Unremarkable",
         "types": [
             "Grass",
             "Ghost"
@@ -39967,7 +40120,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1015,
@@ -39993,7 +40147,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1016,
@@ -40019,7 +40174,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1017,
@@ -40045,7 +40201,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1018,
@@ -40119,7 +40276,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1021,
@@ -40142,7 +40300,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1022,
@@ -40165,7 +40324,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1023,
@@ -40188,7 +40348,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1024,
@@ -40210,7 +40371,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     },
     {
         "id": 1025,
@@ -40235,6 +40397,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": false
+        "released": false,
+        "raid_tier": 5
     }
 ]
