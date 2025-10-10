@@ -16,6 +16,15 @@
         ]
     },
     {
+        "id": 647,
+        "name": "Keldeo",
+        "form": "Resolute",
+        "elite_cm": [
+            "Secret Sword"
+        ],
+        "released": true
+    },
+    {
         "id": 708,
         "name": "Phantump",
         "form": "Normal",
