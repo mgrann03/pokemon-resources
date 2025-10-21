@@ -3,7 +3,8 @@
         "id": 491,
         "name": "Darkrai",
         "form": "Normal",
-        "shadow": true
+        "shadow": true,
+        "eff_date": "2025-11-07"
     },
     {
         "id": 647,
@@ -18,19 +19,36 @@
         "id": 859,
         "name": "Impidimp",
         "form": "Normal",
-        "released": true
+        "released": true,
+        "eff_date": "2025-11-07"
     },
     {
         "id": 860,
         "name": "Morgrem",
         "form": "Normal",
-        "released": true
+        "released": true,
+        "eff_date": "2025-11-07"
     },
     {
         "id": 861,
         "name": "Grimmsnarl",
         "form": "Normal",
-        "released": true
+        "released": true,
+        "eff_date": "2025-11-07"
+    },
+    {
+        "id": 917,
+        "name": "Tarountula",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2025-11-04"
+    },
+    {
+        "id": 918,
+        "name": "Spidops",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2025-11-04"
     },
 
 
