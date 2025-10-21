@@ -23136,6 +23136,9 @@
             "Thunder",
             "Psyshock"
         ],
+        "elite_fm": [
+            "Charm"
+        ],
         "shadow": true,
         "released": true
     },
