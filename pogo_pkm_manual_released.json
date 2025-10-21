@@ -642,48 +642,6 @@
         "released": false
     },
     {
-        "id": 1011,
-        "name": "Dipplin",
-        "form": "Normal",
-        "released": false
-    },
-    {
-        "id": 1012,
-        "name": "Poltchageist",
-        "form": "Normal",
-        "released": false
-    },
-    {
-        "id": 1012,
-        "name": "Poltchageist",
-        "form": "Artisan",
-        "released": false
-    },
-    {
-        "id": 1012,
-        "name": "Poltchageist",
-        "form": "Counterfeit",
-        "released": false
-    },
-    {
-        "id": 1013,
-        "name": "Sinistcha",
-        "form": "Normal",
-        "released": false
-    },
-    {
-        "id": 1013,
-        "name": "Sinistcha",
-        "form": "Masterpiece",
-        "released": false
-    },
-    {
-        "id": 1013,
-        "name": "Sinistcha",
-        "form": "Unremarkable",
-        "released": false
-    },
-    {
         "id": 1014,
         "name": "Okidogi",
         "form": "Normal",
@@ -710,12 +668,6 @@
     {
         "id": 1018,
         "name": "Archaludon",
-        "form": "Normal",
-        "released": false
-    },
-    {
-        "id": 1019,
-        "name": "Hydrapple",
         "form": "Normal",
         "released": false
     },
