@@ -29535,7 +29535,7 @@
             "Shadow Ball",
             "Foul Play"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -35298,7 +35298,7 @@
             "Foul Play",
             "Trailblaze"
         ],
-        "shadow": true,
+        "shadow": false,
         "released": true
     },
     {
