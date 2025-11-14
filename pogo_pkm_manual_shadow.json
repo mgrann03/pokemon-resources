@@ -186,12 +186,6 @@
         "shadow": false
     },
     {
-        "id": 491,
-        "name": "Darkrai",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
         "id": 503,
         "name": "Samurott",
         "form": "Hisuian",
@@ -258,6 +252,24 @@
         "shadow": false
     },
     {
+        "id": 859,
+        "name": "Impidimp",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 860,
+        "name": "Morgrem",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 861,
+        "name": "Grimmsnarl",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 863,
         "name": "Perrserker",
         "form": "Normal",
@@ -286,5 +298,17 @@
         "name": "Overqwil",
         "form": "Normal",
         "shadow": false
+    },
+    {
+        "id": 917,
+        "name": "Tarountula",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 918,
+        "name": "Spidops",
+        "form": "Normal",
+        "released": true
     }
 ]

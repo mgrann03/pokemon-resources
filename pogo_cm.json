@@ -2131,5 +2131,14 @@
         "damage_window_start": 1200,
         "damage_window_end": 1600,
         "energy_delta": -50
+    },
+    {
+        "name": "Beak Blast",
+        "type": "Flying",
+        "power": 125.0,
+        "duration": 2500,
+        "damage_window_start": 1500,
+        "damage_window_end": 2500,
+        "energy_delta": -50
     }
 ]

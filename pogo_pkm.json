@@ -20028,7 +20028,7 @@
         "elite_cm": [
             "Sludge Bomb"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_MYTHIC",
         "released": true,
         "raid_tier": 5
@@ -35191,7 +35191,7 @@
             "Play Rough"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 860,
@@ -35216,7 +35216,7 @@
             "Play Rough"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 861,
@@ -35243,7 +35243,7 @@
             "Power Up Punch"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 862,
@@ -37186,7 +37186,7 @@
             "Lunge"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 918,
@@ -37212,7 +37212,7 @@
             "Rock Tomb"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 919,
