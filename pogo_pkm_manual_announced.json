@@ -9,6 +9,523 @@
         "eff_date": "2025-11-30"
     },
 
+    
+    
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "form": "Normal",
+        "cm": [
+            "Hydro Pump",
+            "Sludge Wave",
+            "Blizzard",
+            "Acid Spray",
+            "Scald",
+            "Payback"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "form": "Normal",
+        "fm": [
+            "Steel Wing",
+            "Bite",
+            "Rock Throw",
+            "Dragon Breath"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 142,
+        "name": "Mega Aerodactyl",
+        "form": "Mega",
+        "fm": [
+            "Steel Wing",
+            "Bite",
+            "Rock Throw",
+            "Dragon Breath"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "form": "Summer_2023",
+        "fm": [
+            "Steel Wing",
+            "Bite",
+            "Rock Throw",
+            "Dragon Breath"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 245,
+        "name": "Suicune",
+        "form": "Normal",
+        "fm": [
+            "Extrasensory",
+            "Snarl",
+            "Ice Fang",
+            "Water Gun"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 248,
+        "name": "Tyranitar",
+        "form": "Normal",
+        "fm": [
+            "Bite",
+            "Iron Tail",
+            "Dragon Breath"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 248,
+        "name": "Mega Tyranitar",
+        "form": "Mega",
+        "fm": [
+            "Bite",
+            "Iron Tail",
+            "Dragon Breath"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 257,
+        "name": "Blaziken",
+        "form": "Normal",
+        "fm": [
+            "Counter",
+            "Fire Spin",
+            "Ember"
+        ],
+        "cm": [
+            "Focus Blast",
+            "Overheat",
+            "Brave Bird",
+            "Blaze Kick",
+            "Aura Sphere"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 257,
+        "name": "Mega Blaziken",
+        "form": "Mega",
+        "fm": [
+            "Counter",
+            "Fire Spin",
+            "Ember"
+        ],
+        "cm": [
+            "Focus Blast",
+            "Overheat",
+            "Brave Bird",
+            "Blaze Kick",
+            "Aura Sphere"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 272,
+        "name": "Ludicolo",
+        "form": "Normal",
+        "fm": [
+            "Bubble",
+            "Razor Leaf",
+            "Astonish"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Blizzard",
+            "Solar Beam",
+            "Ice Beam",
+            "Energy Ball",
+            "Leaf Storm",
+            "Scald",
+            "Weather Ball Water"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 337,
+        "name": "Lunatone",
+        "form": "Normal",
+        "cm": [
+            "Psychic",
+            "Rock Slide",
+            "Moonblast",
+            "Weather Ball Ice"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 338,
+        "name": "Solrock",
+        "form": "Normal",
+        "cm": [
+            "Psychic",
+            "Rock Slide",
+            "Solar Beam",
+            "Weather Ball Fire"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 350,
+        "name": "Milotic",
+        "form": "Normal",
+        "cm": [
+            "Surf",
+            "Blizzard",
+            "Hyper Beam",
+            "Wrap",
+            "Aqua Tail"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 362,
+        "name": "Glalie",
+        "form": "Normal",
+        "fm": [
+            "Ice Shard",
+            "Frost Breath",
+            "Rollout",
+            "Powder Snow"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 362,
+        "name": "Mega Glalie",
+        "form": "Mega",
+        "fm": [
+            "Ice Shard",
+            "Frost Breath",
+            "Rollout",
+            "Powder Snow"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 382,
+        "name": "Kyogre",
+        "form": "Normal",
+        "cm": [
+            "Hydro Pump",
+            "Blizzard",
+            "Thunder",
+            "Surf",
+            "Avalanche"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 382,
+        "name": "Primal Kyogre",
+        "form": "Mega",
+        "cm": [
+            "Hydro Pump",
+            "Blizzard",
+            "Thunder",
+            "Surf",
+            "Avalanche"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 437,
+        "name": "Bronzong",
+        "form": "Normal",
+        "cm": [
+            "Flash Cannon",
+            "Psychic",
+            "Heavy Slam",
+            "Bulldoze",
+            "Psyshock",
+            "Payback",
+            "Weather Ball Water"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 448,
+        "name": "Lucario",
+        "form": "Normal",
+        "cm": [
+            "Flash Cannon",
+            "Shadow Ball",
+            "Close Combat",
+            "Power Up Punch",
+            "Aura Sphere",
+            "Blaze Kick",
+            "Thunder Punch",
+            "Meteor Mash"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 448,
+        "name": "Mega Lucario",
+        "form": "Mega",
+        "cm": [
+            "Flash Cannon",
+            "Shadow Ball",
+            "Close Combat",
+            "Power Up Punch",
+            "Aura Sphere",
+            "Blaze Kick",
+            "Thunder Punch",
+            "Meteor Mash"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 457,
+        "name": "Lumineon",
+        "form": "Normal",
+        "cm": [
+            "Water Pulse",
+            "Blizzard",
+            "Silver Wind",
+            "Aqua Tail"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 503,
+        "name": "Samurott",
+        "form": "Hisuian",
+        "cm": [
+            "Razor Shell",
+            "Icy Wind",
+            "X Scissor",
+            "Dark Pulse",
+            "Sacred Sword"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 635,
+        "name": "Hydreigon",
+        "form": "Normal",
+        "cm": [
+            "Dragon Pulse",
+            "Dark Pulse",
+            "Flash Cannon",
+            "Fly"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 673,
+        "name": "Gogoat",
+        "form": "Normal",
+        "cm": [
+            "Brick Break",
+            "Leaf Blade",
+            "Seed Bomb",
+            "Rock Slide"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 680,
+        "name": "Doublade",
+        "form": "Normal",
+        "fm": [
+            "Psycho Cut",
+            "Tackle",
+            "Sahdow Claw"
+        ],
+        "cm": [
+            "Iron Head",
+            "Gyro Ball",
+            "Sacred Sword"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    
+    {
+        "id": 711,
+        "name": "Gourgeist",
+        "form": "Normal",
+        "fm": [
+            "Hex",
+            "Razor Leaf",
+            "Incinerate"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 711,
+        "name": "Gourgeist",
+        "form": "Average",
+        "fm": [
+            "Hex",
+            "Razor Leaf",
+            "Incinerate"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 711,
+        "name": "Gourgeist",
+        "form": "Large",
+        "fm": [
+            "Hex",
+            "Razor Leaf",
+            "Incinerate"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 711,
+        "name": "Gourgeist",
+        "form": "Small",
+        "fm": [
+            "Hex",
+            "Razor Leaf",
+            "Incinerate"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 711,
+        "name": "Gourgeist",
+        "form": "Super",
+        "fm": [
+            "Hex",
+            "Razor Leaf",
+            "Incinerate"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 781,
+        "name": "Dhelmise",
+        "form": "Normal",
+        "cm": [
+            "Power Whip",
+            "Shadow Ball",
+            "Heavy Slam",
+            "Wrap",
+            "Brutal Swing"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 798,
+        "name": "Kartana",
+        "form": "Normal",
+        "fm": [
+            "Air Slash",
+            "Razor Leaf",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Leaf Blade",
+            "X Scissor",
+            "Night Slash",
+            "Aerial Ace",
+            "Sacred Sword"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 895,
+        "name": "Regidrago",
+        "form": "Normal",
+        "cm": [
+            "Hyper Beam",
+            "Outrage",
+            "Dragon Pulse",
+            "Breaking Swipe",
+            "Vice Grip"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 901,
+        "name": "Ursaluna",
+        "form": "Normal",
+        "fm": [
+            "Tackle",
+            "Rock Smash",
+            "Smack Down"
+        ],
+        "cm": [
+            "Fire Punch",
+            "Thunder Punch",
+            "Aerial Ace",
+            "Ice Punch",
+            "Trailblaze",
+            "Swift",
+            "Play Rough"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 927,
+        "name": "Dachsbun",
+        "form": "Normal",
+        "fm": [
+            "Charm",
+            "Bite",
+            "Fire Fang"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 972,
+        "name": "Houndstone",
+        "form": "Normal",
+        "cm": [
+            "Shadow Ball",
+            "Dig",
+            "Psychic Fangs",
+            "Play Rough"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 975,
+        "name": "Cetitan",
+        "form": "Normal",
+        "cm": [
+            "Body Slam",
+            "Avalanche",
+            "Heavy Slam",
+            "Superpower",
+            "Icicle Spear"
+        ],
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 982,
+        "name": "Dudunsparce",
+        "form": "Normal",
+        "fm": [
+            "Bite",
+            "Astonish",
+            "Rollout",
+            "Dragon Tail"
+        ],
+        "cm": [
+            "Dig",
+            "Rock Slide",
+            "Drill Run",
+            "Body Slam"
+        ],
+        "eff_date": "2025-12-02"
+    },
+
 
     {
         "id": 36,
