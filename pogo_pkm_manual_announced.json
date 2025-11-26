@@ -378,17 +378,6 @@
     {
         "id": 711,
         "name": "Gourgeist",
-        "form": "Normal",
-        "fm": [
-            "Hex",
-            "Razor Leaf",
-            "Incinerate"
-        ],
-        "eff_date": "2025-12-02"
-    },
-    {
-        "id": 711,
-        "name": "Gourgeist",
         "form": "Average",
         "fm": [
             "Hex",
