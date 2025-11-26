@@ -1333,5 +1333,74 @@
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false,
         "raid_tier": 6
+    },
+
+    
+    {
+        "id": 150,
+        "name": "Mega Mewtwo X",
+        "form": "Mega",
+        "types": [
+            "Psychic",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 214,
+            "baseAttack": 375,
+            "baseDefense": 202
+        },
+        "fm": [
+            "Psycho Cut",
+            "Confusion"
+        ],
+        "cm": [
+            "Psychic",
+            "Thunderbolt",
+            "Ice Beam",
+            "Focus Blast",
+            "Flamethrower"
+        ],
+        "elite_cm": [
+            "Psystrike",
+            "Shadow Ball",
+            "Hyper Beam"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false,
+        "raid_tier": 6
+    },
+    {
+        "id": 150,
+        "name": "Mega Mewtwo Y",
+        "form": "MegaY",
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 214,
+            "baseAttack": 388,
+            "baseDefense": 209
+        },
+        "fm": [
+            "Psycho Cut",
+            "Confusion"
+        ],
+        "cm": [
+            "Psychic",
+            "Thunderbolt",
+            "Ice Beam",
+            "Focus Blast",
+            "Flamethrower"
+        ],
+        "elite_cm": [
+            "Psystrike",
+            "Shadow Ball",
+            "Hyper Beam"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false,
+        "raid_tier": 6
     }
 ]
