@@ -85,18 +85,6 @@
         "eff_date": "2025-12-02"
     },
     {
-        "id": 142,
-        "name": "Aerodactyl",
-        "form": "Summer_2023",
-        "fm": [
-            "Steel Wing",
-            "Bite",
-            "Rock Throw",
-            "Dragon Breath"
-        ],
-        "eff_date": "2025-12-02"
-    },
-    {
         "id": 245,
         "name": "Suicune",
         "form": "Normal",
