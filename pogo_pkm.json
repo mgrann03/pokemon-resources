@@ -25619,7 +25619,10 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": false
+        "released": true,
+        "elite_cm": [
+            "Secret Sword"
+        ]
     },
     {
         "id": 648,
