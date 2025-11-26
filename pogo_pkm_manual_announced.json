@@ -1,5 +1,19 @@
 [
     {
+        "id": 852,
+        "name": "Clobbopus",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 853,
+        "name": "Grapploct",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-03-03"
+    },
+    {
         "id": 733,
         "name": "Toucannon",
         "form": "Normal",
@@ -7,6 +21,27 @@
             "Beak Blast"
         ],
         "eff_date": "2025-11-30"
+    },
+    {
+        "id": 932,
+        "name": "Nacli",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 933,
+        "name": "Naclstack",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2025-12-02"
+    },
+    {
+        "id": 934,
+        "name": "Garganacl",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2025-12-02"
     },
 
     
