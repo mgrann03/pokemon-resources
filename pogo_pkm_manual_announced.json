@@ -20,6 +20,15 @@
         "released": true,
         "eff_date": "2025-12-24"
     },
+    {
+        "id": 806,
+        "name": "Blacephalon",
+        "form": "Normal",
+        "elite_cm": [
+            "Mind Blown"
+        ],
+        "eff_date": "2100-01-01"
+    },
 
 
 
