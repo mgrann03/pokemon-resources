@@ -4250,7 +4250,8 @@
             "Sludge Wave",
             "Blizzard",
             "Acid Spray",
-            "Scald"
+            "Scald",
+            "Payback"
         ],
         "shadow": true,
         "released": true,
@@ -7106,7 +7107,8 @@
         "fm": [
             "Steel Wing",
             "Bite",
-            "Rock Throw"
+            "Rock Throw",
+            "Dragon Breath"
         ],
         "cm": [
             "Ancient Power",
@@ -7126,7 +7128,8 @@
         "fm": [
             "Steel Wing",
             "Bite",
-            "Rock Throw"
+            "Rock Throw",
+            "Dragon Breath"
         ],
         "cm": [
             "Ancient Power",
@@ -7164,7 +7167,8 @@
         "fm": [
             "Steel Wing",
             "Bite",
-            "Rock Throw"
+            "Rock Throw",
+            "Dragon Breath"
         ],
         "cm": [
             "Ancient Power",
@@ -11197,7 +11201,8 @@
         "fm": [
             "Extrasensory",
             "Snarl",
-            "Ice Fang"
+            "Ice Fang",
+            "Water Gun"
         ],
         "cm": [
             "Hydro Pump",
@@ -11229,7 +11234,8 @@
         "fm": [
             "Extrasensory",
             "Snarl",
-            "Ice Fang"
+            "Ice Fang",
+            "Water Gun"
         ],
         "cm": [
             "Hydro Pump",
@@ -11311,7 +11317,8 @@
         },
         "fm": [
             "Bite",
-            "Iron Tail"
+            "Iron Tail",
+            "Dragon Breath"
         ],
         "cm": [
             "Fire Blast",
@@ -11332,7 +11339,8 @@
         "form": "Mega",
         "fm": [
             "Bite",
-            "Iron Tail"
+            "Iron Tail",
+            "Dragon Breath"
         ],
         "cm": [
             "Fire Blast",
@@ -11689,13 +11697,15 @@
         },
         "fm": [
             "Counter",
-            "Fire Spin"
+            "Fire Spin",
+            "Ember"
         ],
         "cm": [
             "Focus Blast",
             "Overheat",
             "Brave Bird",
-            "Blaze Kick"
+            "Blaze Kick",
+            "Aura Sphere"
         ],
         "elite_cm": [
             "Blast Burn",
@@ -11711,13 +11721,15 @@
         "form": "Mega",
         "fm": [
             "Counter",
-            "Fire Spin"
+            "Fire Spin",
+            "Ember"
         ],
         "cm": [
             "Focus Blast",
             "Overheat",
             "Brave Bird",
-            "Blaze Kick"
+            "Blaze Kick",
+            "Aura Sphere"
         ],
         "shadow": false,
         "released": true,
@@ -12186,7 +12198,8 @@
         },
         "fm": [
             "Bubble",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Astonish"
         ],
         "cm": [
             "Hydro Pump",
@@ -12195,7 +12208,8 @@
             "Ice Beam",
             "Energy Ball",
             "Leaf Storm",
-            "Scald"
+            "Scald",
+            "Weather Ball Water"
         ],
         "shadow": false,
         "released": true,
@@ -14689,7 +14703,8 @@
         "cm": [
             "Psychic",
             "Rock Slide",
-            "Moonblast"
+            "Moonblast",
+            "Weather Ball Ice"
         ],
         "shadow": false,
         "released": true,
@@ -14716,7 +14731,8 @@
         "cm": [
             "Psychic",
             "Rock Slide",
-            "Solar Beam"
+            "Solar Beam",
+            "Weather Ball Fire"
         ],
         "shadow": false,
         "released": true,
@@ -15039,7 +15055,8 @@
             "Surf",
             "Blizzard",
             "Hyper Beam",
-            "Wrap"
+            "Wrap",
+            "Aqua Tail"
         ],
         "shadow": false,
         "released": true
@@ -15463,7 +15480,8 @@
         "fm": [
             "Ice Shard",
             "Frost Breath",
-            "Rollout"
+            "Rollout",
+            "Powder Snow"
         ],
         "cm": [
             "Avalanche",
@@ -15481,7 +15499,8 @@
         "fm": [
             "Ice Shard",
             "Frost Breath",
-            "Rollout"
+            "Rollout",
+            "Powder Snow"
         ],
         "cm": [
             "Avalanche",
@@ -16236,7 +16255,8 @@
             "Hydro Pump",
             "Blizzard",
             "Thunder",
-            "Surf"
+            "Surf",
+            "Avalanche"
         ],
         "elite_cm": [
             "Origin Pulse"
@@ -16257,7 +16277,8 @@
             "Hydro Pump",
             "Blizzard",
             "Thunder",
-            "Surf"
+            "Surf",
+            "Avalanche"
         ],
         "shadow": false,
         "released": true,
@@ -18176,7 +18197,8 @@
             "Heavy Slam",
             "Bulldoze",
             "Psyshock",
-            "Payback"
+            "Payback",
+            "Weather Ball Water"
         ],
         "shadow": false,
         "released": true
@@ -18491,7 +18513,8 @@
             "Power Up Punch",
             "Aura Sphere",
             "Blaze Kick",
-            "Thunder Punch"
+            "Thunder Punch",
+            "Meteor Mash"
         ],
         "elite_fm": [
             "Force Palm"
@@ -18515,7 +18538,8 @@
             "Power Up Punch",
             "Aura Sphere",
             "Blaze Kick",
-            "Thunder Punch"
+            "Thunder Punch",
+            "Meteor Mash"
         ],
         "shadow": false,
         "released": true,
@@ -18769,7 +18793,8 @@
         "cm": [
             "Water Pulse",
             "Blizzard",
-            "Silver Wind"
+            "Silver Wind",
+            "Aqua Tail"
         ],
         "shadow": false,
         "released": true,
@@ -20866,7 +20891,8 @@
             "Razor Shell",
             "Icy Wind",
             "X Scissor",
-            "Dark Pulse"
+            "Dark Pulse",
+            "Sacred Sword"
         ],
         "shadow": false,
         "released": true,
@@ -24970,7 +24996,8 @@
         "cm": [
             "Dragon Pulse",
             "Dark Pulse",
-            "Flash Cannon"
+            "Flash Cannon",
+            "Fly"
         ],
         "elite_cm": [
             "Brutal Swing"
@@ -28284,7 +28311,8 @@
         "cm": [
             "Brick Break",
             "Leaf Blade",
-            "Seed Bomb"
+            "Seed Bomb",
+            "Rock Slide"
         ],
         "shadow": false,
         "released": true
@@ -28744,11 +28772,13 @@
         },
         "fm": [
             "Psycho Cut",
-            "Tackle"
+            "Tackle",
+            "Shadow Claw"
         ],
         "cm": [
             "Iron Head",
-            "Gyro Ball"
+            "Gyro Ball",
+            "Sacred Sword"
         ],
         "shadow": false,
         "released": true
@@ -29708,7 +29738,8 @@
         },
         "fm": [
             "Hex",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Incinerate"
         ],
         "cm": [
             "Seed Bomb",
@@ -29735,7 +29766,8 @@
         },
         "fm": [
             "Hex",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Incinerate"
         ],
         "cm": [
             "Seed Bomb",
@@ -29762,7 +29794,8 @@
         },
         "fm": [
             "Hex",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Incinerate"
         ],
         "cm": [
             "Seed Bomb",
@@ -29789,7 +29822,8 @@
         },
         "fm": [
             "Hex",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Incinerate"
         ],
         "cm": [
             "Seed Bomb",
@@ -29816,7 +29850,8 @@
         },
         "fm": [
             "Hex",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Incinerate"
         ],
         "cm": [
             "Seed Bomb",
@@ -30709,6 +30744,9 @@
             "Drill Peck",
             "Rock Blast",
             "Flash Cannon"
+        ],
+        "elite_cm": [
+            "Beak Blast"
         ],
         "shadow": true,
         "released": true,
@@ -32941,7 +32979,8 @@
             "Power Whip",
             "Shadow Ball",
             "Heavy Slam",
-            "Wrap"
+            "Wrap",
+            "Brutal Swing"
         ],
         "shadow": false,
         "released": true,
@@ -33409,13 +33448,15 @@
         },
         "fm": [
             "Air Slash",
-            "Razor Leaf"
+            "Razor Leaf",
+            "Fury Cutter"
         ],
         "cm": [
             "Leaf Blade",
             "X Scissor",
             "Night Slash",
-            "Aerial Ace"
+            "Aerial Ace",
+            "Sacred Sword"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_ULTRA_BEAST",
@@ -36487,7 +36528,8 @@
             "Hyper Beam",
             "Outrage",
             "Dragon Pulse",
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Vice Grip"
         ],
         "elite_fm": [
             "Dragon Breath"
@@ -36706,7 +36748,8 @@
         },
         "fm": [
             "Tackle",
-            "Rock Smash"
+            "Rock Smash",
+            "Smack Down"
         ],
         "cm": [
             "Fire Punch",
@@ -36714,7 +36757,8 @@
             "Aerial Ace",
             "Ice Punch",
             "Trailblaze",
-            "Swift"
+            "Swift",
+            "Play Rough"
         ],
         "elite_cm": [
             "High Horsepower"
@@ -37491,7 +37535,8 @@
         },
         "fm": [
             "Charm",
-            "Bite"
+            "Bite",
+            "Fire Fang"
         ],
         "cm": [
             "Body Slam",
@@ -38778,7 +38823,8 @@
         "cm": [
             "Shadow Ball",
             "Dig",
-            "Psychic Fangs"
+            "Psychic Fangs",
+            "Play Rough"
         ],
         "shadow": false,
         "released": true
@@ -38854,7 +38900,9 @@
         "cm": [
             "Body Slam",
             "Avalanche",
-            "Heavy Slam"
+            "Heavy Slam",
+            "Super Power",
+            "Icicle Spear"
         ],
         "shadow": false,
         "released": true
@@ -39116,12 +39164,14 @@
         "fm": [
             "Bite",
             "Astonish",
-            "Rollout"
+            "Rollout",
+            "Dragon Tail"
         ],
         "cm": [
             "Dig",
             "Rock Slide",
-            "Drill Run"
+            "Drill Run",
+            "Body Slam"
         ],
         "shadow": false,
         "released": false
@@ -39141,12 +39191,14 @@
         "fm": [
             "Bite",
             "Astonish",
-            "Rollout"
+            "Rollout",
+            "Dragon Tail"
         ],
         "cm": [
             "Dig",
             "Rock Slide",
-            "Drill Run"
+            "Drill Run",
+            "Body Slam"
         ],
         "shadow": false,
         "released": false
@@ -39166,12 +39218,14 @@
         "fm": [
             "Bite",
             "Astonish",
-            "Rollout"
+            "Rollout",
+            "Dragon Tail"
         ],
         "cm": [
             "Dig",
             "Rock Slide",
-            "Drill Run"
+            "Drill Run",
+            "Body Slam"
         ],
         "shadow": false,
         "released": false
