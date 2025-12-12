@@ -317,6 +317,18 @@
         "released": true
     },
     {
+        "id": 852,
+        "name": "Clobbopus",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 853,
+        "name": "Grapploct",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 854,
         "name": "Sinistea",
         "form": "Normal",
@@ -529,6 +541,24 @@
     {
         "id": 927,
         "name": "Dachsbun",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 932,
+        "name": "Nacli",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 933,
+        "name": "Naclstack",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 934,
+        "name": "Garganacl",
         "form": "Normal",
         "released": true
     },
