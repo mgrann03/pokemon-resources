@@ -8606,6 +8606,33 @@
         "raid_tier": 3
     },
     {
+        "id": 185,
+        "name": "Sudowoodo",
+        "form": "Winter_2025",
+        "types": [
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 167,
+            "baseDefense": 176
+        },
+        "fm": [
+            "Rock Throw",
+            "Counter"
+        ],
+        "cm": [
+            "Stone Edge",
+            "Earthquake",
+            "Rock Slide",
+            "Rock Tomb",
+            "Meteor Beam",
+            "Trailblaze"
+        ],
+        "shadow": true,
+        "released": true
+    },
+    {
         "id": 186,
         "name": "Politoed",
         "form": "Normal",
@@ -30856,6 +30883,34 @@
         "raid_tier": 3
     },
     {
+        "id": 737,
+        "name": "Charjabug",
+        "form": "Winter_2025",
+        "types": [
+            "Bug",
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 149,
+            "baseAttack": 145,
+            "baseDefense": 161
+        },
+        "fm": [
+            "Bug Bite",
+            "Spark"
+        ],
+        "cm": [
+            "X Scissor",
+            "Discharge",
+            "Crunch"
+        ],
+        "elite_fm": [
+            "Volt Switch"
+        ],
+        "shadow": true,
+        "released": true
+    },
+    {
         "id": 738,
         "name": "Vikavolt",
         "form": "Normal",
@@ -30885,6 +30940,36 @@
         "shadow": true,
         "released": true,
         "raid_tier": 3
+    },
+    {
+        "id": 738,
+        "name": "Vikavolt",
+        "form": "Winter_2025",
+        "types": [
+            "Bug",
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 184,
+            "baseAttack": 254,
+            "baseDefense": 158
+        },
+        "fm": [
+            "Bug Bite",
+            "Spark",
+            "Mud Slap"
+        ],
+        "cm": [
+            "X Scissor",
+            "Discharge",
+            "Crunch",
+            "Fly"
+        ],
+        "elite_fm": [
+            "Volt Switch"
+        ],
+        "shadow": true,
+        "released": true
     },
     {
         "id": 739,
