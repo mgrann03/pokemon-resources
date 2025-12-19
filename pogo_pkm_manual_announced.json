@@ -33,6 +33,72 @@
 
 
     {
+        "id": 26,
+        "name": "Mega Raichu X",
+        "form": "Mega",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 277,
+            "baseDefense": 203
+        },
+        "fm": [
+            "Volt Switch",
+            "Spark",
+            "Charm",
+            "Thunder Shock"
+        ],
+        "cm": [
+            "Brick Break",
+            "Thunder Punch",
+            "Wild Charge",
+            "Skull Bash",
+            "Trailblaze",
+            "Surf"
+        ],
+        "elite_cm": [
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 26,
+        "name": "Mega Raichu Y",
+        "form": "MegaY",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 339,
+            "baseDefense": 157
+        },
+        "fm": [
+            "Volt Switch",
+            "Spark",
+            "Charm",
+            "Thunder Shock"
+        ],
+        "cm": [
+            "Brick Break",
+            "Thunder Punch",
+            "Wild Charge",
+            "Skull Bash",
+            "Trailblaze",
+            "Surf"
+        ],
+        "elite_cm": [
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
         "id": 36,
         "name": "Mega Clefable",
         "form": "Mega",
@@ -256,6 +322,157 @@
         "raid_tier": 4
     },
     {
+        "id": 358,
+        "name": "Mega Chimecho",
+        "form": "Mega",
+        "types": [
+            "Psychic",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 244,
+            "baseDefense": 228
+        },
+        "fm": [
+            "Extrasensory",
+            "Astonish"
+        ],
+        "cm": [
+            "Energy Ball",
+            "Shadow Ball",
+            "Psyshock"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 359,
+        "name": "Mega Absol Z",
+        "form": "MegaZ",
+        "types": [
+            "Dark",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 332,
+            "baseDefense": 138
+        },
+        "fm": [
+            "Psycho Cut",
+            "Snarl"
+        ],
+        "cm": [
+            "Dark Pulse",
+            "Thunder",
+            "Megahorn",
+            "Payback"
+        ],
+        "elite_cm": [
+            "Brutal Swing"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 398,
+        "name": "Mega Staraptor",
+        "form": "Mega",
+        "types": [
+            "Fighting",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 278,
+            "baseDefense": 207
+        },
+        "fm": [
+            "Wing Attack",
+            "Quick Attack",
+            "Sand Attack"
+        ],
+        "cm": [
+            "Brave Bird",
+            "Heat Wave",
+            "Close Combat",
+            "Fly"
+        ],
+        "elite_fm": [
+            "Gust"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 445,
+        "name": "Mega Garchomp Z",
+        "form": "MegaZ",
+        "fm": [
+            "Dragon Tail",
+            "Mud Shot"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Fire Blast",
+            "Sand Tomb",
+            "Breaking Swipe"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4,
+        "elite_cm": [
+            "Earth Power"
+        ],
+        "types": [
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 239,
+            "baseAttack": 321,
+            "baseDefense": 196
+        }
+    },
+    {
+        "id": 448,
+        "name": "Mega Lucario Z",
+        "form": "MegaZ",
+        "fm": [
+            "Counter",
+            "Bullet Punch"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Shadow Ball",
+            "Close Combat",
+            "Power Up Punch",
+            "Aura Sphere",
+            "Blaze Kick",
+            "Thunder Punch",
+            "Meteor Mash"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4,
+        "elite_fm": [
+            "Force Palm"
+        ],
+        "types": [
+            "Fighting",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 359,
+            "baseDefense": 161
+        }
+    },
+    {
         "id": 478,
         "name": "Mega Froslass",
         "form": "Mega",
@@ -283,6 +500,67 @@
         "raid_tier": 4
     },
     {
+        "id": 485,
+        "name": "Mega Heatran",
+        "form": "Mega",
+        "types": [
+            "Fire",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 209,
+            "baseAttack": 331,
+            "baseDefense": 252
+        },
+        "fm": [
+            "Fire Spin",
+            "Bug Bite"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Iron Head",
+            "Stone Edge",
+            "Flamethrower",
+            "Earth Power"
+        ],
+        "elite_cm": [
+            "Magma Storm"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false,
+        "raid_tier": 6
+    },
+    {
+        "id": 491,
+        "name": "Mega Darkrai",
+        "form": "Mega",
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 325,
+            "baseDefense": 265
+        },
+        "fm": [
+            "Snarl",
+            "Feint Attack"
+        ],
+        "cm": [
+            "Focus Blast",
+            "Shadow Ball",
+            "Dark Pulse"
+        ],
+        "elite_cm": [
+            "Sludge Bomb"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_MYTHIC",
+        "released": false,
+        "raid_tier": 6
+    },
+    {
         "id": 500,
         "name": "Mega Emboar",
         "form": "Mega",
@@ -291,7 +569,7 @@
             "Fighting"
         ],
         "stats": {
-            "baseStamina": 225,
+            "baseStamina": 242,
             "baseAttack": 287,
             "baseDefense": 194
         },
@@ -459,6 +737,33 @@
         "raid_tier": 4
     },
     {
+        "id": 623,
+        "name": "Mega Golurk",
+        "form": "Mega",
+        "types": [
+            "Ground",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 205,
+            "baseAttack": 284,
+            "baseDefense": 202
+        },
+        "fm": [
+            "Astonish",
+            "Mud Slap"
+        ],
+        "cm": [
+            "Shadow Punch",
+            "Dynamic Punch",
+            "Earth Power",
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
         "id": 652,
         "name": "Mega Chesnaught",
         "form": "Mega",
@@ -609,6 +914,34 @@
         "raid_tier": 4
     },
     {
+        "id": 678,
+        "name": "Mega Meowstic",
+        "form": "Mega",
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 288,
+            "baseDefense": 201
+        },
+        "fm": [
+            "Confusion",
+            "Sucker Punch",
+            "Charm",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Psychic",
+            "Energy Ball",
+            "Thunderbolt",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
         "id": 687,
         "name": "Mega Malamar",
         "form": "Mega",
@@ -723,6 +1056,64 @@
         "raid_tier": 4
     },
     {
+        "id": 740,
+        "name": "Mega Crabominable",
+        "form": "Mega",
+        "types": [
+            "Fighting",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 219,
+            "baseAttack": 266,
+            "baseDefense": 213
+        },
+        "fm": [
+            "Rock Smash",
+            "Bubble"
+        ],
+        "cm": [
+            "Power Up Punch",
+            "Crabhammer",
+            "Payback",
+            "Ice Punch",
+            "Brick Break"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 768,
+        "name": "Mega Golisopod",
+        "form": "Mega",
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 260,
+            "baseDefense": 287
+        },
+        "fm": [
+            "Fury Cutter",
+            "Metal Claw",
+            "Waterfall",
+            "Shadow Claw"
+        ],
+        "cm": [
+            "X Scissor",
+            "Aqua Jet",
+            "Aerial Ace",
+            "Liquidation",
+            "Razor Shell"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
         "id": 780,
         "name": "Mega Drampa",
         "form": "Mega",
@@ -775,6 +1166,114 @@
         "raid_tier": 4
     },
     {
+        "id": 952,
+        "name": "Mega Scovillain",
+        "form": "Mega",
+        "types": [
+            "Grass",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 276,
+            "baseDefense": 170
+        },
+        "fm": [
+            "Leafage",
+            "Fire Fang"
+        ],
+        "cm": [
+            "Leaf Storm",
+            "Grass Knot",
+            "Overheat",
+            "Flamethrower"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 970,
+        "name": "Mega Glimmora",
+        "form": "Mega",
+        "types": [
+            "Rock",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 195,
+            "baseAttack": 300,
+            "baseDefense": 214
+        },
+        "fm": [
+            "Rock Throw",
+            "Smack Down"
+        ],
+        "cm": [
+            "Dazzling Gleam",
+            "Power Gem",
+            "Sludge Wave"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 978,
+        "name": "Mega Tatsugiri",
+        "form": "Mega",
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 262,
+            "baseDefense": 232
+        },
+        "fm": [
+            "Take Down",
+            "Water Gun"
+        ],
+        "cm": [
+            "Outrage",
+            "Surf",
+            "Hydro Pump",
+            "Muddy Water"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
+        "id": 998,
+        "name": "Mega Baxcalibur",
+        "form": "Mega",
+        "types": [
+            "Dragon",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 243,
+            "baseAttack": 331,
+            "baseDefense": 221
+        },
+        "fm": [
+            "Dragon Breath",
+            "Ice Fang"
+        ],
+        "cm": [
+            "Dragon Claw",
+            "Avalanche",
+            "Outrage",
+            "Blizzard",
+            "Icy Wind"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4
+    },
+    {
         "id": 718,
         "name": "Mega Zygarde",
         "form": "Mega",
@@ -783,9 +1282,9 @@
             "Ground"
         ],
         "stats": {
-            "baseStamina": 379,
-            "baseAttack": 378,
-            "baseDefense": 170
+            "baseStamina": 415,
+            "baseAttack": 403,
+            "baseDefense": 181
         },
         "fm": [
             "Dragon Tail",
@@ -801,6 +1300,55 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false,
+        "raid_tier": 6
+    },
+    {
+        "id": 801,
+        "name": "Mega Magearna",
+        "form": "Mega",
+        "types": [
+            "Steel",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 342,
+            "baseDefense": 239
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_MYTHIC",
+        "released": false
+    },
+    {
+        "id": 807,
+        "name": "Mega Zeraora",
+        "form": "Mega",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 204,
+            "baseAttack": 361,
+            "baseDefense": 180
+        },
+        "fm": [
+            "Spark",
+            "Volt Switch"
+        ],
+        "cm": [
+            "Thunder Punch",
+            "Discharge",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "class": "POKEMON_CLASS_MYTHIC",
         "released": false,
         "raid_tier": 6
     },
