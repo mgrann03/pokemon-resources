@@ -227,7 +227,7 @@
             "Hyper Beam",
             "Outrage",
             "Dragon Claw",
-            "Super Power",
+            "Superpower",
             "Thunder Punch"
         ],
         "elite_cm": [
@@ -457,7 +457,7 @@
             "Flash Cannon",
             "Shadow Ball",
             "Close Combat",
-            "Power Up Punch",
+            "Power-Up Punch",
             "Aura Sphere",
             "Blaze Kick",
             "Thunder Punch",
@@ -648,7 +648,7 @@
             "Megahorn",
             "Sludge Bomb",
             "Gyro Ball",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "released": false,
@@ -673,7 +673,7 @@
         ],
         "cm": [
             "Acid Spray",
-            "Power Up Punch",
+            "Power-Up Punch",
             "Foul Play",
             "Thunder Punch",
             "Upper Hand"
@@ -791,7 +791,7 @@
         "cm": [
             "Gyro Ball",
             "Energy Ball",
-            "Super Power",
+            "Superpower",
             "Solar Beam",
             "Thunder Punch"
         ],
@@ -969,7 +969,7 @@
         "cm": [
             "Psybeam",
             "Foul Play",
-            "Super Power",
+            "Superpower",
             "Hyper Beam"
         ],
         "shadow": false,
@@ -1055,8 +1055,8 @@
         "cm": [
             "Flying Press",
             "Aerial Ace",
-            "X Scissor",
-            "Power Up Punch"
+            "X-Scissor",
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": false,
@@ -1080,7 +1080,7 @@
             "Bubble"
         ],
         "cm": [
-            "Power Up Punch",
+            "Power-Up Punch",
             "Crabhammer",
             "Payback",
             "Ice Punch",
@@ -1110,7 +1110,7 @@
             "Shadow Claw"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Aqua Jet",
             "Aerial Ace",
             "Liquidation",
@@ -1164,7 +1164,7 @@
             "Counter"
         ],
         "cm": [
-            "Super Power",
+            "Superpower",
             "Brick Break",
             "Megahorn"
         ],

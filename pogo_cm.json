@@ -585,7 +585,7 @@
         "energy_delta": -50
     },
     {
-        "name": "X Scissor",
+        "name": "X-Scissor",
         "type": "Bug",
         "power": 45.0,
         "duration": 1500,
@@ -1278,7 +1278,7 @@
         "energy_delta": -33
     },
     {
-        "name": "Super Power",
+        "name": "Superpower",
         "type": "Fighting",
         "power": 85.0,
         "duration": 3000,
@@ -1359,7 +1359,7 @@
         "energy_delta": -33
     },
     {
-        "name": "Power Up Punch",
+        "name": "Power-Up Punch",
         "type": "Fighting",
         "power": 50.0,
         "duration": 2000,
@@ -1530,7 +1530,7 @@
         "energy_delta": -50
     },
     {
-        "name": "V Create",
+        "name": "V-create",
         "type": "Fire",
         "power": 105.0,
         "duration": 3000,
@@ -1548,7 +1548,7 @@
         "energy_delta": -100
     },
     {
-        "name": "Tri Attack",
+        "name": "Tri-Attack",
         "type": "Normal",
         "power": 75.0,
         "duration": 2500,
@@ -1836,7 +1836,7 @@
         "energy_delta": -50
     },
     {
-        "name": "Natures Madness",
+        "name": "Nature's Madness",
         "type": "Fairy",
         "power": 90.0,
         "duration": 2000,

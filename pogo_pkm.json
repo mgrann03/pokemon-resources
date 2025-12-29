@@ -690,7 +690,7 @@
         "cm": [
             "Sludge Bomb",
             "Aerial Ace",
-            "X Scissor",
+            "X-Scissor",
             "Fell Stinger"
         ],
         "elite_fm": [
@@ -715,7 +715,7 @@
         "cm": [
             "Sludge Bomb",
             "Aerial Ace",
-            "X Scissor",
+            "X-Scissor",
             "Fell Stinger"
         ],
         "shadow": false,
@@ -3239,7 +3239,7 @@
         ],
         "cm": [
             "Cross Poison",
-            "X Scissor",
+            "X-Scissor",
             "Seed Bomb"
         ],
         "shadow": false,
@@ -3265,7 +3265,7 @@
         ],
         "cm": [
             "Cross Poison",
-            "X Scissor",
+            "X-Scissor",
             "Solar Beam"
         ],
         "elite_fm": [
@@ -3894,7 +3894,7 @@
             "Hydro Pump",
             "Dynamic Punch",
             "Ice Punch",
-            "Power Up Punch",
+            "Power-Up Punch",
             "Scald",
             "Icy Wind"
         ],
@@ -5447,7 +5447,7 @@
         ],
         "cm": [
             "Vice Grip",
-            "X Scissor",
+            "X-Scissor",
             "Water Pulse",
             "Crabhammer",
             "Razor Shell"
@@ -5786,7 +5786,7 @@
             "Ice Punch",
             "Thunder Punch",
             "Close Combat",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "elite_fm": [
             "Rock Smash"
@@ -6036,7 +6036,7 @@
             "Crunch",
             "Earthquake",
             "Outrage",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "elite_cm": [
             "Brick Break",
@@ -6058,7 +6058,7 @@
             "Crunch",
             "Earthquake",
             "Outrage",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true,
@@ -6317,7 +6317,7 @@
         ],
         "cm": [
             "Night Slash",
-            "X Scissor",
+            "X-Scissor",
             "Aerial Ace",
             "Trailblaze"
         ],
@@ -6434,9 +6434,9 @@
         ],
         "cm": [
             "Vice Grip",
-            "X Scissor",
+            "X-Scissor",
             "Close Combat",
-            "Super Power"
+            "Superpower"
         ],
         "elite_cm": [
             "Submission"
@@ -6456,9 +6456,9 @@
         ],
         "cm": [
             "Vice Grip",
-            "X Scissor",
+            "X-Scissor",
             "Close Combat",
-            "Super Power"
+            "Superpower"
         ],
         "shadow": false,
         "released": true,
@@ -6933,7 +6933,7 @@
         "elite_cm": [
             "Last Resort",
             "Heat Wave",
-            "Super Power"
+            "Superpower"
         ],
         "shadow": false,
         "released": true,
@@ -7203,7 +7203,7 @@
             "Outrage",
             "Skull Bash",
             "Body Slam",
-            "Super Power"
+            "Superpower"
         ],
         "elite_fm": [
             "Yawn"
@@ -7235,7 +7235,7 @@
             "Outrage",
             "Skull Bash",
             "Body Slam",
-            "Super Power"
+            "Superpower"
         ],
         "elite_fm": [
             "Yawn"
@@ -7490,7 +7490,7 @@
             "Hyper Beam",
             "Outrage",
             "Dragon Claw",
-            "Super Power",
+            "Superpower",
             "Thunder Punch"
         ],
         "elite_cm": [
@@ -10142,7 +10142,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Iron Head",
             "Night Slash",
             "Trailblaze"
@@ -10160,7 +10160,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Iron Head",
             "Night Slash",
             "Trailblaze"
@@ -10307,7 +10307,7 @@
         "cm": [
             "Aerial Ace",
             "Close Combat",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": true,
         "released": true,
@@ -10868,7 +10868,7 @@
             "Solar Beam",
             "Hyper Beam",
             "Zap Cannon",
-            "Tri Attack"
+            "Tri-Attack"
         ],
         "shadow": true,
         "released": true,
@@ -12927,7 +12927,7 @@
             "Heavy Slam",
             "Close Combat",
             "Dynamic Punch",
-            "Super Power",
+            "Superpower",
             "Upper Hand"
         ],
         "shadow": true,
@@ -13141,7 +13141,7 @@
             "Play Rough",
             "Vice Grip",
             "Iron Head",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": true,
         "released": true,
@@ -13162,7 +13162,7 @@
             "Play Rough",
             "Vice Grip",
             "Iron Head",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true,
@@ -13338,7 +13338,7 @@
             "Ice Punch",
             "Psychic",
             "Dynamic Punch",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true,
@@ -13356,7 +13356,7 @@
             "Ice Punch",
             "Psychic",
             "Dynamic Punch",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true,
@@ -16932,7 +16932,7 @@
             "Shadow Ball",
             "Thunderbolt",
             "Ice Beam",
-            "Super Power"
+            "Superpower"
         ],
         "shadow": true,
         "released": true,
@@ -17005,7 +17005,7 @@
         ],
         "cm": [
             "Bug Buzz",
-            "X Scissor",
+            "X-Scissor",
             "Aerial Ace"
         ],
         "shadow": false,
@@ -17506,7 +17506,7 @@
         "cm": [
             "Bug Buzz",
             "Power Gem",
-            "X Scissor",
+            "X-Scissor",
             "Fell Stinger",
             "Signal Beam"
         ],
@@ -18537,7 +18537,7 @@
             "Flash Cannon",
             "Shadow Ball",
             "Close Combat",
-            "Power Up Punch",
+            "Power-Up Punch",
             "Aura Sphere",
             "Blaze Kick",
             "Thunder Punch",
@@ -18562,7 +18562,7 @@
             "Flash Cannon",
             "Shadow Ball",
             "Close Combat",
-            "Power Up Punch",
+            "Power-Up Punch",
             "Aura Sphere",
             "Blaze Kick",
             "Thunder Punch",
@@ -19042,7 +19042,7 @@
             "Earthquake",
             "Stone Edge",
             "Skull Bash",
-            "Super Power",
+            "Superpower",
             "Breaking Swipe"
         ],
         "elite_cm": [
@@ -19333,7 +19333,7 @@
             "Blizzard"
         ],
         "elite_cm": [
-            "Tri Attack"
+            "Tri-Attack"
         ],
         "shadow": true,
         "released": true
@@ -20656,7 +20656,7 @@
             "Overheat",
             "Focus Blast",
             "Psychic",
-            "V Create",
+            "V-create",
             "Psyshock"
         ],
         "shadow": false,
@@ -20862,7 +20862,7 @@
         "cm": [
             "Aqua Tail",
             "Water Pulse",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": true,
         "released": true
@@ -20917,7 +20917,7 @@
         "cm": [
             "Razor Shell",
             "Icy Wind",
-            "X Scissor",
+            "X-Scissor",
             "Dark Pulse",
             "Sacred Sword"
         ],
@@ -21491,7 +21491,7 @@
         "cm": [
             "Rock Slide",
             "Solar Beam",
-            "Super Power",
+            "Superpower",
             "Heavy Slam"
         ],
         "elite_cm": [
@@ -21936,7 +21936,7 @@
         ],
         "cm": [
             "Leaf Blade",
-            "X Scissor",
+            "X-Scissor",
             "Silver Wind",
             "Leaf Storm"
         ],
@@ -22019,7 +22019,7 @@
             "Megahorn",
             "Sludge Bomb",
             "Gyro Ball",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": true,
         "released": true,
@@ -22420,7 +22420,7 @@
         "cm": [
             "Overheat",
             "Avalanche",
-            "Super Power",
+            "Superpower",
             "Ice Punch"
         ],
         "shadow": false,
@@ -22446,7 +22446,7 @@
         "cm": [
             "Overheat",
             "Avalanche",
-            "Super Power",
+            "Superpower",
             "Ice Punch"
         ],
         "shadow": false,
@@ -22548,7 +22548,7 @@
         ],
         "cm": [
             "Rock Blast",
-            "X Scissor",
+            "X-Scissor",
             "Rock Tomb"
         ],
         "shadow": true,
@@ -22574,7 +22574,7 @@
         ],
         "cm": [
             "Rock Blast",
-            "X Scissor",
+            "X-Scissor",
             "Rock Slide",
             "Rock Wrecker"
         ],
@@ -22629,7 +22629,7 @@
         ],
         "cm": [
             "Acid Spray",
-            "Power Up Punch",
+            "Power-Up Punch",
             "Foul Play",
             "Thunder Punch",
             "Upper Hand"
@@ -23633,7 +23633,7 @@
         ],
         "cm": [
             "Signal Beam",
-            "X Scissor",
+            "X-Scissor",
             "Drill Run",
             "Aerial Ace"
         ],
@@ -24709,7 +24709,7 @@
         "cm": [
             "Night Slash",
             "Iron Head",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "released": true,
@@ -24735,7 +24735,7 @@
         "cm": [
             "Dark Pulse",
             "Iron Head",
-            "X Scissor",
+            "X-Scissor",
             "Focus Blast"
         ],
         "shadow": false,
@@ -24919,7 +24919,7 @@
         "cm": [
             "Flamethrower",
             "Thunder Punch",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true,
@@ -24943,7 +24943,7 @@
             "Metal Claw"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Iron Head",
             "Stone Edge"
         ],
@@ -25486,7 +25486,7 @@
             "Earthquake",
             "Bulldoze",
             "Stone Edge",
-            "Super Power"
+            "Superpower"
         ],
         "elite_cm": [
             "Sandsear Storm"
@@ -25612,7 +25612,7 @@
             "Aqua Jet",
             "Close Combat",
             "Hydro Pump",
-            "X Scissor",
+            "X-Scissor",
             "Sacred Sword"
         ],
         "shadow": false,
@@ -25640,7 +25640,7 @@
             "Aqua Jet",
             "Close Combat",
             "Hydro Pump",
-            "X Scissor",
+            "X-Scissor",
             "Sacred Sword"
         ],
         "shadow": false,
@@ -25668,7 +25668,7 @@
             "Aqua Jet",
             "Close Combat",
             "Hydro Pump",
-            "X Scissor",
+            "X-Scissor",
             "Sacred Sword"
         ],
         "shadow": false,
@@ -25777,7 +25777,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Magnet Bomb",
             "Hyper Beam"
         ],
@@ -25807,7 +25807,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Magnet Bomb",
             "Flamethrower"
         ],
@@ -25837,7 +25837,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Magnet Bomb",
             "Ice Beam"
         ],
@@ -25867,7 +25867,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Magnet Bomb",
             "Gunk Shot"
         ],
@@ -25897,7 +25897,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Magnet Bomb",
             "Zap Cannon"
         ],
@@ -25979,7 +25979,7 @@
         "cm": [
             "Gyro Ball",
             "Energy Ball",
-            "Super Power",
+            "Superpower",
             "Solar Beam",
             "Thunder Punch"
         ],
@@ -29031,7 +29031,7 @@
         "cm": [
             "Psybeam",
             "Foul Play",
-            "Super Power",
+            "Superpower",
             "Hyper Beam"
         ],
         "shadow": true,
@@ -29411,8 +29411,8 @@
         "cm": [
             "Flying Press",
             "Aerial Ace",
-            "X Scissor",
-            "Power Up Punch"
+            "X-Scissor",
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true
@@ -30845,7 +30845,7 @@
             "Spark"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Vice Grip",
             "Crunch"
         ],
@@ -30871,7 +30871,7 @@
             "Spark"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Discharge",
             "Crunch"
         ],
@@ -30900,7 +30900,7 @@
             "Spark"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Discharge",
             "Crunch"
         ],
@@ -30929,7 +30929,7 @@
             "Mud Slap"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Discharge",
             "Crunch",
             "Fly"
@@ -30960,7 +30960,7 @@
             "Mud Slap"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Discharge",
             "Crunch",
             "Fly"
@@ -30988,7 +30988,7 @@
             "Bubble"
         ],
         "cm": [
-            "Power Up Punch",
+            "Power-Up Punch",
             "Crabhammer",
             "Payback",
             "Brick Break"
@@ -31015,7 +31015,7 @@
             "Bubble"
         ],
         "cm": [
-            "Power Up Punch",
+            "Power-Up Punch",
             "Crabhammer",
             "Payback",
             "Ice Punch",
@@ -31625,8 +31625,8 @@
         "cm": [
             "Leaf Blade",
             "Leaf Storm",
-            "Super Power",
-            "X Scissor",
+            "Superpower",
+            "X-Scissor",
             "Trailblaze"
         ],
         "shadow": false,
@@ -31749,7 +31749,7 @@
             "Take Down"
         ],
         "cm": [
-            "Super Power",
+            "Superpower",
             "Brick Break",
             "Stomp"
         ],
@@ -31776,7 +31776,7 @@
             "Shadow Claw"
         ],
         "cm": [
-            "Super Power",
+            "Superpower",
             "Payback",
             "Stomp"
         ],
@@ -31805,7 +31805,7 @@
             "Shadow Claw"
         ],
         "cm": [
-            "Super Power",
+            "Superpower",
             "Payback",
             "Stomp"
         ],
@@ -31967,7 +31967,7 @@
         "cm": [
             "Brick Break",
             "Close Combat",
-            "Super Power",
+            "Superpower",
             "Brutal Swing",
             "Drain Punch"
         ],
@@ -32018,7 +32018,7 @@
             "Shadow Claw"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Aqua Jet",
             "Aerial Ace",
             "Liquidation",
@@ -32120,7 +32120,7 @@
             "Take Down"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace"
         ],
@@ -32147,10 +32147,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32175,10 +32175,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32203,10 +32203,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32231,10 +32231,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32259,10 +32259,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32287,10 +32287,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32315,10 +32315,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32343,10 +32343,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32371,10 +32371,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32399,10 +32399,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32427,10 +32427,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32455,10 +32455,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32483,10 +32483,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32511,10 +32511,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32539,10 +32539,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32567,10 +32567,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32595,10 +32595,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -32623,10 +32623,10 @@
             "Bite"
         ],
         "cm": [
-            "Tri Attack",
+            "Tri-Attack",
             "Iron Head",
             "Aerial Ace",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -33178,7 +33178,7 @@
             "Thunder"
         ],
         "elite_cm": [
-            "Natures Madness"
+            "Nature's Madness"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -33210,7 +33210,7 @@
             "Draining Kiss"
         ],
         "elite_cm": [
-            "Natures Madness"
+            "Nature's Madness"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -33241,7 +33241,7 @@
             "Solar Beam"
         ],
         "elite_cm": [
-            "Natures Madness"
+            "Nature's Madness"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -33272,7 +33272,7 @@
             "Hydro Pump"
         ],
         "elite_cm": [
-            "Natures Madness"
+            "Nature's Madness"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -33425,10 +33425,10 @@
             "Poison Jab"
         ],
         "cm": [
-            "Power Up Punch",
+            "Power-Up Punch",
             "Fell Stinger",
             "Lunge",
-            "Super Power"
+            "Superpower"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_ULTRA_BEAST",
@@ -33538,7 +33538,7 @@
         ],
         "cm": [
             "Leaf Blade",
-            "X Scissor",
+            "X-Scissor",
             "Night Slash",
             "Aerial Ace",
             "Sacred Sword"
@@ -33942,7 +33942,7 @@
             "Thunderbolt",
             "Hyper Beam",
             "Rock Slide",
-            "Super Power"
+            "Superpower"
         ],
         "elite_cm": [
             "Double Iron Bash"
@@ -34889,7 +34889,7 @@
             "Acid"
         ],
         "cm": [
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true
@@ -34916,7 +34916,7 @@
             "Acid Spray",
             "Discharge",
             "Wild Charge",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true
@@ -34943,7 +34943,7 @@
             "Acid Spray",
             "Discharge",
             "Wild Charge",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true
@@ -34970,7 +34970,7 @@
             "Acid Spray",
             "Discharge",
             "Wild Charge",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true
@@ -35043,7 +35043,7 @@
         ],
         "cm": [
             "Brick Break",
-            "Super Power",
+            "Superpower",
             "Ice Punch"
         ],
         "shadow": false,
@@ -35067,7 +35067,7 @@
         ],
         "cm": [
             "Brick Break",
-            "Super Power",
+            "Superpower",
             "Ice Punch",
             "Surf"
         ],
@@ -35369,7 +35369,7 @@
             "Foul Play",
             "Dark Pulse",
             "Play Rough",
-            "Power Up Punch"
+            "Power-Up Punch"
         ],
         "shadow": false,
         "released": true
@@ -35596,7 +35596,7 @@
             "Counter"
         ],
         "cm": [
-            "Super Power",
+            "Superpower",
             "Brick Break",
             "Megahorn"
         ],
@@ -35621,7 +35621,7 @@
             "Counter"
         ],
         "cm": [
-            "Super Power",
+            "Superpower",
             "Brick Break",
             "Megahorn"
         ],
@@ -36809,7 +36809,7 @@
             "Fury Cutter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Rock Slide",
             "Stone Edge",
             "Trailblaze"
@@ -36872,7 +36872,7 @@
         "cm": [
             "Aerial Ace",
             "Close Combat",
-            "X Scissor"
+            "X-Scissor"
         ],
         "shadow": true,
         "released": true
@@ -37313,7 +37313,7 @@
             "Struggle Bug"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Grass Knot",
             "Lunge"
         ],
@@ -37338,7 +37338,7 @@
             "Shadow Claw"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Grass Knot",
             "Lunge",
             "Rock Tomb"
@@ -37363,7 +37363,7 @@
             "Struggle Bug"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Trailblaze",
             "Bug Buzz"
         ],
@@ -37389,7 +37389,7 @@
             "Counter"
         ],
         "cm": [
-            "X Scissor",
+            "X-Scissor",
             "Trailblaze",
             "Bug Buzz",
             "Dark Pulse"
@@ -38986,7 +38986,7 @@
             "Body Slam",
             "Avalanche",
             "Heavy Slam",
-            "Super Power",
+            "Superpower",
             "Icicle Spear"
         ],
         "shadow": false,
@@ -39336,7 +39336,7 @@
         "cm": [
             "Dark Pulse",
             "Iron Head",
-            "X Scissor",
+            "X-Scissor",
             "Focus Blast",
             "Foul Play"
         ],
@@ -40260,7 +40260,7 @@
             "Force Palm"
         ],
         "cm": [
-            "Super Power",
+            "Superpower",
             "Upper Hand",
             "Sludge Bomb"
         ],

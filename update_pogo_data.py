@@ -241,6 +241,20 @@ def CleanMoves(moves, is_fast):
 def CleanMove(move, is_fast):
     if move == "V0462_MOVE_FORCE_PALM_FAST":
         return "Force Palm"
+    elif move == "SUPER_POWER": # Should be 1 word
+        return "Superpower"
+    elif move == "LOCK_ON": # Should be hyphenated
+        return "Lock-On"
+    elif move == "POWER_UP_PUNCH": # Should be hyphenated
+        return "Power-Up Punch"
+    elif move == "TRI_ATTACK": # Should be hyphenated
+        return "Tri-Attack"
+    elif move == "V_CREATE": # Should be hyphenated
+        return "V-create"
+    elif move == "X_SCISSOR": # Should be hyphenated
+        return "X-Scissor"
+    elif move == "NATURES_MADNESS": # Should be possessive
+        return "Nature's Madness"
     elif isinstance(move, str):
         return (move[:-5] if is_fast else move).replace("_", " ").title()
     else: # if move isn't a string...
