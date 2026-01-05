@@ -33869,6 +33869,9 @@
             "Shadow Ball",
             "Overheat"
         ],
+        "elite_cm": [
+            "Mind Blown"
+        ],
         "shadow": false,
         "class": "POKEMON_CLASS_ULTRA_BEAST",
         "released": true,
@@ -34621,7 +34624,7 @@
             "Rock Slide"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 838,
@@ -34646,7 +34649,7 @@
             "Flame Charge"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 839,
@@ -34671,7 +34674,7 @@
             "Flame Charge"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 840,
