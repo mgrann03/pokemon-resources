@@ -1,12 +1,5 @@
 [
     {
-        "id": 950,
-        "name": "Klawf",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-01-06"
-    },
-    {
         "id": 940,
         "name": "Wattrel",
         "form": "Normal",
