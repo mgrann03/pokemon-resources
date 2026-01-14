@@ -1901,6 +1901,192 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Gotour_2026_a",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2026_a_02",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2026_b",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2026_b_02",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2026_c",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2026_c_02",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Horizons",
         "types": [
             "Electric"
