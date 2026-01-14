@@ -401,6 +401,24 @@
         "released": true
     },
     {
+        "id": 859,
+        "name": "Impidimp",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 860,
+        "name": "Morgrem",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 861,
+        "name": "Grimmsnarl",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 864,
         "name": "Cursola",
         "form": "Normal",
@@ -523,6 +541,18 @@
     {
         "id": 894,
         "name": "Regieleki",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 917,
+        "name": "Tarountula",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 918,
+        "name": "Spidops",
         "form": "Normal",
         "released": true
     },

@@ -252,22 +252,76 @@
         "shadow": false
     },
     {
-        "id": 859,
-        "name": "Impidimp",
+        "id": 642,
+        "name": "Thundurus",
         "form": "Normal",
-        "released": true
+        "shadow": false
     },
     {
-        "id": 860,
-        "name": "Morgrem",
-        "form": "Normal",
-        "released": true
+        "id": 642,
+        "name": "Thundurus",
+        "form": "Incarnate",
+        "shadow": false
     },
     {
-        "id": 861,
-        "name": "Grimmsnarl",
+        "id": 642,
+        "name": "Thundurus",
+        "form": "Therian",
+        "shadow": false
+    },
+    {
+        "id": 650,
+        "name": "Chespin",
         "form": "Normal",
-        "released": true
+        "shadow": false
+    },
+    {
+        "id": 651,
+        "name": "Quilladin",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 652,
+        "name": "Chesnaught",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 653,
+        "name": "Fennekin",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 654,
+        "name": "Braixen",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 655,
+        "name": "Delphox",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 656,
+        "name": "Froakie",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 657,
+        "name": "Frogadier",
+        "form": "Normal",
+        "shadow": false
+    },
+    {
+        "id": 658,
+        "name": "Greninja",
+        "form": "Normal",
+        "shadow": false
     },
     {
         "id": 863,
@@ -298,17 +352,5 @@
         "name": "Overqwil",
         "form": "Normal",
         "shadow": false
-    },
-    {
-        "id": 917,
-        "name": "Tarountula",
-        "form": "Normal",
-        "released": true
-    },
-    {
-        "id": 918,
-        "name": "Spidops",
-        "form": "Normal",
-        "released": true
     }
 ]
