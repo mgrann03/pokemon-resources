@@ -1,19 +1,5 @@
 [
     {
-        "id": 940,
-        "name": "Wattrel",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-01-13"
-    },
-    {
-        "id": 941,
-        "name": "Kilowattrel",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-01-13"
-    },
-    {
         "id": 812,
         "name": "Rillaboom",
         "form": "Normal",

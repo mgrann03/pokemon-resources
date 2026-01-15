@@ -611,6 +611,18 @@
         "released": true
     },
     {
+        "id": 940,
+        "name": "Wattrel",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 941,
+        "name": "Kilowattrel",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 944,
         "name": "Shroodle",
         "form": "Normal",
