@@ -83,6 +83,20 @@
         "form": "Incarnate",
         "shadow": true,
         "eff_date": "2026-01-23"
+    },    
+    {
+        "id": 969,
+        "name": "Glimmet",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-01-27"
+    },
+    {
+        "id": 970,
+        "name": "Glimmora",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-01-27"
     },
 
 
@@ -1267,7 +1281,8 @@
         "cm": [
             "Dazzling Gleam",
             "Power Gem",
-            "Sludge Wave"
+            "Sludge Wave",
+            "Meteor Beam"
         ],
         "shadow": false,
         "released": false,
