@@ -2154,7 +2154,7 @@
         "name": "Drum Beating",
         "type": "Grass",
         "power": 115.0,
-        "duration": 4000,
+        "duration": 4500,
         "damage_window_start": 3000,
         "damage_window_end": 4000,
         "energy_delta": -33
