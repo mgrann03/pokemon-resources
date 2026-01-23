@@ -15202,7 +15202,7 @@
         "cm": [
             "Mirror Coat"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -15229,7 +15229,7 @@
             "Wrap",
             "Aqua Tail"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -22828,7 +22828,7 @@
             "Dark Pulse",
             "Ominous Wind"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -22878,7 +22878,7 @@
             "Dark Pulse",
             "Psychic"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {

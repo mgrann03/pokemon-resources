@@ -120,18 +120,6 @@
         "shadow": false
     },
     {
-        "id": 349,
-        "name": "Feebas",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 350,
-        "name": "Milotic",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
         "id": 483,
         "name": "Dialga",
         "form": "Origin",
@@ -182,19 +170,7 @@
     {
         "id": 562,
         "name": "Yamask",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 562,
-        "name": "Yamask",
         "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 563,
-        "name": "Cofagrigus",
-        "form": "Normal",
         "shadow": false
     },
     {
