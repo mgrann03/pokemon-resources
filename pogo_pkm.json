@@ -34164,7 +34164,11 @@
         "cm": [
             "Energy Ball",
             "Grass Knot",
-            "Earth Power"
+            "Earth Power",
+            "Drum Beating"
+        ],
+        "elite_cm": [
+            "Frenzy Plant"
         ],
         "shadow": false,
         "released": true

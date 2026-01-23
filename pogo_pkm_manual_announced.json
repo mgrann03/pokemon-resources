@@ -1,20 +1,5 @@
 [
     {
-        "id": 812,
-        "name": "Rillaboom",
-        "form": "Normal",
-        "cm": [
-            "Energy Ball",
-            "Grass Knot",
-            "Earth Power",
-            "Drum Beating"
-        ],
-        "elite_cm": [
-            "Frenzy Plant"
-        ],
-        "eff_date": "2026-01-18"
-    },
-    {
         "id": 650,
         "name": "Chespin",
         "form": "Normal",
