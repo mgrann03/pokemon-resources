@@ -4589,7 +4589,7 @@
         "elite_cm": [
             "Fire Blast"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -4648,7 +4648,7 @@
         "elite_cm": [
             "Wild Charge"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -5569,7 +5569,7 @@
             "Water Pulse",
             "Razor Shell"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -5599,7 +5599,7 @@
         "elite_fm": [
             "Mud Shot"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -7201,7 +7201,7 @@
             "Aqua Jet",
             "Rock Tomb"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -7231,7 +7231,7 @@
         "elite_fm": [
             "Fury Cutter"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -25427,7 +25427,7 @@
             "Brick Break",
             "Thunder Punch"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -25455,7 +25455,7 @@
             "Brick Break",
             "Thunder Punch"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -26074,7 +26074,7 @@
             "Seed Bomb",
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -26099,7 +26099,7 @@
             "Energy Ball",
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -26130,7 +26130,7 @@
         "elite_cm": [
             "Frenzy Plant"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -26154,7 +26154,7 @@
             "Flamethrower",
             "Flame Charge"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -26179,7 +26179,7 @@
             "Flamethrower",
             "Flame Charge"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -26211,7 +26211,7 @@
         "elite_cm": [
             "Blast Burn"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -26235,7 +26235,7 @@
             "Aerial Ace",
             "Surf"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -26260,7 +26260,7 @@
             "Aerial Ace",
             "Surf"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -26290,7 +26290,7 @@
         "elite_cm": [
             "Hydro Cannon"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {

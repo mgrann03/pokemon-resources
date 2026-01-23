@@ -20,19 +20,7 @@
     {
         "id": 77,
         "name": "Ponyta",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 77,
-        "name": "Ponyta",
         "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 78,
-        "name": "Rapidash",
-        "form": "Normal",
         "shadow": false
     },
     {
@@ -66,18 +54,6 @@
         "shadow": false
     },
     {
-        "id": 98,
-        "name": "Krabby",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 99,
-        "name": "Kingler",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
         "id": 122,
         "name": "Mr. Mime",
         "form": "Normal",
@@ -87,18 +63,6 @@
         "id": 122,
         "name": "Mr. Mime",
         "form": "Galarian",
-        "shadow": false
-    },
-    {
-        "id": 140,
-        "name": "Kabuto",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 141,
-        "name": "Kabutops",
-        "form": "Normal",
         "shadow": false
     },
     {
@@ -254,73 +218,7 @@
     {
         "id": 642,
         "name": "Thundurus",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 642,
-        "name": "Thundurus",
-        "form": "Incarnate",
-        "shadow": false
-    },
-    {
-        "id": 642,
-        "name": "Thundurus",
         "form": "Therian",
-        "shadow": false
-    },
-    {
-        "id": 650,
-        "name": "Chespin",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 651,
-        "name": "Quilladin",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 652,
-        "name": "Chesnaught",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 653,
-        "name": "Fennekin",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 654,
-        "name": "Braixen",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 655,
-        "name": "Delphox",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 656,
-        "name": "Froakie",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 657,
-        "name": "Frogadier",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 658,
-        "name": "Greninja",
-        "form": "Normal",
         "shadow": false
     },
     {
