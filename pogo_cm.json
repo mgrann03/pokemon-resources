@@ -1956,19 +1956,19 @@
         "name": "Aura Wheel Electric",
         "type": "Electric",
         "power": 100.0,
-        "duration": 2700,
+        "duration": 2500,
         "damage_window_start": 2100,
         "damage_window_end": 2500,
-        "energy_delta": -45
+        "energy_delta": -50
     },
     {
         "name": "Aura Wheel Dark",
         "type": "Dark",
         "power": 100.0,
-        "duration": 2700,
+        "duration": 2500,
         "damage_window_start": 2100,
         "damage_window_end": 2500,
-        "energy_delta": -45
+        "energy_delta": -50
     },
     {
         "name": "High Jump Kick",
@@ -2000,8 +2000,8 @@
     {
         "name": "Flower Trick",
         "type": "Grass",
-        "power": 75.0,
-        "duration": 2700,
+        "power": 85.0,
+        "duration": 3000,
         "damage_window_start": 1800,
         "damage_window_end": 2700,
         "energy_delta": -33
@@ -2063,8 +2063,8 @@
     {
         "name": "Thunder Cage",
         "type": "Electric",
-        "power": 220.0,
-        "duration": 3300,
+        "power": 230.0,
+        "duration": 3500,
         "damage_window_start": 1880,
         "damage_window_end": 3200,
         "energy_delta": -100
@@ -2081,8 +2081,8 @@
     {
         "name": "Clanging Scales",
         "type": "Dragon",
-        "power": 120.0,
-        "duration": 3300,
+        "power": 130.0,
+        "duration": 3500,
         "damage_window_start": 1880,
         "damage_window_end": 3200,
         "energy_delta": -100
@@ -2090,8 +2090,8 @@
     {
         "name": "Crush Grip",
         "type": "Normal",
-        "power": 210.0,
-        "duration": 1800,
+        "power": 230.0,
+        "duration": 2000,
         "damage_window_start": 700,
         "damage_window_end": 1700,
         "energy_delta": -100
@@ -2099,8 +2099,8 @@
     {
         "name": "Dragon Energy",
         "type": "Dragon",
-        "power": 155.0,
-        "duration": 3300,
+        "power": 165.0,
+        "duration": 3500,
         "damage_window_start": 1880,
         "damage_window_end": 3200,
         "energy_delta": -50
