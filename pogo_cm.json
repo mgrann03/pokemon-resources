@@ -2000,7 +2000,7 @@
     {
         "name": "Flower Trick",
         "type": "Grass",
-        "power": 85.0,
+        "power": 75.0,
         "duration": 3000,
         "damage_window_start": 1800,
         "damage_window_end": 2700,
@@ -2063,7 +2063,7 @@
     {
         "name": "Thunder Cage",
         "type": "Electric",
-        "power": 230.0,
+        "power": 220.0,
         "duration": 3500,
         "damage_window_start": 1880,
         "damage_window_end": 3200,
@@ -2081,7 +2081,7 @@
     {
         "name": "Clanging Scales",
         "type": "Dragon",
-        "power": 130.0,
+        "power": 120.0,
         "duration": 3500,
         "damage_window_start": 1880,
         "damage_window_end": 3200,
@@ -2090,7 +2090,7 @@
     {
         "name": "Crush Grip",
         "type": "Normal",
-        "power": 230.0,
+        "power": 210.0,
         "duration": 2000,
         "damage_window_start": 700,
         "damage_window_end": 1700,
@@ -2099,7 +2099,7 @@
     {
         "name": "Dragon Energy",
         "type": "Dragon",
-        "power": 165.0,
+        "power": 155.0,
         "duration": 3500,
         "damage_window_start": 1880,
         "damage_window_end": 3200,
