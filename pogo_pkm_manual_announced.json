@@ -1,24 +1,71 @@
 [ 
     {
-        "id": 969,
-        "name": "Glimmet",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-01-27"
-    },
-    {
-        "id": 970,
-        "name": "Glimmora",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-01-27"
-    },
-    {
         "id": 973,
         "name": "Flamigo",
         "form": "Normal",
         "released": true,
         "eff_date": "2026-02-03"
+    },
+    {
+        "id": 71,
+        "name": "Mega Victreebel",
+        "form": "Mega",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 265,
+            "baseDefense": 181
+        },
+        "fm": [
+            "Razor Leaf",
+            "Acid"
+        ],
+        "cm": [
+            "Leaf Blade",
+            "Sludge Bomb",
+            "Solar Beam",
+            "Leaf Tornado",
+            "Acid Spray"
+        ],
+        "elite_fm": [
+            "Magical Leaf"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "eff_date": "2026-02-20"
+    },
+    {
+        "id": 687,
+        "name": "Mega Malamar",
+        "form": "Mega",
+        "types": [
+            "Dark",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 200,
+            "baseAttack": 208,
+            "baseDefense": 222
+        },
+        "fm": [
+            "Peck",
+            "Psycho Cut",
+            "Psywave"
+        ],
+        "cm": [
+            "Psybeam",
+            "Foul Play",
+            "Superpower",
+            "Hyper Beam"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "eff_date": "2026-02-20"
     },
 
 
@@ -118,37 +165,6 @@
         ],
         "elite_fm": [
             "Pound"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 4
-    },
-    {
-        "id": 71,
-        "name": "Mega Victreebel",
-        "form": "Mega",
-        "types": [
-            "Grass",
-            "Poison"
-        ],
-        "stats": {
-            "baseStamina": 190,
-            "baseAttack": 265,
-            "baseDefense": 181
-        },
-        "fm": [
-            "Razor Leaf",
-            "Acid"
-        ],
-        "cm": [
-            "Leaf Blade",
-            "Sludge Bomb",
-            "Solar Beam",
-            "Leaf Tornado",
-            "Acid Spray"
-        ],
-        "elite_fm": [
-            "Magical Leaf"
         ],
         "shadow": false,
         "released": false,
@@ -927,34 +943,6 @@
             "Energy Ball",
             "Thunderbolt",
             "Shadow Ball"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 4
-    },
-    {
-        "id": 687,
-        "name": "Mega Malamar",
-        "form": "Mega",
-        "types": [
-            "Dark",
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 200,
-            "baseAttack": 208,
-            "baseDefense": 222
-        },
-        "fm": [
-            "Peck",
-            "Psycho Cut",
-            "Psywave"
-        ],
-        "cm": [
-            "Psybeam",
-            "Foul Play",
-            "Superpower",
-            "Hyper Beam"
         ],
         "shadow": false,
         "released": false,
