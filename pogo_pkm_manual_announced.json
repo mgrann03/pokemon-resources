@@ -24,6 +24,29 @@
         "eff_date": "2026-02-28"
     },
 
+    
+    {
+        "id": 824,
+        "name": "Blipbug",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-03-17"
+    },
+    {
+        "id": 825,
+        "name": "Dottler",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-03-17"
+    },
+    {
+        "id": 826,
+        "name": "Orbeetle",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-03-17"
+    },
+
 
     {
         "id": 26,
