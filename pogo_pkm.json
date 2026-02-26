@@ -3132,7 +3132,8 @@
         ],
         "elite_cm": [
             "Fire Blast",
-            "Flamethrower"
+            "Flamethrower",
+            "Energy Ball"
         ],
         "shadow": true,
         "released": true,
@@ -3162,6 +3163,9 @@
             "Blizzard",
             "Psyshock",
             "Weather Ball Ice"
+        ],
+        "elite_cm": [
+            "Chilling Water"
         ],
         "shadow": true,
         "released": true
