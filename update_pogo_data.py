@@ -70,7 +70,7 @@ def main():
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
 
-    os.system("pause")
+    #os.system("pause")
 
 def ScrapeList(html, xpath, name):
     lis = html.xpath(xpath)

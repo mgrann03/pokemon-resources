@@ -30,13 +30,20 @@ def main():
     pkm_tier_map["TAUROS_PALDEA_AQUA_FORM"] = 3
     pkm_tier_map["TAUROS_PALDEA_BLAZE_FORM"] = 3
     pkm_tier_map["TAUROS_PALDEA_COMBAT_FORM"] = 3
-    pkm_tier_map["MAWILE_MEGA"] = 4
     pkm_tier_map["RAYQUAZA_MEGA"] = 6
     pkm_tier_map["REGIDRAGO"] = 5
     pkm_tier_map["REGIELEKI"] = 5
+    pkm_tier_map["VICTREEBEL_MEGA"] = 8
+    pkm_tier_map["MALAMAR_MEGA"] = 8
+    pkm_tier_map["DRAGONITE_MEGA"] = 8
+
+    # First by tier, then by pokemon name
+    # Corrects for how Pokebattler separates "current" raids from "all possible" raids in a tier
+    print("sorting tiers predictably...")
+    sorted_tiers = dict(sorted(pkm_tier_map.items(), key=lambda item: (item[1], item[0])))
 
     print("dumping into JSON file...")
-    json.dump(pkm_tier_map, open(JSON_TIER_PATH, "w"), indent=4)
+    json.dump(sorted_tiers, open(JSON_TIER_PATH, "w"), indent=4)
 
 # Filter down to real raid tiers (no shadow duplication, no dynamax, no empty)
 def IsValidTier(tier_obj):

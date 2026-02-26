@@ -4366,6 +4366,7 @@
         ],
         "shadow": false,
         "released": false,
+        "raid_tier": 8,
         "elite_fm": [
             "Magical Leaf"
         ],
@@ -7698,6 +7699,7 @@
         ],
         "shadow": false,
         "released": false,
+        "raid_tier": 8,
         "elite_cm": [
             "Draco Meteor",
             "Dragon Pulse"
@@ -28992,8 +28994,7 @@
             "Gyro Ball"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 680,
@@ -29265,6 +29266,7 @@
         ],
         "shadow": false,
         "released": false,
+        "raid_tier": 8,
         "types": [
             "Dark",
             "Psychic"
@@ -33614,7 +33616,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "raid_tier": 5
     },
     {
         "id": 793,
