@@ -24,6 +24,294 @@
         "eff_date": "2026-02-28"
     },
 
+
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "form": "Normal",
+        "cm": [
+            "Hurricane",
+            "Aerial Ace",
+            "Brave Bird",
+            "Feather Dance",
+            "Heat Wave"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 18,
+        "name": "Mega Pidgeot",
+        "form": "Mega",
+        "cm": [
+            "Hurricane",
+            "Aerial Ace",
+            "Brave Bird",
+            "Feather Dance",
+            "Heat Wave"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "form": "Normal",
+        "fm": [
+            "Frost Breath",
+            "Ice Shard",
+            "Powder Snow"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "form": "Normal",
+        "cm": [
+            "Zap Cannon",
+            "Thunderbolt",
+            "Thunder",
+            "Ancient Power",
+            "Drill Peck",
+            "Heat Wave"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "form": "Normal",
+        "cm": [
+            "Fire Blast",
+            "Heat Wave",
+            "Overheat",
+            "Ancient Power",
+            "Fly"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 176,
+        "name": "Togetic",
+        "form": "Normal",
+        "cm": [
+            "Ancient Power",
+            "Dazzling Gleam",
+            "Aerial Ace",
+            "Draining Kiss",
+            "Psyshock",
+            "Heat Wave"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 214,
+        "name": "Heracross",
+        "form": "Normal",
+        "fm": [
+            "Counter",
+            "Struggle Bug",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Megahorn",
+            "Close Combat",
+            "Earthquake",
+            "Rock Blast",
+            "Upper Hand",
+            "Rock Tomb"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 214,
+        "name": "Mega Heracross",
+        "form": "Mega",
+        "fm": [
+            "Counter",
+            "Struggle Bug",
+            "Fury Cutter"
+        ],
+        "cm": [
+            "Megahorn",
+            "Close Combat",
+            "Earthquake",
+            "Rock Blast",
+            "Upper Hand",
+            "Rock Tomb"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 323,
+        "name": "Camerupt",
+        "form": "Normal",
+        "cm": [
+            "Earthquake",
+            "Overheat",
+            "Solar Beam",
+            "Earth Power",
+            "Scorching Sands",
+            "Rock Tomb"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 323,
+        "name": "Mega Camerupt",
+        "form": "Mega",
+        "cm": [
+            "Earthquake",
+            "Overheat",
+            "Solar Beam",
+            "Earth Power",
+            "Scorching Sands",
+            "Rock Tomb"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 330,
+        "name": "Flygon",
+        "form": "Normal",
+        "cm": [
+            "Earthquake",
+            "Dragon Claw",
+            "Stone Edge",
+            "Boomburst",
+            "Scorching Sands",
+            "Sand Tomb",
+            "Twister"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 413,
+        "name": "Wormadam",
+        "form": "Plant",
+        "fm": [
+            "Confusion",
+            "Bug Bite",
+            "Sucker Punch"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 413,
+        "name": "Wormadam",
+        "form": "Sandy",
+        "fm": [
+            "Confusion",
+            "Bug Bite",
+            "Sucker Punch"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 413,
+        "name": "Wormadam",
+        "form": "Trash",
+        "fm": [
+            "Confusion",
+            "Bug Bite",
+            "Metal Sound",
+            "Sucker Punch"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    
+    {
+        "id": 445,
+        "name": "Garchomp",
+        "form": "Normal",
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Fire Blast",
+            "Sand Tomb",
+            "Breaking Swipe",
+            "Twister"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 445,
+        "name": "Mega Garchomp",
+        "form": "Mega",
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Fire Blast",
+            "Sand Tomb",
+            "Breaking Swipe",
+            "Twister"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 472,
+        "name": "Gliscor",
+        "form": "Normal",
+        "cm": [
+            "Earthquake",
+            "Aerial Ace",
+            "Night Slash",
+            "Sand Tomb",
+            "Acrobatics"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 479,
+        "name": "Rotom",
+        "form": "Mow",
+        "cm": [
+            "Ominous Wind",
+            "Thunderbolt",
+            "Thunder",
+            "Leaf Storm"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 545,
+        "name": "Scolipede",
+        "form": "Normal",
+        "cm": [
+            "Megahorn",
+            "Sludge Bomb",
+            "Gyro Ball",
+            "X-Scissor",
+            "Aqua Tail"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    {
+        "id": 721,
+        "name": "Volcanion",
+        "form": "Normal",
+        "cm": [
+            "Hydro Pump",
+            "Overheat",
+            "Earth Power",
+            "Sludge Bomb",
+            "Scald"
+        ],
+        "eff_date": "2026-03-03"
+    },
+    
+    {
+        "id": 802,
+        "name": "Marshadow",
+        "form": "Normal",
+        "fm": [
+            "Sucker Punch",
+            "Counter",
+            "Poison Jab",
+            "Shadow Claw"
+        ],
+        "eff_date": "2026-03-03"
+    },
+
     
     {
         "id": 824,
@@ -372,7 +660,8 @@
             "Earthquake",
             "Fire Blast",
             "Sand Tomb",
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Twister"
         ],
         "shadow": false,
         "released": false,
@@ -592,7 +881,8 @@
             "Megahorn",
             "Sludge Bomb",
             "Gyro Ball",
-            "X-Scissor"
+            "X-Scissor",
+            "Aqua Tail"
         ],
         "shadow": false,
         "released": false,
