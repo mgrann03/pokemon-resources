@@ -38992,7 +38992,7 @@
             "Sludge Wave"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 970,
@@ -39018,7 +39018,7 @@
             "Meteor Beam"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 971,
