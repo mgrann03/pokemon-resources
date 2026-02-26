@@ -37130,17 +37130,18 @@
         },
         "fm": [
             "Astonish",
-            "Zen Headbutt",
+            "Extrasensory",
             "Fairy Wind"
         ],
         "cm": [
-            "Dazzling Gleam",
+            "Moonblast",
             "Fly",
-            "Grass Knot"
+            "Earth Power",
+            "Mystical Fire"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
+        "released": true,
         "raid_tier": 5
     },
     {
