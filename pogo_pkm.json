@@ -4350,6 +4350,36 @@
         "raid_tier": 3
     },
     {
+        "id": 71,
+        "name": "Mega Victreebel",
+        "form": "Mega",
+        "fm": [
+            "Razor Leaf",
+            "Acid"
+        ],
+        "cm": [
+            "Leaf Blade",
+            "Sludge Bomb",
+            "Solar Beam",
+            "Leaf Tornado",
+            "Acid Spray"
+        ],
+        "shadow": false,
+        "released": false,
+        "elite_fm": [
+            "Magical Leaf"
+        ],
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 265,
+            "baseDefense": 181
+        }
+    },
+    {
         "id": 72,
         "name": "Tentacool",
         "form": "Normal",
@@ -7648,6 +7678,39 @@
         "shadow": true,
         "released": true,
         "raid_tier": 3
+    },
+    {
+        "id": 149,
+        "name": "Mega Dragonite",
+        "form": "Mega",
+        "fm": [
+            "Dragon Tail",
+            "Steel Wing",
+            "Dragon Breath"
+        ],
+        "cm": [
+            "Hurricane",
+            "Hyper Beam",
+            "Outrage",
+            "Dragon Claw",
+            "Superpower",
+            "Thunder Punch"
+        ],
+        "shadow": false,
+        "released": false,
+        "elite_cm": [
+            "Draco Meteor",
+            "Dragon Pulse"
+        ],
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 209,
+            "baseAttack": 299,
+            "baseDefense": 255
+        }
     },
     {
         "id": 150,
@@ -29184,6 +29247,33 @@
         ],
         "shadow": true,
         "released": true
+    },
+    {
+        "id": 687,
+        "name": "Mega Malamar",
+        "form": "Mega",
+        "fm": [
+            "Peck",
+            "Psycho Cut",
+            "Psywave"
+        ],
+        "cm": [
+            "Psybeam",
+            "Foul Play",
+            "Superpower",
+            "Hyper Beam"
+        ],
+        "shadow": false,
+        "released": false,
+        "types": [
+            "Dark",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 200,
+            "baseAttack": 208,
+            "baseDefense": 222
+        }
     },
     {
         "id": 688,

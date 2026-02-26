@@ -3,64 +3,26 @@
         "id": 71,
         "name": "Mega Victreebel",
         "form": "Mega",
-        "types": [
-            "Grass",
-            "Poison"
-        ],
-        "stats": {
-            "baseStamina": 190,
-            "baseAttack": 265,
-            "baseDefense": 181
-        },
-        "fm": [
-            "Razor Leaf",
-            "Acid"
-        ],
-        "cm": [
-            "Leaf Blade",
-            "Sludge Bomb",
-            "Solar Beam",
-            "Leaf Tornado",
-            "Acid Spray"
-        ],
-        "elite_fm": [
-            "Magical Leaf"
-        ],
-        "shadow": false,
         "released": true,
-        "raid_tier": 4,
-        "eff_date": "2026-02-20"
+        "raid_tier": 8,
+        "eff_date": "2026-02-28"
     },
     {
         "id": 687,
         "name": "Mega Malamar",
         "form": "Mega",
-        "types": [
-            "Dark",
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 200,
-            "baseAttack": 208,
-            "baseDefense": 222
-        },
-        "fm": [
-            "Peck",
-            "Psycho Cut",
-            "Psywave"
-        ],
-        "cm": [
-            "Psybeam",
-            "Foul Play",
-            "Superpower",
-            "Hyper Beam"
-        ],
-        "shadow": false,
         "released": true,
-        "raid_tier": 4,
-        "eff_date": "2026-02-20"
+        "raid_tier": 8,
+        "eff_date": "2026-02-28"
     },
-
+    {
+        "id": 149,
+        "name": "Mega Dragonite",
+        "form": "Mega",
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-02-28"
+    },
 
 
     {
@@ -192,40 +154,6 @@
         ],
         "elite_fm": [
             "Tackle"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 4
-    },
-    {
-        "id": 149,
-        "name": "Mega Dragonite",
-        "form": "Mega",
-        "types": [
-            "Dragon",
-            "Flying"
-        ],
-        "stats": {
-            "baseStamina": 209,
-            "baseAttack": 299,
-            "baseDefense": 255
-        },
-        "fm": [
-            "Dragon Tail",
-            "Steel Wing",
-            "Dragon Breath"
-        ],
-        "cm": [
-            "Hurricane",
-            "Hyper Beam",
-            "Outrage",
-            "Dragon Claw",
-            "Superpower",
-            "Thunder Punch"
-        ],
-        "elite_cm": [
-            "Draco Meteor",
-            "Dragon Pulse"
         ],
         "shadow": false,
         "released": false,
