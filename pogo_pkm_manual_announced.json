@@ -24,6 +24,21 @@
         "eff_date": "2026-02-28"
     },
 
+    {
+        "id": 815,
+        "name": "Cinderace",
+        "form": "Normal",
+        "cm": [
+            "Flame Charge",
+            "Flamethrower",
+            "Focus Blast",
+            "Pyro Ball"
+        ],
+        "elite_cm": [
+            "Blast Burn"
+        ],
+        "eff_date": "2026-03-14"
+    },
     
     {
         "id": 824,
