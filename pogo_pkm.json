@@ -808,7 +808,8 @@
             "Hurricane",
             "Aerial Ace",
             "Brave Bird",
-            "Feather Dance"
+            "Feather Dance",
+            "Heat Wave"
         ],
         "elite_fm": [
             "Wing Attack",
@@ -832,7 +833,8 @@
             "Hurricane",
             "Aerial Ace",
             "Brave Bird",
-            "Feather Dance"
+            "Feather Dance",
+            "Heat Wave"
         ],
         "shadow": false,
         "released": true,
@@ -6949,6 +6951,48 @@
         "released": true
     },
     {
+        "id": 132,
+        "name": "Ditto",
+        "form": "Spring_2026_a",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 134,
+            "baseAttack": 91,
+            "baseDefense": 91
+        },
+        "fm": [
+            "Transform"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 132,
+        "name": "Ditto",
+        "form": "Spring_2026_b",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 134,
+            "baseAttack": 91,
+            "baseDefense": 91
+        },
+        "fm": [
+            "Transform"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
         "id": 133,
         "name": "Eevee",
         "form": "Normal",
@@ -7437,7 +7481,8 @@
         },
         "fm": [
             "Frost Breath",
-            "Ice Shard"
+            "Ice Shard",
+            "Powder Snow"
         ],
         "cm": [
             "Ice Beam",
@@ -7502,7 +7547,8 @@
             "Thunderbolt",
             "Thunder",
             "Ancient Power",
-            "Drill Peck"
+            "Drill Peck",
+            "Heat Wave"
         ],
         "elite_fm": [
             "Thunder Shock"
@@ -7559,7 +7605,8 @@
             "Fire Blast",
             "Heat Wave",
             "Overheat",
-            "Ancient Power"
+            "Ancient Power",
+            "Fly"
         ],
         "elite_cm": [
             "Sky Attack"
@@ -8530,7 +8577,8 @@
             "Dazzling Gleam",
             "Aerial Ace",
             "Draining Kiss",
-            "Psyshock"
+            "Psyshock",
+            "Heat Wave"
         ],
         "elite_fm": [
             "Steel Wing",
@@ -10432,14 +10480,16 @@
         },
         "fm": [
             "Counter",
-            "Struggle Bug"
+            "Struggle Bug",
+            "Fury Cutter"
         ],
         "cm": [
             "Megahorn",
             "Close Combat",
             "Earthquake",
             "Rock Blast",
-            "Upper Hand"
+            "Upper Hand",
+            "Rock Tomb"
         ],
         "shadow": false,
         "released": true,
@@ -10451,14 +10501,16 @@
         "form": "Mega",
         "fm": [
             "Counter",
-            "Struggle Bug"
+            "Struggle Bug",
+            "Fury Cutter"
         ],
         "cm": [
             "Megahorn",
             "Close Combat",
             "Earthquake",
             "Rock Blast",
-            "Upper Hand"
+            "Upper Hand",
+            "Rock Tomb"
         ],
         "shadow": false,
         "released": true,
@@ -14026,7 +14078,9 @@
             "Earthquake",
             "Overheat",
             "Solar Beam",
-            "Earth Power"
+            "Earth Power",
+            "Rock Tomb",
+            "Scorching Sands"
         ],
         "shadow": true,
         "released": true,
@@ -14045,7 +14099,9 @@
             "Earthquake",
             "Overheat",
             "Solar Beam",
-            "Earth Power"
+            "Earth Power",
+            "Rock Tomb",
+            "Scorching Sands"
         ],
         "shadow": false,
         "released": true,
@@ -14721,7 +14777,8 @@
             "Stone Edge",
             "Boomburst",
             "Scorching Sands",
-            "Sand Tomb"
+            "Sand Tomb",
+            "Twister"
         ],
         "elite_cm": [
             "Earth Power"
@@ -17566,7 +17623,8 @@
         },
         "fm": [
             "Tackle",
-            "Bug Bite"
+            "Bug Bite",
+            "Sucker Punch"
         ],
         "cm": [
             "Struggle"
@@ -17589,7 +17647,8 @@
         },
         "fm": [
             "Confusion",
-            "Bug Bite"
+            "Bug Bite",
+            "Sucker Punch"
         ],
         "cm": [
             "Psybeam",
@@ -17614,7 +17673,8 @@
         },
         "fm": [
             "Confusion",
-            "Bug Bite"
+            "Bug Bite",
+            "Sucker Punch"
         ],
         "cm": [
             "Psybeam",
@@ -17640,7 +17700,8 @@
         "fm": [
             "Confusion",
             "Bug Bite",
-            "Metal Sound"
+            "Metal Sound",
+            "Sucker Punch"
         ],
         "cm": [
             "Psybeam",
@@ -18639,7 +18700,8 @@
             "Earthquake",
             "Fire Blast",
             "Sand Tomb",
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Twister"
         ],
         "elite_cm": [
             "Earth Power"
@@ -18661,7 +18723,8 @@
             "Earthquake",
             "Fire Blast",
             "Sand Tomb",
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Twister"
         ],
         "shadow": false,
         "released": true,
@@ -19487,7 +19550,8 @@
             "Earthquake",
             "Aerial Ace",
             "Night Slash",
-            "Sand Tomb"
+            "Sand Tomb",
+            "Acrobatics"
         ],
         "shadow": true,
         "released": true
@@ -19815,7 +19879,8 @@
         "cm": [
             "Ominous Wind",
             "Thunderbolt",
-            "Thunder"
+            "Thunder",
+            "Leaf Storm"
         ],
         "shadow": false,
         "released": true
@@ -22232,7 +22297,8 @@
             "Megahorn",
             "Sludge Bomb",
             "Gyro Ball",
-            "X-Scissor"
+            "X-Scissor",
+            "Aqua Tail"
         ],
         "shadow": true,
         "released": true,
@@ -30656,7 +30722,8 @@
             "Hydro Pump",
             "Overheat",
             "Earth Power",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Scald"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
@@ -33995,7 +34062,8 @@
         "fm": [
             "Sucker Punch",
             "Counter",
-            "Poison Jab"
+            "Poison Jab",
+            "Shadow Claw"
         ],
         "cm": [
             "Close Combat",
