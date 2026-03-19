@@ -33235,12 +33235,12 @@
         },
         "fm": [
             "Shadow Claw",
-            "Charm"
+            "Hex"
         ],
         "cm": [
             "Shadow Sneak",
             "Play Rough",
-            "Shadow Ball"
+            "Thunder"
         ],
         "shadow": false,
         "released": false
@@ -33260,12 +33260,12 @@
         },
         "fm": [
             "Shadow Claw",
-            "Charm"
+            "Hex"
         ],
         "cm": [
             "Shadow Sneak",
             "Play Rough",
-            "Shadow Ball"
+            "Thunder"
         ],
         "shadow": false,
         "released": false
@@ -33285,12 +33285,12 @@
         },
         "fm": [
             "Shadow Claw",
-            "Charm"
+            "Hex"
         ],
         "cm": [
             "Shadow Sneak",
             "Play Rough",
-            "Shadow Ball"
+            "Thunder"
         ],
         "shadow": false,
         "released": false
@@ -34404,7 +34404,11 @@
         "cm": [
             "Flame Charge",
             "Flamethrower",
-            "Focus Blast"
+            "Focus Blast",
+            "Pyro Ball"
+        ],
+        "elite_cm": [
+            "Blast Burn"
         ],
         "shadow": false,
         "released": true
@@ -34668,11 +34672,13 @@
         },
         "fm": [
             "Struggle Bug",
-            "Confusion"
+            "Confusion",
+            "Psycho Cut"
         ],
         "cm": [
             "Bug Buzz",
-            "Psychic"
+            "Psychic",
+            "Psyshock"
         ],
         "shadow": false,
         "released": false
