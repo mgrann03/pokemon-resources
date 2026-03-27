@@ -8,6 +8,27 @@
         ],
         "eff_date": "2026-04-11"
     },
+    {
+        "id": 843,
+        "name": "Silicobra",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-04-14"
+    },
+    {
+        "id": 844,
+        "name": "Sandaconda",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-04-14"
+    },
+    {
+        "id": 807,
+        "name": "Zeraora",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-05-29"
+    },
 
 
     {
