@@ -126,6 +126,24 @@
         "released": true
     },
     {
+        "id": 778,
+        "name": "Mimikyu",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 778,
+        "name": "Mimikyu",
+        "form": "Disguised",
+        "released": true
+    },
+    {
+        "id": 778,
+        "name": "Mimikyu",
+        "form": "Busted",
+        "released": true
+    },
+    {
         "id": 781,
         "name": "Dhelmise",
         "form": "Normal",
