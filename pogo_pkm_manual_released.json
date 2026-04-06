@@ -1,11 +1,5 @@
 [
     {
-        "id": 71,
-        "name": "Mega Victreebel",
-        "form": "Mega",
-        "released": false
-    },
-    {
         "id": 128,
         "name": "Tauros",
         "form": "Paldea_aqua",
@@ -22,12 +16,6 @@
         "name": "Tauros",
         "form": "Paldea_combat",
         "released": true
-    },
-    {
-        "id": 149,
-        "name": "Mega Dragonite",
-        "form": "Mega",
-        "released": false
     },
     {
         "id": 222,
@@ -100,12 +88,6 @@
         "name": "Aegislash",
         "form": "Shield",
         "released": true
-    },
-    {
-        "id": 687,
-        "name": "Mega Malamar",
-        "form": "Mega",
-        "released": false
     },
     {
         "id": 721,

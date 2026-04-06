@@ -4391,7 +4391,7 @@
             "Acid Spray"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 8,
         "elite_fm": [
             "Magical Leaf"
@@ -7769,7 +7769,7 @@
             "Thunder Punch"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 8,
         "elite_cm": [
             "Draco Meteor",
@@ -29355,7 +29355,7 @@
             "Hyper Beam"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 8,
         "types": [
             "Dark",
