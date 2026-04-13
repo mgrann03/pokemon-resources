@@ -2898,7 +2898,7 @@
             "Poison Jab",
             "Bite",
             "Poison Sting",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Earthquake",
@@ -3518,7 +3518,7 @@
             "baseDefense": 78
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Scratch",
             "Mud Shot"
         ],
@@ -3545,7 +3545,7 @@
             "baseDefense": 81
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Metal Claw",
             "Sand Attack"
         ],
@@ -3572,7 +3572,7 @@
         },
         "fm": [
             "Sucker Punch",
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -3599,7 +3599,7 @@
         },
         "fm": [
             "Metal Claw",
-            "Mud Slap",
+            "Mud-Slap",
             "Sand Attack"
         ],
         "cm": [
@@ -4529,7 +4529,7 @@
         },
         "fm": [
             "Rock Throw",
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -4585,7 +4585,7 @@
         },
         "fm": [
             "Rock Throw",
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -5196,7 +5196,7 @@
         },
         "fm": [
             "Poison Jab",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Sludge",
@@ -5870,7 +5870,7 @@
             "baseDefense": 144
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Rock Smash"
         ],
         "cm": [
@@ -5895,7 +5895,7 @@
             "baseDefense": 186
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Rock Smash"
         ],
         "cm": [
@@ -6126,7 +6126,7 @@
             "baseDefense": 127
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Rock Smash"
         ],
         "cm": [
@@ -6152,7 +6152,7 @@
             "baseDefense": 171
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Rock Smash"
         ],
         "cm": [
@@ -6234,7 +6234,7 @@
             "baseDefense": 165
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Low Kick"
         ],
         "cm": [
@@ -6256,7 +6256,7 @@
         "name": "Mega Kangaskhan",
         "form": "Mega",
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Low Kick"
         ],
         "cm": [
@@ -11122,7 +11122,7 @@
         "fm": [
             "Tackle",
             "Counter",
-            "Mud Slap",
+            "Mud-Slap",
             "Charm"
         ],
         "cm": [
@@ -15210,7 +15210,7 @@
         "fm": [
             "Extrasensory",
             "Confusion",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Gyro Ball",
@@ -16939,7 +16939,7 @@
         "fm": [
             "Bite",
             "Razor Leaf",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Stone Edge",
@@ -17997,7 +17997,7 @@
             "baseDefense": 105
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Hidden Power"
         ],
         "cm": [
@@ -18021,7 +18021,7 @@
             "baseDefense": 105
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Hidden Power"
         ],
         "cm": [
@@ -18046,7 +18046,7 @@
             "baseDefense": 105
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Hidden Power"
         ],
         "cm": [
@@ -18072,7 +18072,7 @@
             "baseDefense": 143
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Hidden Power"
         ],
         "cm": [
@@ -18098,7 +18098,7 @@
             "baseDefense": 143
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Hidden Power"
         ],
         "cm": [
@@ -18124,7 +18124,7 @@
             "baseDefense": 143
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Hidden Power"
         ],
         "cm": [
@@ -19334,7 +19334,7 @@
             "baseDefense": 190
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Smack Down"
         ],
         "cm": [
@@ -19594,7 +19594,7 @@
             "baseDefense": 146
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Powder Snow"
         ],
         "cm": [
@@ -21762,7 +21762,7 @@
             "baseDefense": 143
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Smack Down"
         ],
         "cm": [
@@ -21787,7 +21787,7 @@
             "baseDefense": 201
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Smack Down"
         ],
         "cm": [
@@ -21870,7 +21870,7 @@
         },
         "fm": [
             "Scratch",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Rock Tomb",
@@ -21896,7 +21896,7 @@
         },
         "fm": [
             "Metal Claw",
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -22568,7 +22568,7 @@
         },
         "fm": [
             "Bite",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Dig",
@@ -22593,7 +22593,7 @@
         },
         "fm": [
             "Bite",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Earthquake",
@@ -22618,7 +22618,7 @@
         },
         "fm": [
             "Snarl",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Earthquake",
@@ -24954,7 +24954,7 @@
         },
         "fm": [
             "Astonish",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Shadow Punch",
@@ -24980,7 +24980,7 @@
         },
         "fm": [
             "Astonish",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Shadow Punch",
@@ -26465,7 +26465,7 @@
             "baseDefense": 72
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Quick Attack"
         ],
         "cm": [
@@ -29382,7 +29382,7 @@
         },
         "fm": [
             "Scratch",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Ancient Power",
@@ -29408,7 +29408,7 @@
         },
         "fm": [
             "Water Gun",
-            "Mud Slap",
+            "Mud-Slap",
             "Fury Cutter"
         ],
         "cm": [
@@ -29569,7 +29569,7 @@
         "fm": [
             "Quick Attack",
             "Volt Switch",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Parabolic Charge",
@@ -31257,7 +31257,7 @@
         "fm": [
             "Bug Bite",
             "Spark",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "X-Scissor",
@@ -31288,7 +31288,7 @@
         "fm": [
             "Bug Bite",
             "Spark",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "X-Scissor",
@@ -31822,7 +31822,7 @@
             "baseDefense": 121
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Rock Smash"
         ],
         "cm": [
@@ -31846,7 +31846,7 @@
             "baseDefense": 174
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Rock Smash"
         ],
         "cm": [
@@ -35106,7 +35106,7 @@
             "baseDefense": 123
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -35131,7 +35131,7 @@
             "baseDefense": 207
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -38494,7 +38494,7 @@
             "baseDefense": 70
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Poison Jab"
         ],
         "cm": [
@@ -38519,7 +38519,7 @@
             "baseDefense": 149
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Poison Jab"
         ],
         "cm": [
@@ -38594,7 +38594,7 @@
             "baseDefense": 149
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -38619,7 +38619,7 @@
             "baseDefense": 209
         },
         "fm": [
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -38645,7 +38645,7 @@
         },
         "fm": [
             "Rock Throw",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Rock Slide",
@@ -38895,7 +38895,7 @@
         },
         "fm": [
             "Water Gun",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Liquidation",
@@ -38919,7 +38919,7 @@
         },
         "fm": [
             "Water Gun",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Liquidation",
@@ -39154,7 +39154,7 @@
         },
         "fm": [
             "Iron Tail",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Rock Tomb",

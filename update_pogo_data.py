@@ -254,6 +254,8 @@ def CleanMove(move, is_fast):
         return "V-create"
     elif move == "X_SCISSOR": # Should be hyphenated
         return "X-Scissor"
+    elif move == "MUD_SLAP_FAST": # Should be hyphenated
+        return "Mud-Slap"
     elif move == "NATURES_MADNESS": # Should be possessive
         return "Nature's Madness"
     elif move == "PYROBALL": # Should be 2 words

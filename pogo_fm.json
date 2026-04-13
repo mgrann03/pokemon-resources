@@ -321,7 +321,7 @@
     },
     {
         "id": 233,
-        "name": "Mud Slap",
+        "name": "Mud-Slap",
         "type": "Ground",
         "power": 19.0,
         "duration": 1500,
