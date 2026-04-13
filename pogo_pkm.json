@@ -38875,6 +38875,9 @@
             "Bulldoze",
             "Heavy Slam"
         ],
+        "elite_cm": [
+            "Gigaton Hammer"
+        ],
         "shadow": false,
         "released": true
     },

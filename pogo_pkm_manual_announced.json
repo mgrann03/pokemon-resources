@@ -1,14 +1,5 @@
 [  
     {
-        "id": 959,
-        "name": "Tinkaton",
-        "form": "Normal",
-        "elite_cm": [
-            "Gigaton Hammer"
-        ],
-        "eff_date": "2026-04-11"
-    },
-    {
         "id": 843,
         "name": "Silicobra",
         "form": "Normal",
