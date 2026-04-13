@@ -248,8 +248,6 @@ def CleanMove(move, is_fast):
         return "Lock-On"
     elif move == "POWER_UP_PUNCH": # Should be hyphenated
         return "Power-Up Punch"
-    elif move == "TRI_ATTACK": # Should be hyphenated
-        return "Tri-Attack"
     elif move == "V_CREATE": # Should be hyphenated
         return "V-create"
     elif move == "X_SCISSOR": # Should be hyphenated
