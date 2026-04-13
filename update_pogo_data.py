@@ -258,6 +258,8 @@ def CleanMove(move, is_fast):
         return "Nature's Madness"
     elif move == "PYROBALL": # Should be 2 words
         return "Pyro Ball"
+    elif move == "VICE_GRIP": # Should be Vise
+        return "Vise Grip"
     elif isinstance(move, str):
         return (move[:-5] if is_fast else move).replace("_", " ").title()
     else: # if move isn't a string...
