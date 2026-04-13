@@ -84,6 +84,24 @@
         "eff_date": "2026-04-30"
     },
     {
+        "id": 916,
+        "name": "Oinkologne",
+        "form": "Normal",
+        "elite_fm": [
+            "Mud Slap"
+        ],
+        "eff_date": "2026-05-09"
+    },
+    {
+        "id": 916,
+        "name": "Oinkologne",
+        "form": "Female",
+        "elite_fm": [
+            "Mud Slap"
+        ],
+        "eff_date": "2026-05-09"
+    },
+    {
         "id": 807,
         "name": "Zeraora",
         "form": "Normal",
