@@ -260,6 +260,8 @@ def CleanMove(move, is_fast):
         return "Nature's Madness"
     elif move == "PYROBALL": # Should be 2 words
         return "Pyro Ball"
+    elif move == "FUTURESIGHT": # Should be 2 words
+        return "Future Sight"
     elif move == "VICE_GRIP": # Should be Vise
         return "Vise Grip"
     elif isinstance(move, str):
