@@ -88,7 +88,7 @@
         "name": "Oinkologne",
         "form": "Normal",
         "elite_fm": [
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "eff_date": "2026-05-09"
     },
@@ -97,7 +97,7 @@
         "name": "Oinkologne",
         "form": "Female",
         "elite_fm": [
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "eff_date": "2026-05-09"
     },
@@ -619,7 +619,7 @@
         },
         "fm": [
             "Metal Claw",
-            "Mud Slap",
+            "Mud-Slap",
             "Mud Shot"
         ],
         "cm": [
@@ -766,7 +766,7 @@
         },
         "fm": [
             "Astonish",
-            "Mud Slap"
+            "Mud-Slap"
         ],
         "cm": [
             "Shadow Punch",
@@ -971,7 +971,7 @@
         },
         "fm": [
             "Water Gun",
-            "Mud Slap",
+            "Mud-Slap",
             "Fury Cutter"
         ],
         "cm": [
