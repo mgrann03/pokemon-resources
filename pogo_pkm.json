@@ -10852,7 +10852,7 @@
         "fm": [
             "Water Gun",
             "Mud Shot",
-            "Lock On"
+            "Lock-On"
         ],
         "cm": [
             "Gunk Shot",
@@ -11151,7 +11151,7 @@
         "fm": [
             "Hidden Power",
             "Charge Beam",
-            "Lock On"
+            "Lock-On"
         ],
         "cm": [
             "Solar Beam",
@@ -16295,7 +16295,7 @@
         "fm": [
             "Rock Throw",
             "Rock Smash",
-            "Lock On"
+            "Lock-On"
         ],
         "cm": [
             "Stone Edge",
@@ -16325,7 +16325,7 @@
         "fm": [
             "Frost Breath",
             "Rock Smash",
-            "Lock On"
+            "Lock-On"
         ],
         "cm": [
             "Blizzard",
@@ -16355,7 +16355,7 @@
         "fm": [
             "Metal Claw",
             "Rock Smash",
-            "Lock On"
+            "Lock-On"
         ],
         "cm": [
             "Flash Cannon",
@@ -19625,7 +19625,7 @@
         "fm": [
             "Hidden Power",
             "Charge Beam",
-            "Lock On"
+            "Lock-On"
         ],
         "cm": [
             "Solar Beam",
@@ -36924,7 +36924,7 @@
         },
         "fm": [
             "Thunder Shock",
-            "Lock On",
+            "Lock-On",
             "Volt Switch"
         ],
         "cm": [

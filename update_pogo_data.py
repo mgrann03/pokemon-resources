@@ -244,7 +244,7 @@ def CleanMove(move, is_fast):
         return "Force Palm"
     elif move == "SUPER_POWER": # Should be 1 word
         return "Superpower"
-    elif move == "LOCK_ON": # Should be hyphenated
+    elif move == "LOCK_ON_FAST": # Should be hyphenated
         return "Lock-On"
     elif move == "POWER_UP_PUNCH": # Should be hyphenated
         return "Power-Up Punch"

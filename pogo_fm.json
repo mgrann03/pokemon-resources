@@ -801,7 +801,7 @@
     },
     {
         "id": 325,
-        "name": "Lock On",
+        "name": "Lock-On",
         "type": "Normal",
         "power": 2.0,
         "duration": 500,
