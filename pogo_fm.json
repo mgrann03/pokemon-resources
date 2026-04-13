@@ -1,5 +1,6 @@
 [
     {
+        "id": 200,
         "name": "Fury Cutter",
         "type": "Bug",
         "power": 4.0,
@@ -9,6 +10,7 @@
         "energy_delta": 8
     },
     {
+        "id": 201,
         "name": "Bug Bite",
         "type": "Bug",
         "power": 5.0,
@@ -18,6 +20,7 @@
         "energy_delta": 6
     },
     {
+        "id": 202,
         "name": "Bite",
         "type": "Dark",
         "power": 6.0,
@@ -27,6 +30,7 @@
         "energy_delta": 4
     },
     {
+        "id": 203,
         "name": "Sucker Punch",
         "type": "Dark",
         "power": 5.0,
@@ -36,6 +40,7 @@
         "energy_delta": 6
     },
     {
+        "id": 204,
         "name": "Dragon Breath",
         "type": "Dragon",
         "power": 6.0,
@@ -45,6 +50,7 @@
         "energy_delta": 4
     },
     {
+        "id": 205,
         "name": "Thunder Shock",
         "type": "Electric",
         "power": 4.0,
@@ -54,6 +60,7 @@
         "energy_delta": 7
     },
     {
+        "id": 206,
         "name": "Spark",
         "type": "Electric",
         "power": 4.0,
@@ -63,6 +70,7 @@
         "energy_delta": 6
     },
     {
+        "id": 207,
         "name": "Low Kick",
         "type": "Fighting",
         "power": 5.0,
@@ -72,6 +80,7 @@
         "energy_delta": 5
     },
     {
+        "id": 208,
         "name": "Karate Chop",
         "type": "Fighting",
         "power": 10.0,
@@ -81,6 +90,7 @@
         "energy_delta": 13
     },
     {
+        "id": 209,
         "name": "Ember",
         "type": "Fire",
         "power": 10.0,
@@ -90,6 +100,7 @@
         "energy_delta": 10
     },
     {
+        "id": 210,
         "name": "Wing Attack",
         "type": "Flying",
         "power": 10.0,
@@ -99,6 +110,7 @@
         "energy_delta": 11
     },
     {
+        "id": 211,
         "name": "Peck",
         "type": "Flying",
         "power": 10.0,
@@ -108,6 +120,7 @@
         "energy_delta": 10
     },
     {
+        "id": 212,
         "name": "Lick",
         "type": "Ghost",
         "power": 5.0,
@@ -117,6 +130,7 @@
         "energy_delta": 6
     },
     {
+        "id": 213,
         "name": "Shadow Claw",
         "type": "Ghost",
         "power": 6.0,
@@ -126,6 +140,7 @@
         "energy_delta": 4
     },
     {
+        "id": 214,
         "name": "Vine Whip",
         "type": "Grass",
         "power": 6.0,
@@ -135,6 +150,7 @@
         "energy_delta": 5
     },
     {
+        "id": 215,
         "name": "Razor Leaf",
         "type": "Grass",
         "power": 13.0,
@@ -144,6 +160,7 @@
         "energy_delta": 7
     },
     {
+        "id": 216,
         "name": "Mud Shot",
         "type": "Ground",
         "power": 4.0,
@@ -153,6 +170,7 @@
         "energy_delta": 6
     },
     {
+        "id": 217,
         "name": "Ice Shard",
         "type": "Ice",
         "power": 10.0,
@@ -162,6 +180,7 @@
         "energy_delta": 10
     },
     {
+        "id": 218,
         "name": "Frost Breath",
         "type": "Ice",
         "power": 11.0,
@@ -171,6 +190,7 @@
         "energy_delta": 9
     },
     {
+        "id": 219,
         "name": "Quick Attack",
         "type": "Normal",
         "power": 10.0,
@@ -180,6 +200,7 @@
         "energy_delta": 13
     },
     {
+        "id": 220,
         "name": "Scratch",
         "type": "Normal",
         "power": 6.0,
@@ -189,6 +210,7 @@
         "energy_delta": 4
     },
     {
+        "id": 221,
         "name": "Tackle",
         "type": "Normal",
         "power": 5.0,
@@ -198,6 +220,7 @@
         "energy_delta": 5
     },
     {
+        "id": 222,
         "name": "Pound",
         "type": "Normal",
         "power": 6.0,
@@ -207,6 +230,7 @@
         "energy_delta": 5
     },
     {
+        "id": 223,
         "name": "Cut",
         "type": "Normal",
         "power": 5.0,
@@ -216,6 +240,7 @@
         "energy_delta": 5
     },
     {
+        "id": 224,
         "name": "Poison Jab",
         "type": "Poison",
         "power": 13.0,
@@ -225,6 +250,7 @@
         "energy_delta": 9
     },
     {
+        "id": 225,
         "name": "Acid",
         "type": "Poison",
         "power": 11.0,
@@ -234,6 +260,7 @@
         "energy_delta": 10
     },
     {
+        "id": 226,
         "name": "Psycho Cut",
         "type": "Psychic",
         "power": 4.0,
@@ -243,6 +270,7 @@
         "energy_delta": 7
     },
     {
+        "id": 227,
         "name": "Rock Throw",
         "type": "Rock",
         "power": 13.0,
@@ -252,6 +280,7 @@
         "energy_delta": 8
     },
     {
+        "id": 228,
         "name": "Metal Claw",
         "type": "Steel",
         "power": 6.0,
@@ -261,6 +290,7 @@
         "energy_delta": 5
     },
     {
+        "id": 229,
         "name": "Bullet Punch",
         "type": "Steel",
         "power": 10.0,
@@ -270,6 +300,7 @@
         "energy_delta": 11
     },
     {
+        "id": 230,
         "name": "Water Gun",
         "type": "Water",
         "power": 5.0,
@@ -279,6 +310,7 @@
         "energy_delta": 5
     },
     {
+        "id": 231,
         "name": "Splash",
         "type": "Water",
         "power": 0,
@@ -288,6 +320,7 @@
         "energy_delta": 17
     },
     {
+        "id": 233,
         "name": "Mud Slap",
         "type": "Ground",
         "power": 19.0,
@@ -297,6 +330,7 @@
         "energy_delta": 13
     },
     {
+        "id": 234,
         "name": "Zen Headbutt",
         "type": "Psychic",
         "power": 11.0,
@@ -306,6 +340,7 @@
         "energy_delta": 9
     },
     {
+        "id": 235,
         "name": "Confusion",
         "type": "Psychic",
         "power": 19.0,
@@ -315,6 +350,7 @@
         "energy_delta": 14
     },
     {
+        "id": 236,
         "name": "Poison Sting",
         "type": "Poison",
         "power": 4.0,
@@ -324,6 +360,7 @@
         "energy_delta": 6
     },
     {
+        "id": 237,
         "name": "Bubble",
         "type": "Water",
         "power": 10.0,
@@ -333,6 +370,7 @@
         "energy_delta": 12
     },
     {
+        "id": 238,
         "name": "Feint Attack",
         "type": "Dark",
         "power": 11.0,
@@ -342,6 +380,7 @@
         "energy_delta": 10
     },
     {
+        "id": 239,
         "name": "Steel Wing",
         "type": "Steel",
         "power": 14.0,
@@ -351,6 +390,7 @@
         "energy_delta": 8
     },
     {
+        "id": 240,
         "name": "Fire Fang",
         "type": "Fire",
         "power": 13.0,
@@ -360,6 +400,7 @@
         "energy_delta": 9
     },
     {
+        "id": 241,
         "name": "Rock Smash",
         "type": "Fighting",
         "power": 17.0,
@@ -369,6 +410,7 @@
         "energy_delta": 12
     },
     {
+        "id": 242,
         "name": "Transform",
         "type": "Normal",
         "power": 0,
@@ -378,6 +420,7 @@
         "energy_delta": 0
     },
     {
+        "id": 243,
         "name": "Counter",
         "type": "Fighting",
         "power": 13.0,
@@ -387,6 +430,7 @@
         "energy_delta": 9
     },
     {
+        "id": 244,
         "name": "Powder Snow",
         "type": "Ice",
         "power": 6.0,
@@ -396,6 +440,7 @@
         "energy_delta": 15
     },
     {
+        "id": 249,
         "name": "Charge Beam",
         "type": "Electric",
         "power": 7.0,
@@ -405,6 +450,7 @@
         "energy_delta": 14
     },
     {
+        "id": 250,
         "name": "Volt Switch",
         "type": "Electric",
         "power": 13.0,
@@ -414,6 +460,7 @@
         "energy_delta": 20
     },
     {
+        "id": 253,
         "name": "Dragon Tail",
         "type": "Dragon",
         "power": 14.0,
@@ -423,6 +470,7 @@
         "energy_delta": 8
     },
     {
+        "id": 255,
         "name": "Air Slash",
         "type": "Flying",
         "power": 12.0,
@@ -432,6 +480,7 @@
         "energy_delta": 8
     },
     {
+        "id": 260,
         "name": "Infestation",
         "type": "Bug",
         "power": 9.0,
@@ -441,6 +490,7 @@
         "energy_delta": 13
     },
     {
+        "id": 261,
         "name": "Struggle Bug",
         "type": "Bug",
         "power": 15.0,
@@ -450,6 +500,7 @@
         "energy_delta": 15
     },
     {
+        "id": 263,
         "name": "Astonish",
         "type": "Ghost",
         "power": 7.0,
@@ -459,6 +510,7 @@
         "energy_delta": 13
     },
     {
+        "id": 264,
         "name": "Hex",
         "type": "Ghost",
         "power": 8.0,
@@ -468,6 +520,7 @@
         "energy_delta": 13
     },
     {
+        "id": 266,
         "name": "Iron Tail",
         "type": "Steel",
         "power": 14.0,
@@ -477,6 +530,7 @@
         "energy_delta": 6
     },
     {
+        "id": 269,
         "name": "Fire Spin",
         "type": "Fire",
         "power": 13.0,
@@ -486,6 +540,7 @@
         "energy_delta": 9
     },
     {
+        "id": 271,
         "name": "Bullet Seed",
         "type": "Grass",
         "power": 7.0,
@@ -495,6 +550,7 @@
         "energy_delta": 13
     },
     {
+        "id": 274,
         "name": "Extrasensory",
         "type": "Psychic",
         "power": 11.0,
@@ -504,6 +560,7 @@
         "energy_delta": 11
     },
     {
+        "id": 278,
         "name": "Snarl",
         "type": "Dark",
         "power": 11.0,
@@ -513,6 +570,7 @@
         "energy_delta": 13
     },
     {
+        "id": 281,
         "name": "Hidden Power",
         "type": "Normal",
         "power": 15.0,
@@ -522,6 +580,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Fire",
         "type": "Fire",
         "power": 15.0,
@@ -531,6 +590,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Water",
         "type": "Water",
         "power": 15.0,
@@ -540,6 +600,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Grass",
         "type": "Grass",
         "power": 15.0,
@@ -549,6 +610,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Electric",
         "type": "Electric",
         "power": 15.0,
@@ -558,6 +620,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Ice",
         "type": "Ice",
         "power": 15.0,
@@ -567,6 +630,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Fighting",
         "type": "Fighting",
         "power": 15.0,
@@ -576,6 +640,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Poison",
         "type": "Poison",
         "power": 15.0,
@@ -585,6 +650,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Ground",
         "type": "Ground",
         "power": 15.0,
@@ -594,6 +660,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Flying",
         "type": "Flying",
         "power": 15.0,
@@ -603,6 +670,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Psychic",
         "type": "Psychic",
         "power": 15.0,
@@ -612,6 +680,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Bug",
         "type": "Bug",
         "power": 15.0,
@@ -621,6 +690,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Rock",
         "type": "Rock",
         "power": 15.0,
@@ -630,6 +700,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Ghost",
         "type": "Ghost",
         "power": 15.0,
@@ -639,6 +710,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Dragon",
         "type": "Dragon",
         "power": 15.0,
@@ -648,6 +720,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Dark",
         "type": "Dark",
         "power": 15.0,
@@ -657,6 +730,7 @@
         "energy_delta": 15
     },
     {
+        "id": 281,
         "name": "Hidden Power Steel",
         "type": "Steel",
         "power": 15.0,
@@ -666,6 +740,7 @@
         "energy_delta": 15
     },
     {
+        "id": 282,
         "name": "Take Down",
         "type": "Normal",
         "power": 7.0,
@@ -675,6 +750,7 @@
         "energy_delta": 8
     },
     {
+        "id": 283,
         "name": "Waterfall",
         "type": "Water",
         "power": 13.0,
@@ -684,6 +760,7 @@
         "energy_delta": 7
     },
     {
+        "id": 287,
         "name": "Yawn",
         "type": "Normal",
         "power": 0,
@@ -693,6 +770,7 @@
         "energy_delta": 13
     },
     {
+        "id": 291,
         "name": "Present",
         "type": "Normal",
         "power": 6.0,
@@ -702,6 +780,7 @@
         "energy_delta": 23
     },
     {
+        "id": 297,
         "name": "Smack Down",
         "type": "Rock",
         "power": 13.0,
@@ -711,6 +790,7 @@
         "energy_delta": 7
     },
     {
+        "id": 320,
         "name": "Charm",
         "type": "Fairy",
         "power": 20.0,
@@ -720,6 +800,7 @@
         "energy_delta": 11
     },
     {
+        "id": 325,
         "name": "Lock On",
         "type": "Normal",
         "power": 2.0,
@@ -729,6 +810,7 @@
         "energy_delta": 10
     },
     {
+        "id": 326,
         "name": "Thunder Fang",
         "type": "Electric",
         "power": 10.0,
@@ -738,6 +820,7 @@
         "energy_delta": 13
     },
     {
+        "id": 327,
         "name": "Ice Fang",
         "type": "Ice",
         "power": 12.0,
@@ -747,6 +830,7 @@
         "energy_delta": 20
     },
     {
+        "id": 345,
         "name": "Gust",
         "type": "Flying",
         "power": 25.0,
@@ -756,6 +840,7 @@
         "energy_delta": 20
     },
     {
+        "id": 346,
         "name": "Incinerate",
         "type": "Fire",
         "power": 32.0,
@@ -765,6 +850,7 @@
         "energy_delta": 22
     },
     {
+        "id": 350,
         "name": "Fairy Wind",
         "type": "Fairy",
         "power": 9.0,
@@ -774,6 +860,7 @@
         "energy_delta": 13
     },
     {
+        "id": 356,
         "name": "Double Kick",
         "type": "Fighting",
         "power": 10.0,
@@ -783,6 +870,7 @@
         "energy_delta": 13
     },
     {
+        "id": 357,
         "name": "Magical Leaf",
         "type": "Grass",
         "power": 17.0,
@@ -792,6 +880,7 @@
         "energy_delta": 17
     },
     {
+        "id": 368,
         "name": "Rollout",
         "type": "Rock",
         "power": 15.0,
@@ -801,6 +890,7 @@
         "energy_delta": 19
     },
     {
+        "id": 373,
         "name": "Water Shuriken",
         "type": "Water",
         "power": 9.0,
@@ -810,6 +900,7 @@
         "energy_delta": 14
     },
     {
+        "id": 385,
         "name": "Leafage",
         "type": "Grass",
         "power": 6.0,
@@ -819,6 +910,7 @@
         "energy_delta": 4
     },
     {
+        "id": 387,
         "name": "Geomancy",
         "type": "Fairy",
         "power": 20.0,
@@ -828,6 +920,7 @@
         "energy_delta": 14
     },
     {
+        "id": 401,
         "name": "Psywave",
         "type": "Psychic",
         "power": 4.0,
@@ -837,6 +930,7 @@
         "energy_delta": 7
     },
     {
+        "id": 402,
         "name": "Metal Sound",
         "type": "Steel",
         "power": 4.0,
@@ -846,6 +940,7 @@
         "energy_delta": 6
     },
     {
+        "id": 403,
         "name": "Sand Attack",
         "type": "Ground",
         "power": 4.0,
@@ -855,6 +950,7 @@
         "energy_delta": 7
     },
     {
+        "id": 462,
         "name": "Force Palm",
         "type": "Fighting",
         "power": 10.0,
