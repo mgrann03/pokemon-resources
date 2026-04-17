@@ -1,19 +1,5 @@
 [  
     {
-        "id": 843,
-        "name": "Silicobra",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-04-14"
-    },
-    {
-        "id": 844,
-        "name": "Sandaconda",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-04-14"
-    },
-    {
         "id": 968,
         "name": "Orthworm",
         "form": "Normal",
