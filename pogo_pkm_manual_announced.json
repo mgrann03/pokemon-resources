@@ -88,6 +88,20 @@
         "eff_date": "2026-05-09"
     },
     {
+        "id": 955,
+        "name": "Flittle",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-05-12"
+    },
+    {
+        "id": 956,
+        "name": "Espathra",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-05-12"
+    },
+    {
         "id": 807,
         "name": "Zeraora",
         "form": "Normal",
