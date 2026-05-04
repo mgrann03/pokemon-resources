@@ -25763,7 +25763,7 @@
             "Rock Slide",
             "Focus Blast"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -29549,7 +29549,7 @@
             "Bulldoze",
             "Thunderbolt"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -29578,7 +29578,7 @@
             "Grass Knot",
             "Breaking Swipe"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -31880,7 +31880,7 @@
             "Bubble Beam",
             "Mirror Coat"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -31906,7 +31906,7 @@
             "Mirror Coat",
             "Water Pulse"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -31983,7 +31983,7 @@
             "Dazzling Gleam",
             "Seed Bomb"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -32008,7 +32008,7 @@
             "Seed Bomb",
             "Sludge Bomb"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -32084,7 +32084,7 @@
             "Brick Break",
             "Stomp"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -32114,7 +32114,7 @@
         "elite_cm": [
             "Drain Punch"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -32143,7 +32143,7 @@
         "elite_cm": [
             "Drain Punch"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -39162,7 +39162,7 @@
             "Iron Head"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 969,

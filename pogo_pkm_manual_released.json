@@ -738,6 +738,12 @@
         "released": true
     },
     {
+        "id": 968,
+        "name": "Orthworm",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 969,
         "name": "Glimmet",
         "form": "Normal",

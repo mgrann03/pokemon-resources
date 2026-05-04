@@ -206,67 +206,7 @@
     {
         "id": 645,
         "name": "Landorus",
-        "form": "Incarnate",
-        "shadow": false
-    },
-    {
-        "id": 645,
-        "name": "Landorus",
         "form": "Therian",
-        "shadow": false
-    },
-    {
-        "id": 694,
-        "name": "Helioptile",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 695,
-        "name": "Heliolisk",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 751,
-        "name": "Dewpider",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 752,
-        "name": "Araquanid",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 755,
-        "name": "Morelull",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 756,
-        "name": "Shiinotic",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 759,
-        "name": "Stufful",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 760,
-        "name": "Bewear",
-        "form": "Normal",
-        "shadow": false
-    },
-    {
-        "id": 760,
-        "name": "Bewear",
-        "form": "Wildarea_2025",
         "shadow": false
     },
     {
