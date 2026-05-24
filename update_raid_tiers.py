@@ -36,6 +36,7 @@ def main():
     pkm_tier_map["VICTREEBEL_MEGA"] = 8
     pkm_tier_map["MALAMAR_MEGA"] = 8
     pkm_tier_map["DRAGONITE_MEGA"] = 8
+    pkm_tier_map["FALINKS_MEGA"] = 8
 
     # First by tier, then by pokemon name
     # Corrects for how Pokebattler separates "current" raids from "all possible" raids in a tier

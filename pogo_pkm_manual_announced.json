@@ -1,70 +1,9 @@
 [  
     {
-        "id": 916,
-        "name": "Oinkologne",
-        "form": "Normal",
-        "elite_fm": [
-            "Mud-Slap"
-        ],
-        "eff_date": "2026-05-09"
-    },
-    {
-        "id": 916,
-        "name": "Oinkologne",
-        "form": "Female",
-        "elite_fm": [
-            "Mud-Slap"
-        ],
-        "eff_date": "2026-05-09"
-    },
-    {
-        "id": 955,
-        "name": "Flittle",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-05-12"
-    },
-    {
-        "id": 956,
-        "name": "Espathra",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-05-12"
-    },
-    {
-        "id": 870,
-        "name": "Mega Falinks",
-        "form": "Mega",
-        "types": [
-            "Fighting"
-        ],
-        "stats": {
-            "baseStamina": 163,
-            "baseAttack": 267,
-            "baseDefense": 229
-        },
-        "fm": [
-            "Rock Smash",
-            "Counter"
-        ],
-        "cm": [
-            "Superpower",
-            "Brick Break",
-            "Megahorn"
-        ],
-        "shadow": false,
-        "released": true,
-        "raid_tier": 4,
-        "eff_date": "2026-05-23"
-    },
-    {
         "id": 807,
         "name": "Zeraora",
         "form": "Normal",
         "released": true,
-        "elite_cm": [
-            "Plasma Fists"
-        ],
         "eff_date": "2026-05-29"
     },
     {
@@ -74,43 +13,15 @@
         "elite_fm": [
             "Counter"
         ],
-        "eff_date": "2026-5-29"
+        "eff_date": "2026-05-29"
     },
     {
         "id": 150,
         "name": "Mega Mewtwo X",
         "form": "Mega",
-        "types": [
-            "Psychic",
-            "Fighting"
-        ],
-        "stats": {
-            "baseStamina": 228,
-            "baseAttack": 399,
-            "baseDefense": 215
-        },
-        "fm": [
-            "Psycho Cut",
-            "Confusion"
-        ],
         "elite_fm": [
             "Counter"
         ],
-        "cm": [
-            "Psychic",
-            "Thunderbolt",
-            "Ice Beam",
-            "Focus Blast",
-            "Flamethrower"
-        ],
-        "elite_cm": [
-            "Psystrike",
-            "Shadow Ball",
-            "Hyper Beam"
-        ],
-        "shadow": false,
-        "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
         "raid_tier": 6,
         "eff_date": "2026-05-29"
     },
@@ -118,36 +29,9 @@
         "id": 150,
         "name": "Mega Mewtwo Y",
         "form": "MegaY",
-        "types": [
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 228,
-            "baseAttack": 413,
-            "baseDefense": 223
-        },
-        "fm": [
-            "Psycho Cut",
-            "Confusion"
-        ],
         "elite_fm": [
             "Counter"
         ],
-        "cm": [
-            "Psychic",
-            "Thunderbolt",
-            "Ice Beam",
-            "Focus Blast",
-            "Flamethrower"
-        ],
-        "elite_cm": [
-            "Psystrike",
-            "Shadow Ball",
-            "Hyper Beam"
-        ],
-        "shadow": false,
-        "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false,
         "raid_tier": 6,
         "eff_date": "2026-05-29"
     },
@@ -1351,9 +1235,7 @@
         "cm": [
             "Thunder Punch",
             "Discharge",
-            "Wild Charge"
-        ],
-        "elite_cm": [
+            "Wild Charge",
             "Plasma Fists"
         ],
         "shadow": false,

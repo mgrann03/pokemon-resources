@@ -571,6 +571,28 @@
         "released": true
     },
     {
+        "id": 10,
+        "name": "Caterpie",
+        "form": "Gofest_2026",
+        "types": [
+            "Bug"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 55,
+            "baseDefense": 55
+        },
+        "fm": [
+            "Bug Bite",
+            "Tackle"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": true,
+        "released": true
+    },
+    {
         "id": 11,
         "name": "Metapod",
         "form": "Normal",
@@ -1470,6 +1492,37 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Fossil_2026",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Gofest_2022",
         "types": [
             "Electric"
@@ -1705,6 +1758,99 @@
         "id": 25,
         "name": "Pikachu",
         "form": "Gofest_2025_monocle_yellow",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2026_cap_blue",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2026_cap_red",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2026_cap_yellow",
         "types": [
             "Electric"
         ],
@@ -2452,6 +2598,37 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Visor_2026",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Vs_2019",
         "types": [
             "Electric"
@@ -2658,8 +2835,7 @@
             "Thunder"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 26,
@@ -2689,8 +2865,7 @@
             "Psyshock"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 27,
@@ -3126,8 +3301,7 @@
             "Weather Ball Ice"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 38,
@@ -3391,8 +3565,7 @@
             "Sludge Bomb"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 46,
@@ -3581,8 +3754,7 @@
             "Stone Edge"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 51,
@@ -7820,6 +7992,73 @@
     },
     {
         "id": 150,
+        "name": "Mega Mewtwo X",
+        "form": "Mega",
+        "fm": [
+            "Psycho Cut",
+            "Confusion"
+        ],
+        "cm": [
+            "Psychic",
+            "Thunderbolt",
+            "Ice Beam",
+            "Focus Blast",
+            "Flamethrower"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 6,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Psystrike",
+            "Shadow Ball",
+            "Hyper Beam"
+        ],
+        "types": [
+            "Psychic",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 228,
+            "baseAttack": 399,
+            "baseDefense": 215
+        }
+    },
+    {
+        "id": 150,
+        "name": "Mega Mewtwo Y",
+        "form": "MegaY",
+        "fm": [
+            "Psycho Cut",
+            "Confusion"
+        ],
+        "cm": [
+            "Psychic",
+            "Thunderbolt",
+            "Ice Beam",
+            "Focus Blast",
+            "Flamethrower"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 6,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_cm": [
+            "Psystrike",
+            "Shadow Ball",
+            "Hyper Beam"
+        ],
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 228,
+            "baseAttack": 413,
+            "baseDefense": 223
+        }
+    },
+    {
+        "id": 150,
         "name": "Mewtwo",
         "form": "A",
         "types": [
@@ -8747,8 +8986,7 @@
             "Dragon Pulse"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 181,
@@ -8859,8 +9097,7 @@
             "Ice Beam"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 185,
@@ -10814,6 +11051,30 @@
         "released": true
     },
     {
+        "id": 222,
+        "name": "Corsola",
+        "form": "Spring_2026",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 116,
+            "baseDefense": 182
+        },
+        "fm": [
+            "Tackle",
+            "Astonish"
+        ],
+        "cm": [
+            "Rock Blast",
+            "Power Gem",
+            "Night Shade"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
         "id": 223,
         "name": "Remoraid",
         "form": "Normal",
@@ -12610,8 +12871,7 @@
             "Bullet Seed"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 276,
@@ -16951,8 +17211,7 @@
             "Frenzy Plant"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 390,
@@ -23915,8 +24174,7 @@
             "Acrobatics"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 588,
@@ -23995,8 +24253,7 @@
             "Grass Knot"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 591,
@@ -29820,8 +30077,7 @@
             "Muddy Water"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 705,
@@ -29926,8 +30182,7 @@
             "Foul Play"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 709,
@@ -33399,8 +33654,7 @@
             "Brutal Swing"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 782,
@@ -33679,7 +33933,8 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "raid_tier": 5
     },
     {
         "id": 792,
@@ -34229,7 +34484,8 @@
         "cm": [
             "Thunder Punch",
             "Discharge",
-            "Wild Charge"
+            "Wild Charge",
+            "Plasma Fists"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
@@ -35442,8 +35698,7 @@
             "Psychic"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 854,
@@ -35949,6 +36204,31 @@
         "shadow": false,
         "released": true,
         "raid_tier": 3
+    },
+    {
+        "id": 870,
+        "name": "Mega Falinks",
+        "form": "Mega",
+        "fm": [
+            "Rock Smash",
+            "Counter"
+        ],
+        "cm": [
+            "Superpower",
+            "Brick Break",
+            "Megahorn"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 8,
+        "types": [
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 267,
+            "baseDefense": 229
+        }
     },
     {
         "id": 870,
@@ -36466,7 +36746,8 @@
             "Hyper Beam"
         ],
         "shadow": false,
-        "released": false
+        "released": false,
+        "raid_tier": 3
     },
     {
         "id": 885,
@@ -37616,6 +37897,9 @@
             "Trailblaze",
             "Body Slam"
         ],
+        "elite_fm": [
+            "Mud-Slap"
+        ],
         "shadow": false,
         "released": true
     },
@@ -37639,6 +37923,9 @@
             "Dig",
             "Trailblaze",
             "Body Slam"
+        ],
+        "elite_fm": [
+            "Mud-Slap"
         ],
         "shadow": false,
         "released": true
@@ -37767,8 +38054,7 @@
             "Wild Charge"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 922,
@@ -38653,7 +38939,8 @@
             "Bulldoze"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 951,
@@ -38777,7 +39064,7 @@
             "Psychic"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 956,
@@ -38802,7 +39089,7 @@
             "Dazzling Gleam"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 957,
