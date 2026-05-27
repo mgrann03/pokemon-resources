@@ -48,7 +48,6 @@ message Move {
   uint32      damage_window_start = 6;
   uint32      damage_window_end   = 7;
   int32       energy_delta        = 8;
-  bool        is_fast             = 9;
 }
 
 message MoveCollection {
