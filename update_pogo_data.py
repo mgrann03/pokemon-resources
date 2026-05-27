@@ -27,6 +27,7 @@ pogo_cm = [] # pogo charged moves object, will become json file
 
 pogo_seen = set() # set of all seen pokemon, to prevent duplication
 
+move_name_to_id = {} # move name string -> integer ID, for protobuf serialization
 def main():
 
     # gets user input
@@ -142,7 +143,8 @@ def AddPokemon(gm_obj):
                     "fm": pkm_obj["fm"],
                     "cm": pkm_obj["cm"],
                     "shadow": False,
-                    "released": pkm_obj["released"]
+                    "released": pkm_obj["released"],
+                    "mega": True
                 }
 
                 tier = pogo_pkm_tiers.get(gm_obj["templateId"][14:] + "_MEGA", 0)
@@ -218,17 +220,23 @@ def AddMove(gm_obj, is_fast):
         pogo_fm.append(move_obj)
     else:
         pogo_cm.append(move_obj)
-    
+
+    move_name_to_id[move_obj["name"]] = move_obj["id"]
+
     # checks for Hidden Power and adds corresponding moves
     HIDDEN_POWER_TYPES = ["Fire", "Water", "Grass", "Electric", "Ice",
                           "Fighting", "Poison", "Ground", "Flying", "Psychic",
                           "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel"]
     if move_obj["name"] == "Hidden Power" and is_fast:
+        hp_variant_id = 1000
         for type in HIDDEN_POWER_TYPES:
+            hp_variant_id += 1
             hidden_power_move_obj = copy.copy(move_obj)
             hidden_power_move_obj["name"] += " " + type
             hidden_power_move_obj["type"] = type
+            hidden_power_move_obj["id"] = hp_variant_id
             pogo_fm.append(hidden_power_move_obj)
+            move_name_to_id[hidden_power_move_obj["name"]] = hp_variant_id
 
 def CleanType(type):
     return type[13:].capitalize()
@@ -290,7 +298,7 @@ def ManualPatch(patch_fname):
     for pkm_obj in pogo_pkm:
         for manual_obj in list(pogo_pkm_manual):
             if pkm_obj["id"] == manual_obj["id"] and pkm_obj["name"] == manual_obj["name"] and pkm_obj["form"] == manual_obj["form"]:
-                for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "released"]:
+                for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "released", "mega"]:
                     if key in manual_obj:
                         if key in pkm_obj and pkm_obj[key] == manual_obj[key]:
                             name = pkm_obj["name"] + ("(" + pkm_obj["form"] + ")" if (pkm_obj["form"] != "Normal") else "")
