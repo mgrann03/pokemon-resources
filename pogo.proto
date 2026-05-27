@@ -1,0 +1,77 @@
+syntax = "proto3";
+
+// Pokemon type enum. Values match the consumer's POKEMON_TYPES array exactly.
+// DO NOT reorder without syncing both sides.
+enum PokemonType {
+  POKEMON_TYPE_NONE = 0;
+  NORMAL   = 1;
+  FIRE     = 2;
+  WATER    = 3;
+  GRASS    = 4;
+  ELECTRIC = 5;
+  ICE      = 6;
+  FIGHTING = 7;
+  POISON   = 8;
+  GROUND   = 9;
+  FLYING   = 10;
+  PSYCHIC  = 11;
+  BUG      = 12;
+  ROCK     = 13;
+  GHOST    = 14;
+  DRAGON   = 15;
+  DARK     = 16;
+  STEEL    = 17;
+  FAIRY    = 18;
+}
+
+// Pokemon class enum. CLASS_UNSET is the proto3 default (0) and means
+// the pokemonClass field was absent from GAME_MASTER.
+enum PokemonClass {
+  CLASS_UNSET     = 0;
+  CLASS_NORMAL    = 1;
+  CLASS_LEGENDARY = 2;
+  CLASS_MYTHIC    = 3;
+}
+
+message Stats {
+  uint32 base_stamina = 1;
+  uint32 base_attack  = 2;
+  uint32 base_defense = 3;
+}
+
+message Move {
+  uint32      id                  = 1;
+  string      name                = 2;
+  PokemonType type                = 3;
+  float       power               = 4;
+  uint32      duration            = 5;
+  uint32      damage_window_start = 6;
+  uint32      damage_window_end   = 7;
+  int32       energy_delta        = 8;
+  bool        is_fast             = 9;
+}
+
+message MoveCollection {
+  map<uint32, Move> moves = 1;
+}
+
+message Pokemon {
+  uint32               id        = 1;
+  string               name      = 2;
+  string               form      = 3;
+  repeated PokemonType types     = 4;
+  Stats                stats     = 5;
+  repeated uint32      fm        = 6;
+  repeated uint32      cm        = 7;
+  repeated uint32      elite_fm  = 8;
+  repeated uint32      elite_cm  = 9;
+  bool                 shadow    = 10;
+  bool                 released  = 11;
+  uint32               raid_tier = 12;
+  PokemonClass         class     = 13;
+  bool                 mega      = 14;
+}
+
+message PokemonCollection {
+  repeated Pokemon pokemon = 1;
+}
