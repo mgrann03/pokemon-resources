@@ -28,6 +28,35 @@ pogo_cm = [] # pogo charged moves object, will become json file
 pogo_seen = set() # set of all seen pokemon, to prevent duplication
 
 move_name_to_id = {} # move name string -> integer ID, for protobuf serialization
+
+type_string_to_enum = {
+    "None":     0,
+    "Normal":   1,
+    "Fire":     2,
+    "Water":    3,
+    "Grass":    4,
+    "Electric": 5,
+    "Ice":      6,
+    "Fighting": 7,
+    "Poison":   8,
+    "Ground":   9,
+    "Flying":   10,
+    "Psychic":  11,
+    "Bug":      12,
+    "Rock":     13,
+    "Ghost":    14,
+    "Dragon":   15,
+    "Dark":     16,
+    "Steel":    17,
+    "Fairy":    18,
+}
+
+class_string_to_enum = {
+    "POKEMON_CLASS_NORMAL":    1,
+    "POKEMON_CLASS_LEGENDARY": 2,
+    "POKEMON_CLASS_MYTHIC":    3,
+}
+
 def main():
 
     # gets user input
@@ -71,7 +100,81 @@ def main():
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
 
+    # dumps objects into protobuf files
+    print("dumping objects into protobuf files...")
+    import pogo_pb2
+
+    mc = pogo_pb2.MoveCollection()
+    for move_list in (pogo_fm, pogo_cm):
+        for m in move_list:
+            move = mc.moves[m["id"]]
+            move.id = m["id"]
+            move.name = m["name"]
+            move.type = type_string_to_enum.get(m["type"], pogo_pb2.POKEMON_TYPE_NONE)
+            move.power = m["power"]
+            move.duration = m["duration"]
+            move.damage_window_start = m["damage_window_start"]
+            move.damage_window_end = m["damage_window_end"]
+            move.energy_delta = m["energy_delta"]
+    with open("pogo_moves.pb", "wb") as f:
+        f.write(mc.SerializeToString())
+    print("  wrote pogo_moves.pb (" + str(len(mc.moves)) + " moves)")
+
+    pc = pogo_pb2.PokemonCollection()
+    for pkm in pogo_pkm:
+        GetPokemonProto(pc.pokemon.add(), pkm)
+    with open("pogo_pkm.pb", "wb") as f:
+        f.write(pc.SerializeToString())
+    print("  wrote pogo_pkm.pb (" + str(len(pc.pokemon)) + " pokemon)")
+
+    announced_path = "pogo_pkm_manual_announced.json"
+    if os.path.exists(announced_path):
+        announced = json.load(open(announced_path))
+        apc = pogo_pb2.PokemonCollection()
+        for pkm in announced:
+            GetPokemonProto(apc.pokemon.add(), pkm)
+        with open("pogo_pkm_manual_announced.pb", "wb") as f:
+            f.write(apc.SerializeToString())
+        print("  wrote pogo_pkm_manual_announced.pb (" + str(len(apc.pokemon)) + " entries)")
+
     #os.system("pause")
+
+def GetPokemonProto(p, pkm):
+    p.id = pkm["id"]
+    p.name = pkm["name"]
+    p.form = pkm.get("form", "Normal")
+    for t in pkm.get("types", []):
+        p.types.append(type_string_to_enum.get(t, 0))
+    if "stats" in pkm:
+        p.stats.base_stamina = pkm["stats"]["baseStamina"]
+        p.stats.base_attack = pkm["stats"]["baseAttack"]
+        p.stats.base_defense = pkm["stats"]["baseDefense"]
+    for move_name in pkm.get("fm", []):
+        if move_name in move_name_to_id:
+            p.fm.append(move_name_to_id[move_name])
+        else:
+            print("  WARNING: unknown FM '" + move_name + "' for " + pkm["name"] + " (" + pkm.get("form", "Normal") + ")")
+    for move_name in pkm.get("cm", []):
+        if move_name in move_name_to_id:
+            p.cm.append(move_name_to_id[move_name])
+        else:
+            print("  WARNING: unknown CM '" + move_name + "' for " + pkm["name"] + " (" + pkm.get("form", "Normal") + ")")
+    for move_name in pkm.get("elite_fm", []):
+        if move_name in move_name_to_id:
+            p.elite_fm.append(move_name_to_id[move_name])
+        else:
+            print("  WARNING: unknown elite FM '" + move_name + "' for " + pkm["name"] + " (" + pkm.get("form", "Normal") + ")")
+    for move_name in pkm.get("elite_cm", []):
+        if move_name in move_name_to_id:
+            p.elite_cm.append(move_name_to_id[move_name])
+        else:
+            print("  WARNING: unknown elite CM '" + move_name + "' for " + pkm["name"] + " (" + pkm.get("form", "Normal") + ")")
+    p.shadow = pkm.get("shadow", False)
+    p.released = pkm.get("released", False)
+    p.raid_tier = pkm.get("raid_tier", 0)
+    if "class" in pkm:
+        setattr(p, "class", class_string_to_enum.get(pkm["class"], 0))
+    p.mega = pkm.get("mega", False)
 
 def ScrapeList(html, xpath, name):
     lis = html.xpath(xpath)
