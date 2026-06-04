@@ -831,7 +831,8 @@
             "Aerial Ace",
             "Brave Bird",
             "Feather Dance",
-            "Heat Wave"
+            "Heat Wave",
+            "Twister"
         ],
         "elite_fm": [
             "Wing Attack",
@@ -856,7 +857,8 @@
             "Aerial Ace",
             "Brave Bird",
             "Feather Dance",
-            "Heat Wave"
+            "Heat Wave",
+            "Twister"
         ],
         "shadow": false,
         "released": true,
@@ -6611,7 +6613,8 @@
             "Thunder",
             "Ice Beam",
             "Psybeam",
-            "Surf"
+            "Surf",
+            "Aqua Jet"
         ],
         "elite_fm": [
             "Tackle"
@@ -7501,7 +7504,8 @@
         "cm": [
             "Ancient Power",
             "Water Pulse",
-            "Stone Edge"
+            "Stone Edge",
+            "Aqua Jet"
         ],
         "elite_fm": [
             "Fury Cutter"
@@ -7768,7 +7772,8 @@
             "baseDefense": 189
         },
         "fm": [
-            "Counter"
+            "Counter",
+            "Low Kick"
         ],
         "cm": [
             "Close Combat",
@@ -8563,13 +8568,15 @@
         "fm": [
             "Struggle Bug",
             "Bug Bite",
-            "Counter"
+            "Counter",
+            "Rollout"
         ],
         "cm": [
             "Bug Buzz",
             "Silver Wind",
             "Aerial Ace",
-            "Dynamic Punch"
+            "Dynamic Punch",
+            "Acrobatics"
         ],
         "shadow": true,
         "released": true
@@ -8899,7 +8906,8 @@
             "Ominous Wind",
             "Future Sight",
             "Aerial Ace",
-            "Psyshock"
+            "Psyshock",
+            "Shadow Ball"
         ],
         "shadow": true,
         "released": true,
@@ -10612,7 +10620,8 @@
             "Sludge Wave",
             "Acid Spray",
             "Fell Stinger",
-            "Scald"
+            "Scald",
+            "Shadow Ball"
         ],
         "shadow": true,
         "released": true,
@@ -11201,7 +11210,8 @@
             "Water Pulse",
             "Ice Beam",
             "Aerial Ace",
-            "Bubble Beam"
+            "Bubble Beam",
+            "Twister"
         ],
         "shadow": false,
         "released": true
@@ -11334,7 +11344,8 @@
             "Blizzard",
             "Outrage",
             "Octazooka",
-            "Swift"
+            "Swift",
+            "Surf"
         ],
         "elite_fm": [
             "Water Gun"
@@ -15759,7 +15770,9 @@
             "Thunder",
             "Ice Beam",
             "Aerial Ace",
-            "Shadow Sneak"
+            "Shadow Sneak",
+            "Dynamic Punch",
+            "Thunder Punch"
         ],
         "shadow": false,
         "released": true
@@ -18517,7 +18530,9 @@
             "Fire Punch",
             "Hyper Beam",
             "Focus Blast",
-            "Triple Axel"
+            "Triple Axel",
+            "Shadow Ball",
+            "Thunder Punch"
         ],
         "shadow": false,
         "released": true,
@@ -18536,7 +18551,9 @@
             "Fire Punch",
             "Hyper Beam",
             "Focus Blast",
-            "Triple Axel"
+            "Triple Axel",
+            "Shadow Ball",
+            "Thunder Punch"
         ],
         "shadow": false,
         "released": true,
@@ -19374,7 +19391,8 @@
         },
         "fm": [
             "Waterfall",
-            "Water Gun"
+            "Water Gun",
+            "Gust"
         ],
         "cm": [
             "Water Pulse",
@@ -19602,7 +19620,8 @@
             "Stone Edge",
             "Skull Bash",
             "Superpower",
-            "Breaking Swipe"
+            "Breaking Swipe",
+            "Drill Run"
         ],
         "elite_cm": [
             "Rock Wrecker"
@@ -22047,7 +22066,8 @@
         },
         "fm": [
             "Mud-Slap",
-            "Smack Down"
+            "Smack Down",
+            "Lock-On"
         ],
         "cm": [
             "Rock Slide",
@@ -22285,7 +22305,8 @@
         },
         "fm": [
             "Counter",
-            "Poison Jab"
+            "Poison Jab",
+            "Force Palm"
         ],
         "cm": [
             "Dynamic Punch",
@@ -22369,7 +22390,8 @@
         "cm": [
             "Muddy Water",
             "Earth Power",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Icy Wind"
         ],
         "shadow": false,
         "released": true
@@ -23798,13 +23820,15 @@
         },
         "fm": [
             "Water Gun",
-            "Air Slash"
+            "Air Slash",
+            "Gust"
         ],
         "cm": [
             "Ice Beam",
             "Bubble Beam",
             "Hurricane",
-            "Fly"
+            "Fly",
+            "Aqua Jet"
         ],
         "shadow": true,
         "released": true
@@ -29482,7 +29506,8 @@
         },
         "fm": [
             "Charm",
-            "Charge Beam"
+            "Charge Beam",
+            "Fairy Wind"
         ],
         "cm": [
             "Moonblast",
@@ -29964,12 +29989,14 @@
         },
         "fm": [
             "Charm",
-            "Quick Attack"
+            "Quick Attack",
+            "Fairy Wind"
         ],
         "cm": [
             "Moonblast",
             "Dazzling Gleam",
-            "Draining Kiss"
+            "Draining Kiss",
+            "Shadow Ball"
         ],
         "elite_cm": [
             "Last Resort",
@@ -30093,13 +30120,15 @@
         },
         "fm": [
             "Water Gun",
-            "Tackle"
+            "Tackle",
+            "Dragon Breath"
         ],
         "cm": [
             "Dragon Pulse",
             "Sludge Wave",
             "Muddy Water",
-            "Water Pulse"
+            "Water Pulse",
+            "Body Slam"
         ],
         "shadow": false,
         "released": true
@@ -34534,7 +34563,8 @@
             "Thunderbolt",
             "Hyper Beam",
             "Rock Slide",
-            "Superpower"
+            "Superpower",
+            "Dynamic Punch"
         ],
         "elite_cm": [
             "Double Iron Bash"
@@ -37836,7 +37866,8 @@
         },
         "fm": [
             "Water Gun",
-            "Wing Attack"
+            "Wing Attack",
+            "Low Kick"
         ],
         "cm": [
             "Aqua Jet",
