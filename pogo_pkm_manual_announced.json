@@ -35,6 +35,15 @@
         "raid_tier": 6,
         "eff_date": "2026-05-29"
     },
+    {
+        "id": 998,
+        "name": "Baxcalibur",
+        "form": "Normal",
+        "elite_cm": [
+            "Glaive Rush"
+        ],
+        "eff_date": "2026-06-20"
+    },
 
 
     {
@@ -1159,6 +1168,9 @@
             "Outrage",
             "Blizzard",
             "Icy Wind"
+        ],
+        "elite_cm": [
+            "Glaive Rush"
         ],
         "shadow": false,
         "released": false,

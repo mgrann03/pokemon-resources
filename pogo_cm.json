@@ -2428,5 +2428,15 @@
         "damage_window_start": 2500,
         "damage_window_end": 3000,
         "energy_delta": -50
+    },
+    {
+        "id": 498,
+        "name": "Glaive Rush",
+        "type": "Dragon",
+        "power": 105.0,
+        "duration": 2000,
+        "damage_window_start": 1700,
+        "damage_window_end": 1900,
+        "energy_delta": -50
     }
 ]
