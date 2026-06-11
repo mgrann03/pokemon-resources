@@ -142,6 +142,33 @@
         "shadow": true,
         "eff_date": "2026-06-25"
     },
+    {
+        "id": 227,
+        "name": "Mega Skarmory",
+        "form": "Mega",
+        "types": [
+            "Steel",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 273,
+            "baseDefense": 228
+        },
+        "fm": [
+            "Steel Wing",
+            "Air Slash"
+        ],
+        "cm": [
+            "Brave Bird",
+            "Sky Attack",
+            "Flash Cannon"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-06-27"
+    },
 
 
     {
@@ -338,32 +365,6 @@
         ],
         "elite_cm": [
             "Hydro Cannon"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 4
-    },
-    {
-        "id": 227,
-        "name": "Mega Skarmory",
-        "form": "Mega",
-        "types": [
-            "Steel",
-            "Flying"
-        ],
-        "stats": {
-            "baseStamina": 163,
-            "baseAttack": 273,
-            "baseDefense": 228
-        },
-        "fm": [
-            "Steel Wing",
-            "Air Slash"
-        ],
-        "cm": [
-            "Brave Bird",
-            "Sky Attack",
-            "Flash Cannon"
         ],
         "shadow": false,
         "released": false,
