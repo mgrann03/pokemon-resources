@@ -44,6 +44,34 @@
         ],
         "eff_date": "2026-06-20"
     },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "Blue",
+        "released": true,
+        "eff_date": "2026-06-23"
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "Green",
+        "released": true,
+        "eff_date": "2026-06-23"
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "White",
+        "released": true,
+        "eff_date": "2026-06-23"
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "Yellow",
+        "released": true,
+        "eff_date": "2026-06-23"
+    },
 
 
     {
