@@ -11243,6 +11243,32 @@
         "raid_tier": 3
     },
     {
+        "id": 227,
+        "name": "Mega Skarmory",
+        "form": "Mega",
+        "fm": [
+            "Steel Wing",
+            "Air Slash"
+        ],
+        "cm": [
+            "Brave Bird",
+            "Sky Attack",
+            "Flash Cannon"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 8,
+        "types": [
+            "Steel",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 273,
+            "baseDefense": 228
+        }
+    },
+    {
         "id": 228,
         "name": "Houndour",
         "form": "Normal",
@@ -25456,7 +25482,8 @@
             "Foul Play"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 1
     },
     {
         "id": 630,
@@ -34891,7 +34918,8 @@
             "Payback"
         ],
         "shadow": true,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 823,
@@ -38970,8 +38998,7 @@
             "Bulldoze"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 951,

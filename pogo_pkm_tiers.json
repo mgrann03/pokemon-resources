@@ -246,6 +246,7 @@
     "VOLBEAT": 1,
     "VOLTORB": 1,
     "VOLTORB_HISUIAN_FORM": 1,
+    "VULLABY": 1,
     "VULPIX": 1,
     "WARTORTLE": 1,
     "WEEDLE": 1,
@@ -294,6 +295,7 @@
     "CLOYSTER": 3,
     "COMBUSKEN": 3,
     "CORSOLA": 3,
+    "CORVISQUIRE": 3,
     "CRAWDAUNT": 3,
     "CROBAT": 3,
     "CRUSTLE": 3,
@@ -375,7 +377,6 @@
     "KADABRA": 3,
     "KANGASKHAN": 3,
     "KIRLIA": 3,
-    "KLAWF": 3,
     "KLEAVOR": 3,
     "LAIRON": 3,
     "LAMPENT": 3,
@@ -580,7 +581,6 @@
     "SCOVILLAIN_MEGA": 4,
     "SCRAFTY_MEGA": 4,
     "SHARPEDO_MEGA": 4,
-    "SKARMORY_MEGA": 4,
     "SLOWBRO_MEGA": 4,
     "STARAPTOR_MEGA": 4,
     "STARMIE_MEGA": 4,
@@ -758,5 +758,6 @@
     "DRAGONITE_MEGA": 8,
     "FALINKS_MEGA": 8,
     "MALAMAR_MEGA": 8,
+    "SKARMORY_MEGA": 8,
     "VICTREEBEL_MEGA": 8
 }
