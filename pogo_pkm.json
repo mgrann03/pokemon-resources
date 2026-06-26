@@ -5317,7 +5317,7 @@
         "elite_cm": [
             "Aqua Jet"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -5352,7 +5352,7 @@
             "Aqua Jet",
             "Icy Wind"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -8495,7 +8495,7 @@
             "Sky Attack",
             "Night Shade"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -8522,7 +8522,7 @@
             "Night Shade",
             "Shadow Ball"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -24849,7 +24849,7 @@
             "Aqua Tail",
             "Dragon Pulse"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -24874,7 +24874,7 @@
             "Aqua Tail",
             "Night Slash"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -24902,7 +24902,7 @@
         "elite_cm": [
             "Breaking Swipe"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -25957,7 +25957,7 @@
         "elite_cm": [
             "Fusion Flare"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -30607,7 +30607,7 @@
             "Air Cutter",
             "Heat Wave"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -30636,7 +30636,7 @@
         "elite_cm": [
             "Boomburst"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -34866,7 +34866,7 @@
             "Sky Attack",
             "Payback"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -34890,7 +34890,7 @@
             "Sky Attack",
             "Payback"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -34919,7 +34919,7 @@
             "Iron Head",
             "Air Cutter"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
