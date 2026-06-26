@@ -40352,6 +40352,9 @@
             "Blizzard",
             "Icy Wind"
         ],
+        "elite_cm": [
+            "Glaive Rush"
+        ],
         "shadow": false,
         "released": true
     },

@@ -240,8 +240,11 @@ def CleanMoves(moves, is_fast):
     return clean_moves
 
 def CleanMove(move, is_fast):
+    # Not following labelling conventions
     if move == "V0462_MOVE_FORCE_PALM_FAST":
         return "Force Palm"
+    
+    # Weird special characters or whitespace
     elif move == "SUPER_POWER": # Should be 1 word
         return "Superpower"
     elif move == "LOCK_ON_FAST": # Should be hyphenated
@@ -275,6 +278,8 @@ def CleanMove(move, is_fast):
             return "Trailblaze"
         elif move == 393:
             return "Scorching Sands"
+        elif move == 590:
+            return "Glaive Rush"
         else:
             return str(move)
 
