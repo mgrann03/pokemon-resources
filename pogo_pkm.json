@@ -40498,6 +40498,27 @@
         "released": true
     },
     {
+        "id": 999,
+        "name": "Gimmighoul",
+        "form": "Coin_a2_2026",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 140,
+            "baseDefense": 76
+        },
+        "fm": [
+            "Astonish"
+        ],
+        "cm": [
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
         "id": 1000,
         "name": "Gholdengo",
         "form": "Normal",
