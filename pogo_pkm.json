@@ -20431,13 +20431,13 @@
             "Iron Head",
             "Thunder"
         ],
+        "elite_cm": [
+            "Roar Of Time"
+        ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 5,
-        "elite_cm": [
-            "Roar Of Time"
-        ]
+        "raid_tier": 5
     },
     {
         "id": 484,
@@ -20490,13 +20490,13 @@
             "Hydro Pump",
             "Aqua Tail"
         ],
+        "elite_cm": [
+            "Spacial Rend"
+        ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 5,
-        "elite_cm": [
-            "Spacial Rend"
-        ]
+        "raid_tier": 5
     },
     {
         "id": 485,
