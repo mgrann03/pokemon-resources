@@ -36,80 +36,21 @@
         "eff_date": "2026-05-29"
     },
     {
-        "id": 227,
-        "name": "Mega Skarmory",
-        "form": "Mega",
-        "released": true,
-        "eff_date": "2026-06-27"
-    },
-
-
-    {
         "id": 26,
         "name": "Mega Raichu X",
         "form": "Mega",
-        "types": [
-            "Electric"
-        ],
-        "stats": {
-            "baseStamina": 155,
-            "baseAttack": 277,
-            "baseDefense": 203
-        },
-        "fm": [
-            "Volt Switch",
-            "Spark",
-            "Charm",
-            "Thunder Shock"
-        ],
-        "cm": [
-            "Brick Break",
-            "Thunder Punch",
-            "Wild Charge",
-            "Skull Bash",
-            "Trailblaze",
-            "Surf"
-        ],
-        "elite_cm": [
-            "Thunder"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 4
+        "released": true,
+        "eff_date": "2026-07-18"
     },
     {
         "id": 26,
         "name": "Mega Raichu Y",
         "form": "MegaY",
-        "types": [
-            "Electric"
-        ],
-        "stats": {
-            "baseStamina": 155,
-            "baseAttack": 339,
-            "baseDefense": 157
-        },
-        "fm": [
-            "Volt Switch",
-            "Spark",
-            "Charm",
-            "Thunder Shock"
-        ],
-        "cm": [
-            "Brick Break",
-            "Thunder Punch",
-            "Wild Charge",
-            "Skull Bash",
-            "Trailblaze",
-            "Surf"
-        ],
-        "elite_cm": [
-            "Thunder"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 4
+        "released": true,
+        "eff_date": "2026-07-18"
     },
+
+
     {
         "id": 36,
         "name": "Mega Clefable",

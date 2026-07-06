@@ -2841,6 +2841,72 @@
     },
     {
         "id": 26,
+        "name": "Mega Raichu X",
+        "form": "Mega",
+        "fm": [
+            "Volt Switch",
+            "Spark",
+            "Charm",
+            "Thunder Shock"
+        ],
+        "cm": [
+            "Brick Break",
+            "Thunder Punch",
+            "Wild Charge",
+            "Skull Bash",
+            "Trailblaze",
+            "Surf"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4,
+        "elite_cm": [
+            "Thunder"
+        ],
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 277,
+            "baseDefense": 203
+        }
+    },
+    {
+        "id": 26,
+        "name": "Mega Raichu Y",
+        "form": "MegaY",
+        "fm": [
+            "Volt Switch",
+            "Spark",
+            "Charm",
+            "Thunder Shock"
+        ],
+        "cm": [
+            "Brick Break",
+            "Thunder Punch",
+            "Wild Charge",
+            "Skull Bash",
+            "Trailblaze",
+            "Surf"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 4,
+        "elite_cm": [
+            "Thunder"
+        ],
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 339,
+            "baseDefense": 157
+        }
+    },
+    {
+        "id": 26,
         "name": "Raichu",
         "form": "Alola",
         "types": [
@@ -11256,7 +11322,7 @@
             "Flash Cannon"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 8,
         "types": [
             "Steel",
