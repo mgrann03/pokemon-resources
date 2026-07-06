@@ -34816,7 +34816,11 @@
         "cm": [
             "Water Pulse",
             "Surf",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Snipe Shot"
+        ],
+        "elite_cm": [
+            "Hydro Cannon"
         ],
         "shadow": false,
         "released": true
