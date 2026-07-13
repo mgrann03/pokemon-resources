@@ -1,5 +1,29 @@
 [
     {
+        "id": 150,
+        "name": "Mewtwo",
+        "form": "Normal",
+        "elite_fm": [
+            "Counter"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Mega Mewtwo X",
+        "form": "Mega",
+        "elite_fm": [
+            "Counter"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Mega Mewtwo Y",
+        "form": "MegaY",
+        "elite_fm": [
+            "Counter"
+        ]
+    },
+    {
         "id": 384,
         "name": "Rayquaza",
         "form": "Normal",

@@ -1,41 +1,5 @@
 [  
     {
-        "id": 807,
-        "name": "Zeraora",
-        "form": "Normal",
-        "released": true,
-        "eff_date": "2026-05-29"
-    },
-    {
-        "id": 150,
-        "name": "Mewtwo",
-        "form": "Normal",
-        "elite_fm": [
-            "Counter"
-        ],
-        "eff_date": "2026-05-29"
-    },
-    {
-        "id": 150,
-        "name": "Mega Mewtwo X",
-        "form": "Mega",
-        "elite_fm": [
-            "Counter"
-        ],
-        "raid_tier": 6,
-        "eff_date": "2026-05-29"
-    },
-    {
-        "id": 150,
-        "name": "Mega Mewtwo Y",
-        "form": "MegaY",
-        "elite_fm": [
-            "Counter"
-        ],
-        "raid_tier": 6,
-        "eff_date": "2026-05-29"
-    },
-    {
         "id": 26,
         "name": "Mega Raichu X",
         "form": "Mega",

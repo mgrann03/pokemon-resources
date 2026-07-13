@@ -1161,6 +1161,37 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Anniversary_2026",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Bb_2026",
         "types": [
             "Electric"
@@ -8059,7 +8090,10 @@
         "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 5
+        "raid_tier": 5,
+        "elite_fm": [
+            "Counter"
+        ]
     },
     {
         "id": 150,
@@ -8093,7 +8127,10 @@
             "baseStamina": 228,
             "baseAttack": 399,
             "baseDefense": 215
-        }
+        },
+        "elite_fm": [
+            "Counter"
+        ]
     },
     {
         "id": 150,
@@ -8126,7 +8163,10 @@
             "baseStamina": 228,
             "baseAttack": 413,
             "baseDefense": 223
-        }
+        },
+        "elite_fm": [
+            "Counter"
+        ]
     },
     {
         "id": 150,
@@ -20431,13 +20471,13 @@
             "Iron Head",
             "Thunder"
         ],
-        "elite_cm": [
-            "Roar Of Time"
-        ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 5
+        "raid_tier": 5,
+        "elite_cm": [
+            "Roar Of Time"
+        ]
     },
     {
         "id": 484,
@@ -20490,13 +20530,13 @@
             "Hydro Pump",
             "Aqua Tail"
         ],
-        "elite_cm": [
-            "Spacial Rend"
-        ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 5
+        "raid_tier": 5,
+        "elite_cm": [
+            "Spacial Rend"
+        ]
     },
     {
         "id": 485,
@@ -34611,7 +34651,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": false
+        "released": true
     },
     {
         "id": 808,
