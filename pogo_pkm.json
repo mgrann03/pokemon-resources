@@ -2889,8 +2889,8 @@
             "Surf"
         ],
         "shadow": false,
-        "released": false,
-        "raid_tier": 4,
+        "released": true,
+        "raid_tier": 8,
         "elite_cm": [
             "Thunder"
         ],
@@ -2922,8 +2922,8 @@
             "Surf"
         ],
         "shadow": false,
-        "released": false,
-        "raid_tier": 4,
+        "released": true,
+        "raid_tier": 8,
         "elite_cm": [
             "Thunder"
         ],

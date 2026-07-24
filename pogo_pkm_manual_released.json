@@ -1,17 +1,5 @@
 [
     {
-        "id": 26,
-        "name": "Mega Raichu X",
-        "form": "Mega",
-        "released": false
-    },
-    {
-        "id": 26,
-        "name": "Mega Raichu Y",
-        "form": "MegaY",
-        "released": false
-    },
-    {
         "id": 128,
         "name": "Tauros",
         "form": "Paldea_aqua",

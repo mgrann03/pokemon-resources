@@ -1,21 +1,5 @@
 [  
     {
-        "id": 26,
-        "name": "Mega Raichu X",
-        "form": "Mega",
-        "released": true,
-        "eff_date": "2026-07-18"
-    },
-    {
-        "id": 26,
-        "name": "Mega Raichu Y",
-        "form": "MegaY",
-        "released": true,
-        "eff_date": "2026-07-18"
-    },
-
-
-    {
         "id": 36,
         "name": "Mega Clefable",
         "form": "Mega",
