@@ -8082,6 +8082,9 @@
             "Focus Blast",
             "Flamethrower"
         ],
+        "elite_fm": [
+            "Counter"
+        ],
         "elite_cm": [
             "Psystrike",
             "Shadow Ball",
@@ -8090,10 +8093,7 @@
         "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
-        "raid_tier": 5,
-        "elite_fm": [
-            "Counter"
-        ]
+        "raid_tier": 5
     },
     {
         "id": 150,
@@ -8112,8 +8112,11 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 6,
+        "raid_tier": 9,
         "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_fm": [
+            "Counter"
+        ],
         "elite_cm": [
             "Psystrike",
             "Shadow Ball",
@@ -8127,10 +8130,7 @@
             "baseStamina": 228,
             "baseAttack": 399,
             "baseDefense": 215
-        },
-        "elite_fm": [
-            "Counter"
-        ]
+        }
     },
     {
         "id": 150,
@@ -8149,8 +8149,11 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 6,
+        "raid_tier": 9,
         "class": "POKEMON_CLASS_LEGENDARY",
+        "elite_fm": [
+            "Counter"
+        ],
         "elite_cm": [
             "Psystrike",
             "Shadow Ball",
@@ -8163,10 +8166,7 @@
             "baseStamina": 228,
             "baseAttack": 413,
             "baseDefense": 223
-        },
-        "elite_fm": [
-            "Counter"
-        ]
+        }
     },
     {
         "id": 150,
