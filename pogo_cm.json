@@ -2448,5 +2448,35 @@
         "damage_window_start": 2000,
         "damage_window_end": 2900,
         "energy_delta": -33
+    },
+    {
+        "id": 593,
+        "name": "Dive",
+        "type": "Water",
+        "power": 70.0,
+        "duration": 3300,
+        "damage_window_start": 0,
+        "damage_window_end": 0,
+        "energy_delta": -33
+    },
+    {
+        "id": 594,
+        "name": "Gulp Missile Gulping",
+        "type": "Normal",
+        "power": 0,
+        "duration": 2500,
+        "damage_window_start": 0,
+        "damage_window_end": 0,
+        "energy_delta": 0
+    },
+    {
+        "id": 595,
+        "name": "Gulp Missile Gorging",
+        "type": "Normal",
+        "power": 0,
+        "duration": 2500,
+        "damage_window_start": 0,
+        "damage_window_end": 0,
+        "energy_delta": 0
     }
 ]

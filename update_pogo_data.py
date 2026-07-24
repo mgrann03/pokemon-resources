@@ -208,7 +208,10 @@ def AddMove(gm_obj, is_fast):
         move_obj["damage_window_start"] = gm_obj_s["damageWindowStartMs"]
     else:
         move_obj["damage_window_start"] = 0
-    move_obj["damage_window_end"] = gm_obj_s["damageWindowEndMs"]
+    if "damageWindowEndMs" in gm_obj_s:
+        move_obj["damage_window_end"] = gm_obj_s["damageWindowEndMs"]
+    else:
+        move_obj["damage_window_end"] = 0
     if "energyDelta" in gm_obj_s:
         move_obj["energy_delta"] = gm_obj_s["energyDelta"]
     else:

@@ -35585,9 +35585,62 @@
             "Water Gun"
         ],
         "cm": [
-            "Drill Peck",
+            "Dive",
             "Fly",
-            "Hydro Pump"
+            "Hydro Pump",
+            "Surf"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Gorging",
+        "types": [
+            "Flying",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 173,
+            "baseDefense": 163
+        },
+        "fm": [
+            "Peck",
+            "Water Gun"
+        ],
+        "cm": [
+            "Dive",
+            "Fly",
+            "Hydro Pump",
+            "Surf"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Gulping",
+        "types": [
+            "Flying",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 173,
+            "baseDefense": 163
+        },
+        "fm": [
+            "Peck",
+            "Water Gun"
+        ],
+        "cm": [
+            "Dive",
+            "Fly",
+            "Hydro Pump",
+            "Surf"
         ],
         "shadow": false,
         "released": false
