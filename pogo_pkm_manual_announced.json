@@ -1,5 +1,41 @@
 [  
     {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-08-18"
+    },
+    {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Gorging",
+        "released": true,
+        "eff_date": "2026-08-18"
+    },
+    {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Gulping",
+        "released": true,
+        "eff_date": "2026-08-18"
+    },
+    {
+        "id": 846,
+        "name": "Arrokuda",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-08-18"
+    },
+    {
+        "id": 847,
+        "name": "Barraskewda",
+        "form": "Normal",
+        "released": true,
+        "eff_date": "2026-08-18"
+    },
+
+    {
         "id": 36,
         "name": "Mega Clefable",
         "form": "Mega",
