@@ -18,6 +18,9 @@ DIR = "pogo/"
 SHINY_DIR = "pogo-shiny/"
 DIR_256 = "pogo-256/"
 SHINY_DIR_256 = "pogo-shiny-256/"
+URL_ANI = "https://play.pokemonshowdown.com/sprites/"
+DIR_ANI = "ani/"
+DIR_ANI_SHINY = "ani-shiny/"
 
 # parses pokemon names json file
 pogo_pkm_names = json.load(open("../pogo_pkm_names.json"))
@@ -37,6 +40,9 @@ def main():
                 UpdatePokemon(URL + pm_filename, SHINY_DIR + filename, True)
                 UpdatePokemon(URL_256 + pm_filename, DIR_256 + filename, False)
                 UpdatePokemon(URL_256 + pm_filename, SHINY_DIR_256 + filename, True)
+                ani_filename = filename.replace(".png", ".gif")
+                UpdatePokemon(URL_ANI + DIR_ANI + ani_filename, DIR_ANI + ani_filename, False)
+                UpdatePokemon(URL_ANI + DIR_ANI_SHINY + ani_filename, DIR_ANI_SHINY + ani_filename, False)
                 print("]")
 
     os.system("pause")
