@@ -34,6 +34,42 @@
         "released": true,
         "eff_date": "2026-08-18"
     },
+    {
+        "id": 121,
+        "name": "Mega Starmie",
+        "form": "Mega",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 303,
+            "baseDefense": 229
+        },
+        "fm": [
+            "Hidden Power",
+            "Water Gun",
+            "Psywave"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Power Gem",
+            "Psychic",
+            "Thunder",
+            "Ice Beam",
+            "Psybeam",
+            "Surf",
+            "Aqua Jet"
+        ],
+        "elite_fm": [
+            "Tackle"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-08-22"
+    },
 
     {
         "id": 36,
@@ -67,42 +103,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
-    },
-    {
-        "id": 121,
-        "name": "Mega Starmie",
-        "form": "Mega",
-        "types": [
-            "Water",
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 155,
-            "baseAttack": 303,
-            "baseDefense": 229
-        },
-        "fm": [
-            "Hidden Power",
-            "Water Gun",
-            "Psywave"
-        ],
-        "cm": [
-            "Hydro Pump",
-            "Power Gem",
-            "Psychic",
-            "Thunder",
-            "Ice Beam",
-            "Psybeam",
-            "Surf",
-            "Aqua Jet"
-        ],
-        "elite_fm": [
-            "Tackle"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 154,
@@ -132,7 +133,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 160,
@@ -166,7 +167,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 358,
@@ -192,7 +193,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 359,
@@ -222,7 +223,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 398,
@@ -253,7 +254,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 445,
@@ -273,7 +274,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "elite_cm": [
             "Earth Power"
         ],
@@ -306,7 +307,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "elite_fm": [
             "Force Palm"
         ],
@@ -345,7 +346,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 485,
@@ -377,7 +378,7 @@
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false,
-        "raid_tier": 6
+        "raid_tier": 9
     },
     {
         "id": 491,
@@ -406,7 +407,7 @@
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
         "released": false,
-        "raid_tier": 6
+        "raid_tier": 9
     },
     {
         "id": 500,
@@ -436,7 +437,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 530,
@@ -465,7 +466,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 545,
@@ -494,7 +495,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 560,
@@ -522,7 +523,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 604,
@@ -552,7 +553,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 609,
@@ -583,7 +584,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 623,
@@ -610,7 +611,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 652,
@@ -642,7 +643,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 655,
@@ -675,7 +676,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 658,
@@ -706,7 +707,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 668,
@@ -735,7 +736,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 670,
@@ -760,7 +761,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 678,
@@ -788,7 +789,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 689,
@@ -817,7 +818,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 691,
@@ -847,7 +848,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 701,
@@ -874,7 +875,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 740,
@@ -902,7 +903,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 768,
@@ -932,7 +933,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 780,
@@ -959,7 +960,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 952,
@@ -986,7 +987,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 970,
@@ -1013,7 +1014,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 978,
@@ -1040,7 +1041,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 998,
@@ -1071,7 +1072,7 @@
         ],
         "shadow": false,
         "released": false,
-        "raid_tier": 4
+        "raid_tier": 8
     },
     {
         "id": 718,
@@ -1101,7 +1102,7 @@
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false,
-        "raid_tier": 6
+        "raid_tier": 9
     },
     {
         "id": 801,
@@ -1150,7 +1151,6 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": false,
-        "raid_tier": 6
+        "released": false
     }
 ]
