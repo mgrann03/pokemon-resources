@@ -5716,7 +5716,8 @@
             "Shadow Punch"
         ],
         "shadow": true,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 94,
@@ -8195,8 +8196,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true,
-        "raid_tier": 5
+        "released": true
     },
     {
         "id": 151,
@@ -10458,7 +10458,7 @@
         ],
         "shadow": true,
         "released": true,
-        "raid_tier": 3
+        "raid_tier": 1
     },
     {
         "id": 203,
@@ -25588,8 +25588,7 @@
             "Foul Play"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 1
+        "released": true
     },
     {
         "id": 630,
@@ -35028,8 +35027,7 @@
             "Payback"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 823,

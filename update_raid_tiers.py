@@ -33,11 +33,19 @@ def main():
     pkm_tier_map["RAYQUAZA_MEGA"] = 6
     pkm_tier_map["REGIDRAGO"] = 5
     pkm_tier_map["REGIELEKI"] = 5
+
     pkm_tier_map["VICTREEBEL_MEGA"] = 8
     pkm_tier_map["MALAMAR_MEGA"] = 8
     pkm_tier_map["DRAGONITE_MEGA"] = 8
     pkm_tier_map["FALINKS_MEGA"] = 8
     pkm_tier_map["SKARMORY_MEGA"] = 8
+    pkm_tier_map["RAICHU_MEGA_X"] = 8
+    pkm_tier_map["RAICHU_MEGA_Y"] = 8
+    
+    pkm_tier_map["MEWTWO_MEGA_X"] = 9
+    pkm_tier_map["MEWTWO_MEGA_Y"] = 9
+
+    del pkm_tier_map["MEWTWO_A_FORM"]
 
     # First by tier, then by pokemon name
     # Corrects for how Pokebattler separates "current" raids from "all possible" raids in a tier
