@@ -6722,6 +6722,40 @@
         "raid_tier": 3
     },
     {
+        "id": 121,
+        "name": "Mega Starmie",
+        "form": "Mega",
+        "fm": [
+            "Hidden Power",
+            "Water Gun",
+            "Psywave"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Power Gem",
+            "Psychic",
+            "Thunder",
+            "Ice Beam",
+            "Psybeam",
+            "Surf",
+            "Aqua Jet"
+        ],
+        "shadow": false,
+        "released": false,
+        "elite_fm": [
+            "Tackle"
+        ],
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 276,
+            "baseDefense": 229
+        }
+    },
+    {
         "id": 122,
         "name": "Mr. Mime",
         "form": "Normal",
