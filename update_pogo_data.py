@@ -16,6 +16,36 @@ JSON_PKM_PATH_MIN = "pogo_pkm.min.json"
 JSON_FM_PATH = "pogo_fm.json"
 JSON_CM_PATH = "pogo_cm.json"
 
+# Sourced from game strings
+TEMP_MOVE_ID_MAP = {
+    "Acid Spray": 508,
+    "Brave Bird": 547,
+    "Brick Break": 583,
+    "Chilling Water": 509,
+    "Dark Pulse": 523,
+    "Discharge": 533,
+    "Drill Peck": 522,
+    "Dynamic Punch": 495,
+    "Fell Stinger": 502,
+    "Future Sight": 496,
+    "Ice Beam": 541,
+    "Liquidation": 512,
+    "Moonblast": 506,
+    "Mystical Fire": 567,
+    "Night Shade": 529,
+    "Ominous Wind": 564,
+    "Outrage": 515,
+    "Psybeam": 572,
+    "Sacred Sword": 554,
+    "Seed Bomb": 566,
+    "Surf": 568,
+    "Twister": 580,
+    "Upper Hand": 562,
+    "Volt Tackle": 504,
+    "Weather Ball Ice": 555,
+    "Zap Cannon": 505,
+}
+
 pogo_pkm_names = json.load(open("pogo_pkm_names.json"))
 pogo_pkm_tiers = json.load(open("pogo_pkm_tiers.json"))
 
@@ -24,6 +54,8 @@ pogo_unused = {} # sets of unused pokemon, forms, shadows and moves
 pogo_pkm = [] # pogo pokemon object, will become json file
 pogo_fm = [] # pogo fast moves object, will become json file
 pogo_cm = [] # pogo charged moves object, will become json file
+
+# temp_evo_moves = {} # list of temporary evolution move objects.
 
 pogo_seen = set() # set of all seen pokemon, to prevent duplication
 
@@ -52,6 +84,8 @@ def main():
             AddPokemon(gm_obj)
         if id[0] == "V" and id[6:10] == "MOVE":
             AddMove(gm_obj, id[-4:] == "FAST")
+        if id[0:27] == "VM_MOVE_TEMP_EVOLUTION_MEGA":
+            AddMove(gm_obj, False)
 
     # if wanted, applies manual patch to objects
     if wants_manual_patch == "y":
@@ -59,6 +93,13 @@ def main():
         ManualPatch("pogo_pkm_manual_moves.json")
         ManualPatch("pogo_pkm_manual_released.json")
         ManualPatch("pogo_pkm_manual_shadow.json")
+
+    # Future use: assign temporary evolution moves to relevant mega forms.
+    # for pkm_obj in pogo_pkm:
+    #     if pkm_obj["form"].startswith("Mega"):
+    #         key = (pkm_obj["id"], pkm_obj["name"])
+    #         if key in temp_evo_moves:
+    #             pkm_obj["cm"] = list(pkm_obj.get("cm", [])) + [m["name"] for m in temp_evo_moves[key]]
 
     # Sort by id, just to ensure everything is in order
     pogo_pkm.sort(key=lambda pkm_obj: pkm_obj['id'])
@@ -196,8 +237,34 @@ def AddMove(gm_obj, is_fast):
     gm_obj_s = gm_obj["data"]["moveSettings"]
 
     move_obj = {}
-    move_obj["id"] = int(gm_obj["templateId"][1:5])
-    move_obj["name"] = CleanMove(gm_obj_s["movementId"], is_fast)
+    template_id = gm_obj["templateId"]
+    if template_id.startswith("VM_MOVE_TEMP_EVOLUTION_MEGA_"):
+        vfx_name = gm_obj_s.get("vfxName", "")
+        if not vfx_name:
+            print("Warning: temp mega move without vfxName: " + template_id)
+            return
+        base_name = VfxNameToMoveName(vfx_name)
+        new_id = TEMP_MOVE_ID_MAP.get(vfx_name) or TEMP_MOVE_ID_MAP.get(base_name)
+        if new_id is None:
+            print("Warning: temp mega move '" + vfx_name + "' not in TEMP_MOVE_ID_MAP, skipping")
+            return
+        move_obj["id"] = new_id
+        move_obj["name"] = base_name + "+"
+
+        # Future use: map this temp move to its target mega form.
+        # parts = template_id.split("_")
+        # pkm_id = int([p for p in parts if p.startswith("V") and p[1:].isdigit()][0][1:])
+        # pkm_name = parts[-1].capitalize()
+        # form_suffix = ""
+        # if "X" in parts:
+        #     form_suffix = " X"
+        # elif "Y" in parts:
+        #     form_suffix = " Y"
+        # mega_name = "Mega " + pkm_name + form_suffix
+        # temp_evo_moves.setdefault((pkm_id, mega_name), []).append(move_obj)
+    else:
+        move_obj["id"] = int(template_id[1:5])
+        move_obj["name"] = CleanMove(gm_obj_s["movementId"], is_fast)
     move_obj["type"] = CleanType(gm_obj_s["pokemonType"])
     if "power" in gm_obj_s:
         move_obj["power"] = gm_obj_s["power"]
@@ -235,6 +302,34 @@ def AddMove(gm_obj, is_fast):
 
 def CleanType(type):
     return type[13:].capitalize()
+
+def VfxNameToMoveName(vfx_name):
+    if vfx_name == "force_palm":
+        return "Force Palm"
+    elif vfx_name == "super_power":
+        return "Superpower"
+    elif vfx_name == "lock_on":
+        return "Lock-On"
+    elif vfx_name == "power_up_punch":
+        return "Power-Up Punch"
+    elif vfx_name == "v_create":
+        return "V-create"
+    elif vfx_name == "x_scissor":
+        return "X-Scissor"
+    elif vfx_name == "mud_slap":
+        return "Mud-Slap"
+    elif vfx_name == "natures_madness":
+        return "Nature's Madness"
+    elif vfx_name == "pyroball":
+        return "Pyro Ball"
+    elif vfx_name == "futuresight":
+        return "Future Sight"
+    elif vfx_name == "vice_grip":
+        return "Vise Grip"
+    elif vfx_name == "myst_fire":
+        return "Mystical Fire"
+    else:
+        return vfx_name.replace("_", " ").title()
 
 def CleanMoves(moves, is_fast):
     clean_moves = []

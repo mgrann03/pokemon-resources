@@ -2478,5 +2478,135 @@
         "damage_window_start": 0,
         "damage_window_end": 0,
         "energy_delta": 0
+    },
+    {
+        "id": 508,
+        "name": "Acid Spray+",
+        "type": "Poison",
+        "power": 160.0,
+        "duration": 3000,
+        "damage_window_start": 2100,
+        "damage_window_end": 2800,
+        "energy_delta": -100
+    },
+    {
+        "id": 512,
+        "name": "Liquidation+",
+        "type": "Water",
+        "power": 180.0,
+        "duration": 3000,
+        "damage_window_start": 2000,
+        "damage_window_end": 2700,
+        "energy_delta": -100
+    },
+    {
+        "id": 515,
+        "name": "Outrage+",
+        "type": "Dragon",
+        "power": 185.0,
+        "duration": 4000,
+        "damage_window_start": 2600,
+        "damage_window_end": 3800,
+        "energy_delta": -100
+    },
+    {
+        "id": 522,
+        "name": "Drill Peck+",
+        "type": "Flying",
+        "power": 170.0,
+        "duration": 2500,
+        "damage_window_start": 1900,
+        "damage_window_end": 2300,
+        "energy_delta": -100
+    },
+    {
+        "id": 566,
+        "name": "Seed Bomb+",
+        "type": "Grass",
+        "power": 150.0,
+        "duration": 2000,
+        "damage_window_start": 1100,
+        "damage_window_end": 1800,
+        "energy_delta": -100
+    },
+    {
+        "id": 567,
+        "name": "Mystical Fire+",
+        "type": "Fire",
+        "power": 140.0,
+        "duration": 2000,
+        "damage_window_start": 1300,
+        "damage_window_end": 2000,
+        "energy_delta": -100
+    },
+    {
+        "id": 568,
+        "name": "Surf+",
+        "type": "Water",
+        "power": 130.0,
+        "duration": 1500,
+        "damage_window_start": 1200,
+        "damage_window_end": 1400,
+        "energy_delta": -100
+    },
+    {
+        "id": 572,
+        "name": "Psybeam+",
+        "type": "Psychic",
+        "power": 170.0,
+        "duration": 3000,
+        "damage_window_start": 1100,
+        "damage_window_end": 2500,
+        "energy_delta": -100
+    },
+    {
+        "id": 583,
+        "name": "Brick Break+",
+        "type": "Fighting",
+        "power": 150.0,
+        "duration": 1500,
+        "damage_window_start": 700,
+        "damage_window_end": 1300,
+        "energy_delta": -100
+    },
+    {
+        "id": 504,
+        "name": "Volt Tackle+",
+        "type": "Electric",
+        "power": 170.0,
+        "duration": 3500,
+        "damage_window_start": 2100,
+        "damage_window_end": 2600,
+        "energy_delta": -100
+    },
+    {
+        "id": 495,
+        "name": "Dynamic Punch+",
+        "type": "Fighting",
+        "power": 130.0,
+        "duration": 2500,
+        "damage_window_start": 1000,
+        "damage_window_end": 2500,
+        "energy_delta": -100
+    },
+    {
+        "id": 505,
+        "name": "Zap Cannon+",
+        "type": "Electric",
+        "power": 160.0,
+        "duration": 3500,
+        "damage_window_start": 2800,
+        "damage_window_end": 3300,
+        "energy_delta": -100
+    },
+    {
+        "id": 496,
+        "name": "Future Sight+",
+        "type": "Psychic",
+        "power": 140.0,
+        "duration": 2500,
+        "damage_window_start": 1200,
+        "damage_window_end": 2500,
+        "energy_delta": -100
     }
 ]
