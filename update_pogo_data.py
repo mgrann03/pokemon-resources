@@ -15,6 +15,7 @@ JSON_PKM_PATH = "pogo_pkm.json"
 JSON_PKM_PATH_MIN = "pogo_pkm.min.json"
 JSON_FM_PATH = "pogo_fm.json"
 JSON_CM_PATH = "pogo_cm.json"
+JSON_TEMP_MOVES_PATH = "pogo_pkm_manual_temp_moves.json"
 
 # Sourced from game strings
 TEMP_MOVE_ID_MAP = {
@@ -54,6 +55,8 @@ pogo_unused = {} # sets of unused pokemon, forms, shadows and moves
 pogo_pkm = [] # pogo pokemon object, will become json file
 pogo_fm = [] # pogo fast moves object, will become json file
 pogo_cm = [] # pogo charged moves object, will become json file
+
+pogo_temp_moves = {} # map temporary evo moves to mega forms
 
 # temp_evo_moves = {} # list of temporary evolution move objects.
 
@@ -110,6 +113,26 @@ def main():
     json.dump(pogo_pkm, open(JSON_PKM_PATH_MIN, "w"), separators=(',', ':'))
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
+
+    # dumps temporary mega moves mapping
+    temp_moves_list = []
+    for temp_obj in sorted(pogo_temp_moves.values(), key=lambda obj: (obj["id"], obj["name"], obj["form"])):
+        matched = False
+        for pkm_obj in pogo_pkm:
+            if (pkm_obj["id"] == temp_obj["id"] and
+                pkm_obj["name"] == temp_obj["name"] and
+                pkm_obj["form"] == temp_obj["form"]):
+                full_cm = list(pkm_obj.get("cm", []))
+                full_cm.extend(temp_obj["temp_cm"])
+                temp_obj["cm"] = full_cm
+                matched = True
+                break
+        if not matched:
+            print("Warning: could not find matching mega for temp moves: " + temp_obj["name"])
+            temp_obj["cm"] = list(temp_obj["temp_cm"])
+        del temp_obj["temp_cm"]
+        temp_moves_list.append(temp_obj)
+    json.dump(temp_moves_list, open(JSON_TEMP_MOVES_PATH, "w"), indent=4)
 
     #os.system("pause")
 
@@ -262,6 +285,13 @@ def AddMove(gm_obj, is_fast):
         #     form_suffix = " Y"
         # mega_name = "Mega " + pkm_name + form_suffix
         # temp_evo_moves.setdefault((pkm_id, mega_name), []).append(move_obj)
+
+        # Build per-mega temporary moveset map
+        pkm_id, mega_name, mega_form = ParseTempMegaTemplateId(template_id)
+        key = (pkm_id, mega_name, mega_form)
+        if key not in pogo_temp_moves:
+            pogo_temp_moves[key] = {"id": pkm_id, "name": mega_name, "form": mega_form, "temp_cm": []}
+        pogo_temp_moves[key]["temp_cm"].append(move_obj["name"])
     else:
         move_obj["id"] = int(template_id[1:5])
         move_obj["name"] = CleanMove(gm_obj_s["movementId"], is_fast)
@@ -330,6 +360,24 @@ def VfxNameToMoveName(vfx_name):
         return "Mystical Fire"
     else:
         return vfx_name.replace("_", " ").title()
+
+def ParseTempMegaTemplateId(template_id):
+    parts = template_id.split("_")
+    pkm_id_parts = [p for p in parts if p.startswith("V") and p[1:].isdigit()]
+    pkm_id = int(pkm_id_parts[0][1:]) if pkm_id_parts else 0
+    pkm_name = parts[-1].title()
+
+    if "X" in parts:
+        mega_name = "Mega " + pkm_name + " X"
+        mega_form = "Mega"
+    elif "Y" in parts:
+        mega_name = "Mega " + pkm_name + " Y"
+        mega_form = "MegaY"
+    else:
+        mega_name = "Mega " + pkm_name
+        mega_form = "Mega"
+
+    return pkm_id, mega_name, mega_form
 
 def CleanMoves(moves, is_fast):
     clean_moves = []

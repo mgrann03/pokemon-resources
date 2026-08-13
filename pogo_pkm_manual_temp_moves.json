@@ -1,0 +1,172 @@
+[
+    {
+        "id": 26,
+        "name": "Mega Raichu X",
+        "form": "Mega",
+        "cm": [
+            "Brick Break",
+            "Thunder Punch",
+            "Wild Charge",
+            "Skull Bash",
+            "Trailblaze",
+            "Surf",
+            "Volt Tackle+"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Mega Raichu Y",
+        "form": "MegaY",
+        "cm": [
+            "Brick Break",
+            "Thunder Punch",
+            "Wild Charge",
+            "Skull Bash",
+            "Trailblaze",
+            "Surf",
+            "Zap Cannon+"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Mega Victreebel",
+        "form": "Mega",
+        "cm": [
+            "Leaf Blade",
+            "Sludge Bomb",
+            "Solar Beam",
+            "Leaf Tornado",
+            "Acid Spray",
+            "Acid Spray+"
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Mega Starmie",
+        "form": "Mega",
+        "cm": [
+            "Hydro Pump",
+            "Power Gem",
+            "Psychic",
+            "Thunder",
+            "Ice Beam",
+            "Psybeam",
+            "Surf",
+            "Aqua Jet",
+            "Liquidation+"
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Mega Dragonite",
+        "form": "Mega",
+        "cm": [
+            "Hurricane",
+            "Hyper Beam",
+            "Outrage",
+            "Dragon Claw",
+            "Superpower",
+            "Thunder Punch",
+            "Outrage+"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Mega Mewtwo X",
+        "form": "Mega",
+        "cm": [
+            "Psychic",
+            "Thunderbolt",
+            "Ice Beam",
+            "Focus Blast",
+            "Flamethrower",
+            "Dynamic Punch+"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Mega Mewtwo Y",
+        "form": "MegaY",
+        "cm": [
+            "Psychic",
+            "Thunderbolt",
+            "Ice Beam",
+            "Focus Blast",
+            "Flamethrower",
+            "Future Sight+"
+        ]
+    },
+    {
+        "id": 227,
+        "name": "Mega Skarmory",
+        "form": "Mega",
+        "cm": [
+            "Brave Bird",
+            "Sky Attack",
+            "Flash Cannon",
+            "Drill Peck+"
+        ]
+    },
+    {
+        "id": 652,
+        "name": "Mega Chesnaught",
+        "form": "Mega",
+        "cm": [
+            "Gyro Ball",
+            "Energy Ball",
+            "Superpower",
+            "Solar Beam",
+            "Thunder Punch",
+            "Seed Bomb+"
+        ]
+    },
+    {
+        "id": 655,
+        "name": "Mega Delphox",
+        "form": "Mega",
+        "cm": [
+            "Psychic",
+            "Flamethrower",
+            "Flame Charge",
+            "Fire Blast",
+            "Mystical Fire",
+            "Psyshock",
+            "Mystical Fire+"
+        ]
+    },
+    {
+        "id": 658,
+        "name": "Mega Greninja",
+        "form": "Mega",
+        "cm": [
+            "Night Slash",
+            "Aerial Ace",
+            "Surf",
+            "Hydro Pump",
+            "Surf+"
+        ]
+    },
+    {
+        "id": 687,
+        "name": "Mega Malamar",
+        "form": "Mega",
+        "cm": [
+            "Psybeam",
+            "Foul Play",
+            "Superpower",
+            "Hyper Beam",
+            "Psybeam+"
+        ]
+    },
+    {
+        "id": 870,
+        "name": "Mega Falinks",
+        "form": "Mega",
+        "cm": [
+            "Superpower",
+            "Brick Break",
+            "Megahorn",
+            "Brick Break+"
+        ]
+    }
+]
