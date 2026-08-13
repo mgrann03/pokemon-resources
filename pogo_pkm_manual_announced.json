@@ -42,6 +42,30 @@
         "raid_tier": 8,
         "eff_date": "2026-08-22"
     },
+    {
+        "id": 652,
+        "name": "Mega Chesnaught",
+        "form": "Mega",
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-09-05"
+    },
+    {
+        "id": 655,
+        "name": "Mega Delphox",
+        "form": "Mega",
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-09-05"
+    },
+    {
+        "id": 658,
+        "name": "Mega Greninja",
+        "form": "Mega",
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-09-05"
+    },
 
     {
         "id": 36,
@@ -580,102 +604,6 @@
             "Dynamic Punch",
             "Earth Power",
             "Poltergeist"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 8
-    },
-    {
-        "id": 652,
-        "name": "Mega Chesnaught",
-        "form": "Mega",
-        "types": [
-            "Grass",
-            "Fighting"
-        ],
-        "stats": {
-            "baseStamina": 204,
-            "baseAttack": 242,
-            "baseDefense": 282
-        },
-        "fm": [
-            "Low Kick",
-            "Vine Whip",
-            "Smack Down"
-        ],
-        "cm": [
-            "Gyro Ball",
-            "Energy Ball",
-            "Superpower",
-            "Solar Beam",
-            "Thunder Punch"
-        ],
-        "elite_cm": [
-            "Frenzy Plant"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 8
-    },
-    {
-        "id": 655,
-        "name": "Mega Delphox",
-        "form": "Mega",
-        "types": [
-            "Fire",
-            "Psychic"
-        ],
-        "stats": {
-            "baseStamina": 181,
-            "baseAttack": 331,
-            "baseDefense": 235
-        },
-        "fm": [
-            "Scratch",
-            "Fire Spin",
-            "Zen Headbutt"
-        ],
-        "cm": [
-            "Psychic",
-            "Flamethrower",
-            "Flame Charge",
-            "Fire Blast",
-            "Mystical Fire",
-            "Psyshock"
-        ],
-        "elite_cm": [
-            "Blast Burn"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 8
-    },
-    {
-        "id": 658,
-        "name": "Mega Greninja",
-        "form": "Mega",
-        "types": [
-            "Water",
-            "Dark"
-        ],
-        "stats": {
-            "baseStamina": 176,
-            "baseAttack": 299,
-            "baseDefense": 180
-        },
-        "fm": [
-            "Feint Attack",
-            "Bubble",
-            "Water Shuriken"
-        ],
-        "cm": [
-            "Night Slash",
-            "Aerial Ace",
-            "Surf",
-            "Hydro Pump"
-        ],
-        "elite_cm": [
-            "Hydro Cannon"
         ],
         "shadow": false,
         "released": false,

@@ -26802,6 +26802,38 @@
         "released": true
     },
     {
+        "id": 652,
+        "name": "Mega Chesnaught",
+        "form": "Mega",
+        "fm": [
+            "Low Kick",
+            "Vine Whip",
+            "Smack Down"
+        ],
+        "cm": [
+            "Gyro Ball",
+            "Energy Ball",
+            "Superpower",
+            "Solar Beam",
+            "Thunder Punch"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "elite_cm": [
+            "Frenzy Plant"
+        ],
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 204,
+            "baseAttack": 242,
+            "baseDefense": 282
+        }
+    },
+    {
         "id": 653,
         "name": "Fennekin",
         "form": "Normal",
@@ -26883,6 +26915,39 @@
         "released": true
     },
     {
+        "id": 655,
+        "name": "Mega Delphox",
+        "form": "Mega",
+        "fm": [
+            "Scratch",
+            "Fire Spin",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Psychic",
+            "Flamethrower",
+            "Flame Charge",
+            "Fire Blast",
+            "Mystical Fire",
+            "Psyshock"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "elite_cm": [
+            "Blast Burn"
+        ],
+        "types": [
+            "Fire",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 331,
+            "baseDefense": 235
+        }
+    },
+    {
         "id": 656,
         "name": "Froakie",
         "form": "Normal",
@@ -26960,6 +27025,37 @@
         ],
         "shadow": true,
         "released": true
+    },
+    {
+        "id": 658,
+        "name": "Mega Greninja",
+        "form": "Mega",
+        "fm": [
+            "Feint Attack",
+            "Bubble",
+            "Water Shuriken"
+        ],
+        "cm": [
+            "Night Slash",
+            "Aerial Ace",
+            "Surf",
+            "Hydro Pump"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 4,
+        "elite_cm": [
+            "Hydro Cannon"
+        ],
+        "types": [
+            "Water",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 176,
+            "baseAttack": 299,
+            "baseDefense": 180
+        }
     },
     {
         "id": 659,
