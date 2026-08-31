@@ -35366,6 +35366,9 @@
             "Night Slash",
             "Play Rough"
         ],
+        "elite_cm": [
+            "Icy Wind"
+        ],
         "shadow": false,
         "released": true
     },
