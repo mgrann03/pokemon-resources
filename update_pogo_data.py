@@ -58,8 +58,6 @@ pogo_cm = [] # pogo charged moves object, will become json file
 
 pogo_temp_moves = {} # map temporary evo moves to mega forms
 
-# temp_evo_moves = {} # list of temporary evolution move objects.
-
 pogo_seen = set() # set of all seen pokemon, to prevent duplication
 
 def main():
@@ -90,19 +88,18 @@ def main():
         if id[0:27] == "VM_MOVE_TEMP_EVOLUTION_MEGA":
             AddMove(gm_obj, False)
 
+    # Regenerate the temporary evolution moves mapping and dump it before
+    # applying the manual patch, so the patch applies fresh data from this run.
+    temp_moves_list = BuildTempMovesList()
+    json.dump(temp_moves_list, open(JSON_TEMP_MOVES_PATH, "w"), indent=4)
+
     # if wanted, applies manual patch to objects
     if wants_manual_patch == "y":
+        ManualPatch(JSON_TEMP_MOVES_PATH)
         ManualPatch("pogo_pkm_manual_speculative.json")
         ManualPatch("pogo_pkm_manual_moves.json")
         ManualPatch("pogo_pkm_manual_released.json")
         ManualPatch("pogo_pkm_manual_shadow.json")
-
-    # Future use: assign temporary evolution moves to relevant mega forms.
-    # for pkm_obj in pogo_pkm:
-    #     if pkm_obj["form"].startswith("Mega"):
-    #         key = (pkm_obj["id"], pkm_obj["name"])
-    #         if key in temp_evo_moves:
-    #             pkm_obj["cm"] = list(pkm_obj.get("cm", [])) + [m["name"] for m in temp_evo_moves[key]]
 
     # Sort by id, just to ensure everything is in order
     pogo_pkm.sort(key=lambda pkm_obj: pkm_obj['id'])
@@ -114,7 +111,13 @@ def main():
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
 
-    # dumps temporary mega moves mapping
+    #os.system("pause")
+
+def BuildTempMovesList():
+    """
+    Maps temporary evolution moves to their relevant mega forms and returns
+    the list of {id, name, form, cm} mappings.
+    """
     temp_moves_list = []
     for temp_obj in sorted(pogo_temp_moves.values(), key=lambda obj: (obj["id"], obj["name"], obj["form"])):
         matched = False
@@ -122,9 +125,8 @@ def main():
             if (pkm_obj["id"] == temp_obj["id"] and
                 pkm_obj["name"] == temp_obj["name"] and
                 pkm_obj["form"] == temp_obj["form"]):
-                full_cm = list(pkm_obj.get("cm", []))
-                full_cm.extend(temp_obj["temp_cm"])
-                temp_obj["cm"] = full_cm
+                temp_obj["cm"] = list(pkm_obj.get("cm", []))
+                temp_obj["cm"].extend(temp_obj["temp_cm"])
                 matched = True
                 break
         if not matched:
@@ -132,9 +134,7 @@ def main():
             temp_obj["cm"] = list(temp_obj["temp_cm"])
         del temp_obj["temp_cm"]
         temp_moves_list.append(temp_obj)
-    json.dump(temp_moves_list, open(JSON_TEMP_MOVES_PATH, "w"), indent=4)
-
-    #os.system("pause")
+    return temp_moves_list
 
 def ScrapeList(html, xpath, name):
     lis = html.xpath(xpath)
@@ -273,18 +273,7 @@ def AddMove(gm_obj, is_fast):
             return
         move_obj["id"] = new_id
         move_obj["name"] = base_name + "+"
-
-        # Future use: map this temp move to its target mega form.
-        # parts = template_id.split("_")
-        # pkm_id = int([p for p in parts if p.startswith("V") and p[1:].isdigit()][0][1:])
-        # pkm_name = parts[-1].capitalize()
-        # form_suffix = ""
-        # if "X" in parts:
-        #     form_suffix = " X"
-        # elif "Y" in parts:
-        #     form_suffix = " Y"
-        # mega_name = "Mega " + pkm_name + form_suffix
-        # temp_evo_moves.setdefault((pkm_id, mega_name), []).append(move_obj)
+        move_obj["mega_temp"] = True
 
         # Build per-mega temporary moveset map
         pkm_id, mega_name, mega_form = ParseTempMegaTemplateId(template_id)

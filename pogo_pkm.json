@@ -2948,7 +2948,8 @@
             "Wild Charge",
             "Skull Bash",
             "Trailblaze",
-            "Surf"
+            "Surf",
+            "Volt Tackle+"
         ],
         "shadow": false,
         "released": true,
@@ -2981,7 +2982,8 @@
             "Wild Charge",
             "Skull Bash",
             "Trailblaze",
-            "Surf"
+            "Surf",
+            "Zap Cannon+"
         ],
         "shadow": false,
         "released": true,
@@ -4721,7 +4723,8 @@
             "Sludge Bomb",
             "Solar Beam",
             "Leaf Tornado",
-            "Acid Spray"
+            "Acid Spray",
+            "Acid Spray+"
         ],
         "shadow": false,
         "released": true,
@@ -6800,7 +6803,8 @@
             "Ice Beam",
             "Psybeam",
             "Surf",
-            "Aqua Jet"
+            "Aqua Jet",
+            "Liquidation+"
         ],
         "shadow": false,
         "released": true,
@@ -8137,7 +8141,8 @@
             "Outrage",
             "Dragon Claw",
             "Superpower",
-            "Thunder Punch"
+            "Thunder Punch",
+            "Outrage+"
         ],
         "shadow": false,
         "released": true,
@@ -8205,7 +8210,8 @@
             "Thunderbolt",
             "Ice Beam",
             "Focus Blast",
-            "Flamethrower"
+            "Flamethrower",
+            "Dynamic Punch+"
         ],
         "shadow": false,
         "released": true,
@@ -8242,7 +8248,8 @@
             "Thunderbolt",
             "Ice Beam",
             "Focus Blast",
-            "Flamethrower"
+            "Flamethrower",
+            "Future Sight+"
         ],
         "shadow": false,
         "released": true,
@@ -11455,7 +11462,8 @@
         "cm": [
             "Brave Bird",
             "Sky Attack",
-            "Flash Cannon"
+            "Flash Cannon",
+            "Drill Peck+"
         ],
         "shadow": false,
         "released": true,
@@ -26815,7 +26823,8 @@
             "Energy Ball",
             "Superpower",
             "Solar Beam",
-            "Thunder Punch"
+            "Thunder Punch",
+            "Seed Bomb+"
         ],
         "shadow": false,
         "released": true,
@@ -26929,7 +26938,8 @@
             "Flame Charge",
             "Fire Blast",
             "Mystical Fire",
-            "Psyshock"
+            "Psyshock",
+            "Mystical Fire+"
         ],
         "shadow": false,
         "released": true,
@@ -27039,7 +27049,8 @@
             "Night Slash",
             "Aerial Ace",
             "Surf",
-            "Hydro Pump"
+            "Hydro Pump",
+            "Surf+"
         ],
         "shadow": false,
         "released": true,
@@ -29958,7 +29969,8 @@
             "Psybeam",
             "Foul Play",
             "Superpower",
-            "Hyper Beam"
+            "Hyper Beam",
+            "Psybeam+"
         ],
         "shadow": false,
         "released": true,
@@ -36630,7 +36642,8 @@
         "cm": [
             "Superpower",
             "Brick Break",
-            "Megahorn"
+            "Megahorn",
+            "Brick Break+"
         ],
         "shadow": false,
         "released": true,

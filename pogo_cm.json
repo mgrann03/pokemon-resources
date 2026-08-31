@@ -2482,6 +2482,7 @@
     {
         "id": 508,
         "name": "Acid Spray+",
+        "mega_temp": true,
         "type": "Poison",
         "power": 160.0,
         "duration": 3000,
@@ -2492,6 +2493,7 @@
     {
         "id": 512,
         "name": "Liquidation+",
+        "mega_temp": true,
         "type": "Water",
         "power": 180.0,
         "duration": 3000,
@@ -2502,6 +2504,7 @@
     {
         "id": 515,
         "name": "Outrage+",
+        "mega_temp": true,
         "type": "Dragon",
         "power": 185.0,
         "duration": 4000,
@@ -2512,6 +2515,7 @@
     {
         "id": 522,
         "name": "Drill Peck+",
+        "mega_temp": true,
         "type": "Flying",
         "power": 170.0,
         "duration": 2500,
@@ -2522,6 +2526,7 @@
     {
         "id": 566,
         "name": "Seed Bomb+",
+        "mega_temp": true,
         "type": "Grass",
         "power": 150.0,
         "duration": 2000,
@@ -2532,6 +2537,7 @@
     {
         "id": 567,
         "name": "Mystical Fire+",
+        "mega_temp": true,
         "type": "Fire",
         "power": 140.0,
         "duration": 2000,
@@ -2542,6 +2548,7 @@
     {
         "id": 568,
         "name": "Surf+",
+        "mega_temp": true,
         "type": "Water",
         "power": 130.0,
         "duration": 1500,
@@ -2552,6 +2559,7 @@
     {
         "id": 572,
         "name": "Psybeam+",
+        "mega_temp": true,
         "type": "Psychic",
         "power": 170.0,
         "duration": 3000,
@@ -2562,6 +2570,7 @@
     {
         "id": 583,
         "name": "Brick Break+",
+        "mega_temp": true,
         "type": "Fighting",
         "power": 150.0,
         "duration": 1500,
@@ -2572,6 +2581,7 @@
     {
         "id": 504,
         "name": "Volt Tackle+",
+        "mega_temp": true,
         "type": "Electric",
         "power": 170.0,
         "duration": 3500,
@@ -2582,6 +2592,7 @@
     {
         "id": 495,
         "name": "Dynamic Punch+",
+        "mega_temp": true,
         "type": "Fighting",
         "power": 130.0,
         "duration": 2500,
@@ -2592,6 +2603,7 @@
     {
         "id": 505,
         "name": "Zap Cannon+",
+        "mega_temp": true,
         "type": "Electric",
         "power": 160.0,
         "duration": 3500,
@@ -2602,6 +2614,7 @@
     {
         "id": 496,
         "name": "Future Sight+",
+        "mega_temp": true,
         "type": "Psychic",
         "power": 140.0,
         "duration": 2500,
