@@ -3,7 +3,7 @@
         "id": 121,
         "name": "Mega Starmie",
         "form": "Mega",
-        "released": false
+        "released": true
     },
     {
         "id": 128,
@@ -63,6 +63,24 @@
         "id": 647,
         "name": "Keldeo",
         "form": "Resolute",
+        "released": true
+    },
+    {
+        "id": 652,
+        "name": "Mega Chesnaught",
+        "form": "Mega",
+        "released": true
+    },
+    {
+        "id": 655,
+        "name": "Mega Delphox",
+        "form": "Mega",
+        "released": true
+    },
+    {
+        "id": 658,
+        "name": "Mega Greninja",
+        "form": "Mega",
         "released": true
     },
     {
@@ -356,6 +374,36 @@
     {
         "id": 844,
         "name": "Sandaconda",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Gorging",
+        "released": true
+    },
+    {
+        "id": 845,
+        "name": "Cramorant",
+        "form": "Gulping",
+        "released": true
+    },
+    {
+        "id": 846,
+        "name": "Arrokuda",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 847,
+        "name": "Barraskewda",
         "form": "Normal",
         "released": true
     },

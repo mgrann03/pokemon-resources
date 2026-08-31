@@ -6803,7 +6803,7 @@
             "Aqua Jet"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "elite_fm": [
             "Tackle"
         ],
@@ -35784,7 +35784,7 @@
             "Surf"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 845,
@@ -35810,7 +35810,7 @@
             "Surf"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 845,
@@ -35836,7 +35836,7 @@
             "Surf"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 846,
@@ -35861,7 +35861,7 @@
             "Close Combat"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 847,
@@ -35886,7 +35886,7 @@
             "Close Combat"
         ],
         "shadow": false,
-        "released": false
+        "released": true
     },
     {
         "id": 848,
