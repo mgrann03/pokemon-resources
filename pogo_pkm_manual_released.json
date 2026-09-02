@@ -30,6 +30,12 @@
         "released": true
     },
     {
+        "id": 398,
+        "name": "Mega Staraptor",
+        "form": "Mega",
+        "released": false
+    },
+    {
         "id": 479,
         "name": "Rotom",
         "form": "Fan",
@@ -63,24 +69,6 @@
         "id": 647,
         "name": "Keldeo",
         "form": "Resolute",
-        "released": true
-    },
-    {
-        "id": 652,
-        "name": "Mega Chesnaught",
-        "form": "Mega",
-        "released": true
-    },
-    {
-        "id": 655,
-        "name": "Mega Delphox",
-        "form": "Mega",
-        "released": true
-    },
-    {
-        "id": 658,
-        "name": "Mega Greninja",
-        "form": "Mega",
         "released": true
     },
     {

@@ -616,6 +616,18 @@
         "eff_date": "2026-09-08"
     },
 
+    
+    {
+        "id": 398,
+        "name": "Mega Staraptor",
+        "form": "Mega",
+        "temp_cm": [
+            "Brave Bird+"
+        ],
+        "released": true,
+        "eff_date": "2026-09-19"
+    },
+
 
 
     {
@@ -767,37 +779,6 @@
         ],
         "elite_cm": [
             "Brutal Swing"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 8
-    },
-    {
-        "id": 398,
-        "name": "Mega Staraptor",
-        "form": "Mega",
-        "types": [
-            "Fighting",
-            "Flying"
-        ],
-        "stats": {
-            "baseStamina": 198,
-            "baseAttack": 278,
-            "baseDefense": 207
-        },
-        "fm": [
-            "Wing Attack",
-            "Quick Attack",
-            "Sand Attack"
-        ],
-        "cm": [
-            "Brave Bird",
-            "Heat Wave",
-            "Close Combat",
-            "Fly"
-        ],
-        "elite_fm": [
-            "Gust"
         ],
         "shadow": false,
         "released": false,

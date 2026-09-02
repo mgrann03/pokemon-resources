@@ -5787,8 +5787,7 @@
             "Shadow Punch"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 94,
@@ -6813,6 +6812,7 @@
         ],
         "shadow": false,
         "released": true,
+        "raid_tier": 8,
         "elite_fm": [
             "Tackle"
         ],
@@ -10575,7 +10575,7 @@
         ],
         "shadow": true,
         "released": true,
-        "raid_tier": 1
+        "raid_tier": 3
     },
     {
         "id": 203,
@@ -17724,6 +17724,37 @@
         "shadow": true,
         "released": true,
         "raid_tier": 3
+    },
+    {
+        "id": 398,
+        "name": "Mega Staraptor",
+        "form": "Mega",
+        "fm": [
+            "Wing Attack",
+            "Quick Attack",
+            "Sand Attack"
+        ],
+        "cm": [
+            "Brave Bird",
+            "Heat Wave",
+            "Close Combat",
+            "Fly"
+        ],
+        "shadow": false,
+        "released": false,
+        "raid_tier": 8,
+        "elite_fm": [
+            "Gust"
+        ],
+        "types": [
+            "Fighting",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 278,
+            "baseDefense": 207
+        }
     },
     {
         "id": 399,
@@ -26843,7 +26874,7 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "elite_cm": [
             "Frenzy Plant"
         ],
@@ -26960,7 +26991,7 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "elite_cm": [
             "Blast Burn"
         ],
@@ -27073,7 +27104,7 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "elite_cm": [
             "Hydro Cannon"
         ],
@@ -34322,8 +34353,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true,
-        "raid_tier": 5
+        "released": true
     },
     {
         "id": 792,
@@ -34351,8 +34381,7 @@
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true,
-        "raid_tier": 5
+        "released": true
     },
     {
         "id": 793,
