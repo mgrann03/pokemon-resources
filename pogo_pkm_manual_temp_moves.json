@@ -3,13 +3,7 @@
         "id": 26,
         "name": "Mega Raichu X",
         "form": "Mega",
-        "cm": [
-            "Brick Break",
-            "Thunder Punch",
-            "Wild Charge",
-            "Skull Bash",
-            "Trailblaze",
-            "Surf",
+        "temp_cm": [
             "Volt Tackle+"
         ]
     },
@@ -17,13 +11,7 @@
         "id": 26,
         "name": "Mega Raichu Y",
         "form": "MegaY",
-        "cm": [
-            "Brick Break",
-            "Thunder Punch",
-            "Wild Charge",
-            "Skull Bash",
-            "Trailblaze",
-            "Surf",
+        "temp_cm": [
             "Zap Cannon+"
         ]
     },
@@ -31,12 +19,7 @@
         "id": 71,
         "name": "Mega Victreebel",
         "form": "Mega",
-        "cm": [
-            "Leaf Blade",
-            "Sludge Bomb",
-            "Solar Beam",
-            "Leaf Tornado",
-            "Acid Spray",
+        "temp_cm": [
             "Acid Spray+"
         ]
     },
@@ -44,15 +27,7 @@
         "id": 121,
         "name": "Mega Starmie",
         "form": "Mega",
-        "cm": [
-            "Hydro Pump",
-            "Power Gem",
-            "Psychic",
-            "Thunder",
-            "Ice Beam",
-            "Psybeam",
-            "Surf",
-            "Aqua Jet",
+        "temp_cm": [
             "Liquidation+"
         ]
     },
@@ -60,13 +35,7 @@
         "id": 149,
         "name": "Mega Dragonite",
         "form": "Mega",
-        "cm": [
-            "Hurricane",
-            "Hyper Beam",
-            "Outrage",
-            "Dragon Claw",
-            "Superpower",
-            "Thunder Punch",
+        "temp_cm": [
             "Outrage+"
         ]
     },
@@ -74,12 +43,7 @@
         "id": 150,
         "name": "Mega Mewtwo X",
         "form": "Mega",
-        "cm": [
-            "Psychic",
-            "Thunderbolt",
-            "Ice Beam",
-            "Focus Blast",
-            "Flamethrower",
+        "temp_cm": [
             "Dynamic Punch+"
         ]
     },
@@ -87,12 +51,7 @@
         "id": 150,
         "name": "Mega Mewtwo Y",
         "form": "MegaY",
-        "cm": [
-            "Psychic",
-            "Thunderbolt",
-            "Ice Beam",
-            "Focus Blast",
-            "Flamethrower",
+        "temp_cm": [
             "Future Sight+"
         ]
     },
@@ -100,10 +59,7 @@
         "id": 227,
         "name": "Mega Skarmory",
         "form": "Mega",
-        "cm": [
-            "Brave Bird",
-            "Sky Attack",
-            "Flash Cannon",
+        "temp_cm": [
             "Drill Peck+"
         ]
     },
@@ -111,12 +67,7 @@
         "id": 652,
         "name": "Mega Chesnaught",
         "form": "Mega",
-        "cm": [
-            "Gyro Ball",
-            "Energy Ball",
-            "Superpower",
-            "Solar Beam",
-            "Thunder Punch",
+        "temp_cm": [
             "Seed Bomb+"
         ]
     },
@@ -124,13 +75,7 @@
         "id": 655,
         "name": "Mega Delphox",
         "form": "Mega",
-        "cm": [
-            "Psychic",
-            "Flamethrower",
-            "Flame Charge",
-            "Fire Blast",
-            "Mystical Fire",
-            "Psyshock",
+        "temp_cm": [
             "Mystical Fire+"
         ]
     },
@@ -138,11 +83,7 @@
         "id": 658,
         "name": "Mega Greninja",
         "form": "Mega",
-        "cm": [
-            "Night Slash",
-            "Aerial Ace",
-            "Surf",
-            "Hydro Pump",
+        "temp_cm": [
             "Surf+"
         ]
     },
@@ -150,11 +91,7 @@
         "id": 687,
         "name": "Mega Malamar",
         "form": "Mega",
-        "cm": [
-            "Psybeam",
-            "Foul Play",
-            "Superpower",
-            "Hyper Beam",
+        "temp_cm": [
             "Psybeam+"
         ]
     },
@@ -162,10 +99,7 @@
         "id": 870,
         "name": "Mega Falinks",
         "form": "Mega",
-        "cm": [
-            "Superpower",
-            "Brick Break",
-            "Megahorn",
+        "temp_cm": [
             "Brick Break+"
         ]
     }

@@ -116,7 +116,7 @@ def main():
 def BuildTempMovesList():
     """
     Maps temporary evolution moves to their relevant mega forms and returns
-    the list of {id, name, form, cm} mappings.
+    the list of {id, name, form, temp_cm} mappings.
     """
     temp_moves_list = []
     for temp_obj in sorted(pogo_temp_moves.values(), key=lambda obj: (obj["id"], obj["name"], obj["form"])):
@@ -125,14 +125,11 @@ def BuildTempMovesList():
             if (pkm_obj["id"] == temp_obj["id"] and
                 pkm_obj["name"] == temp_obj["name"] and
                 pkm_obj["form"] == temp_obj["form"]):
-                temp_obj["cm"] = list(pkm_obj.get("cm", []))
-                temp_obj["cm"].extend(temp_obj["temp_cm"])
                 matched = True
                 break
         if not matched:
             print("Warning: could not find matching mega for temp moves: " + temp_obj["name"])
-            temp_obj["cm"] = list(temp_obj["temp_cm"])
-        del temp_obj["temp_cm"]
+        temp_obj["temp_cm"] = sorted(temp_obj["temp_cm"])
         temp_moves_list.append(temp_obj)
     return temp_moves_list
 
@@ -430,7 +427,7 @@ def ManualPatch(patch_fname):
     for pkm_obj in pogo_pkm:
         for manual_obj in list(pogo_pkm_manual):
             if pkm_obj["id"] == manual_obj["id"] and pkm_obj["name"] == manual_obj["name"] and pkm_obj["form"] == manual_obj["form"]:
-                for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "released"]:
+                for key in ["fm", "cm", "temp_cm", "elite_fm", "elite_cm", "shadow", "released"]:
                     if key in manual_obj:
                         if key in pkm_obj and pkm_obj[key] == manual_obj[key]:
                             name = pkm_obj["name"] + ("(" + pkm_obj["form"] + ")" if (pkm_obj["form"] != "Normal") else "")

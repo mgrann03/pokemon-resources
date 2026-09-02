@@ -2948,8 +2948,7 @@
             "Wild Charge",
             "Skull Bash",
             "Trailblaze",
-            "Surf",
-            "Volt Tackle+"
+            "Surf"
         ],
         "shadow": false,
         "released": true,
@@ -2964,7 +2963,10 @@
             "baseStamina": 155,
             "baseAttack": 277,
             "baseDefense": 203
-        }
+        },
+        "temp_cm": [
+            "Volt Tackle+"
+        ]
     },
     {
         "id": 26,
@@ -2982,8 +2984,7 @@
             "Wild Charge",
             "Skull Bash",
             "Trailblaze",
-            "Surf",
-            "Zap Cannon+"
+            "Surf"
         ],
         "shadow": false,
         "released": true,
@@ -2998,7 +2999,10 @@
             "baseStamina": 155,
             "baseAttack": 339,
             "baseDefense": 157
-        }
+        },
+        "temp_cm": [
+            "Zap Cannon+"
+        ]
     },
     {
         "id": 26,
@@ -4723,8 +4727,7 @@
             "Sludge Bomb",
             "Solar Beam",
             "Leaf Tornado",
-            "Acid Spray",
-            "Acid Spray+"
+            "Acid Spray"
         ],
         "shadow": false,
         "released": true,
@@ -4740,7 +4743,10 @@
             "baseStamina": 190,
             "baseAttack": 265,
             "baseDefense": 181
-        }
+        },
+        "temp_cm": [
+            "Acid Spray+"
+        ]
     },
     {
         "id": 72,
@@ -6803,8 +6809,7 @@
             "Ice Beam",
             "Psybeam",
             "Surf",
-            "Aqua Jet",
-            "Liquidation+"
+            "Aqua Jet"
         ],
         "shadow": false,
         "released": true,
@@ -6819,7 +6824,10 @@
             "baseStamina": 155,
             "baseAttack": 276,
             "baseDefense": 229
-        }
+        },
+        "temp_cm": [
+            "Liquidation+"
+        ]
     },
     {
         "id": 122,
@@ -8141,8 +8149,7 @@
             "Outrage",
             "Dragon Claw",
             "Superpower",
-            "Thunder Punch",
-            "Outrage+"
+            "Thunder Punch"
         ],
         "shadow": false,
         "released": true,
@@ -8159,7 +8166,10 @@
             "baseStamina": 209,
             "baseAttack": 299,
             "baseDefense": 255
-        }
+        },
+        "temp_cm": [
+            "Outrage+"
+        ]
     },
     {
         "id": 150,
@@ -8210,8 +8220,7 @@
             "Thunderbolt",
             "Ice Beam",
             "Focus Blast",
-            "Flamethrower",
-            "Dynamic Punch+"
+            "Flamethrower"
         ],
         "shadow": false,
         "released": true,
@@ -8233,7 +8242,10 @@
             "baseStamina": 228,
             "baseAttack": 399,
             "baseDefense": 215
-        }
+        },
+        "temp_cm": [
+            "Dynamic Punch+"
+        ]
     },
     {
         "id": 150,
@@ -8248,8 +8260,7 @@
             "Thunderbolt",
             "Ice Beam",
             "Focus Blast",
-            "Flamethrower",
-            "Future Sight+"
+            "Flamethrower"
         ],
         "shadow": false,
         "released": true,
@@ -8270,7 +8281,10 @@
             "baseStamina": 228,
             "baseAttack": 413,
             "baseDefense": 223
-        }
+        },
+        "temp_cm": [
+            "Future Sight+"
+        ]
     },
     {
         "id": 150,
@@ -11462,8 +11476,7 @@
         "cm": [
             "Brave Bird",
             "Sky Attack",
-            "Flash Cannon",
-            "Drill Peck+"
+            "Flash Cannon"
         ],
         "shadow": false,
         "released": true,
@@ -11476,7 +11489,10 @@
             "baseStamina": 163,
             "baseAttack": 273,
             "baseDefense": 228
-        }
+        },
+        "temp_cm": [
+            "Drill Peck+"
+        ]
     },
     {
         "id": 228,
@@ -26823,8 +26839,7 @@
             "Energy Ball",
             "Superpower",
             "Solar Beam",
-            "Thunder Punch",
-            "Seed Bomb+"
+            "Thunder Punch"
         ],
         "shadow": false,
         "released": true,
@@ -26840,7 +26855,10 @@
             "baseStamina": 204,
             "baseAttack": 242,
             "baseDefense": 282
-        }
+        },
+        "temp_cm": [
+            "Seed Bomb+"
+        ]
     },
     {
         "id": 653,
@@ -26938,8 +26956,7 @@
             "Flame Charge",
             "Fire Blast",
             "Mystical Fire",
-            "Psyshock",
-            "Mystical Fire+"
+            "Psyshock"
         ],
         "shadow": false,
         "released": true,
@@ -26955,7 +26972,10 @@
             "baseStamina": 181,
             "baseAttack": 331,
             "baseDefense": 235
-        }
+        },
+        "temp_cm": [
+            "Mystical Fire+"
+        ]
     },
     {
         "id": 656,
@@ -27049,8 +27069,7 @@
             "Night Slash",
             "Aerial Ace",
             "Surf",
-            "Hydro Pump",
-            "Surf+"
+            "Hydro Pump"
         ],
         "shadow": false,
         "released": true,
@@ -27066,7 +27085,10 @@
             "baseStamina": 176,
             "baseAttack": 299,
             "baseDefense": 180
-        }
+        },
+        "temp_cm": [
+            "Surf+"
+        ]
     },
     {
         "id": 659,
@@ -29969,8 +29991,7 @@
             "Psybeam",
             "Foul Play",
             "Superpower",
-            "Hyper Beam",
-            "Psybeam+"
+            "Hyper Beam"
         ],
         "shadow": false,
         "released": true,
@@ -29983,7 +30004,10 @@
             "baseStamina": 200,
             "baseAttack": 208,
             "baseDefense": 222
-        }
+        },
+        "temp_cm": [
+            "Psybeam+"
+        ]
     },
     {
         "id": 688,
@@ -36642,8 +36666,7 @@
         "cm": [
             "Superpower",
             "Brick Break",
-            "Megahorn",
-            "Brick Break+"
+            "Megahorn"
         ],
         "shadow": false,
         "released": true,
@@ -36655,7 +36678,10 @@
             "baseStamina": 163,
             "baseAttack": 267,
             "baseDefense": 229
-        }
+        },
+        "temp_cm": [
+            "Brick Break+"
+        ]
     },
     {
         "id": 870,
