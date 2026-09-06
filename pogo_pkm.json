@@ -215,6 +215,30 @@
         "released": true
     },
     {
+        "id": 4,
+        "name": "Charmander",
+        "form": "Goggles_2026",
+        "types": [
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 118,
+            "baseAttack": 116,
+            "baseDefense": 93
+        },
+        "fm": [
+            "Ember",
+            "Scratch"
+        ],
+        "cm": [
+            "Flame Charge",
+            "Flame Burst",
+            "Flamethrower"
+        ],
+        "shadow": true,
+        "released": true
+    },
+    {
         "id": 5,
         "name": "Charmeleon",
         "form": "Normal",
@@ -241,6 +265,33 @@
         "shadow": true,
         "released": true,
         "raid_tier": 1
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "form": "Goggles_2026",
+        "types": [
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 151,
+            "baseAttack": 158,
+            "baseDefense": 126
+        },
+        "fm": [
+            "Ember",
+            "Fire Fang"
+        ],
+        "cm": [
+            "Fire Punch",
+            "Flame Burst",
+            "Flamethrower"
+        ],
+        "elite_fm": [
+            "Scratch"
+        ],
+        "shadow": true,
+        "released": true
     },
     {
         "id": 6,
@@ -354,6 +405,41 @@
         "id": 6,
         "name": "Charizard",
         "form": "Copy_2019",
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 223,
+            "baseDefense": 173
+        },
+        "fm": [
+            "Fire Spin",
+            "Air Slash"
+        ],
+        "cm": [
+            "Fire Blast",
+            "Dragon Claw",
+            "Overheat",
+            "Air Cutter"
+        ],
+        "elite_fm": [
+            "Ember",
+            "Wing Attack",
+            "Dragon Breath"
+        ],
+        "elite_cm": [
+            "Blast Burn",
+            "Flamethrower"
+        ],
+        "shadow": true,
+        "released": true
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "form": "Goggles_2026",
         "types": [
             "Fire",
             "Flying"
