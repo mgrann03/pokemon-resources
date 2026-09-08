@@ -1176,7 +1176,9 @@
             "Dark Pulse",
             "Sludge Wave",
             "Gunk Shot",
-            "Acid Spray"
+            "Acid Spray",
+            "Wrap",
+            "Brutal Swing"
         ],
         "shadow": true,
         "released": true
@@ -1248,6 +1250,130 @@
         "id": 25,
         "name": "Pikachu",
         "form": "Anniversary_2026",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Anniversary_2026_malaysia_01",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Anniversary_2026_philippine_01",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Anniversary_2026_singapore_01",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Anniversary_2026_taiwan_01",
         "types": [
             "Electric"
         ],
@@ -2442,6 +2568,37 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "K_2026_a_01",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Pop_star",
         "types": [
             "Electric"
@@ -3010,7 +3167,8 @@
             "Wild Charge",
             "Skull Bash",
             "Trailblaze",
-            "Surf"
+            "Surf",
+            "Volt Tackle"
         ],
         "elite_cm": [
             "Thunder"
@@ -3034,7 +3192,8 @@
             "Wild Charge",
             "Skull Bash",
             "Trailblaze",
-            "Surf"
+            "Surf",
+            "Volt Tackle"
         ],
         "shadow": false,
         "released": true,
@@ -3070,7 +3229,8 @@
             "Wild Charge",
             "Skull Bash",
             "Trailblaze",
-            "Surf"
+            "Surf",
+            "Volt Tackle"
         ],
         "shadow": false,
         "released": true,
@@ -3115,7 +3275,8 @@
             "Grass Knot",
             "Trailblaze",
             "Surf",
-            "Psyshock"
+            "Psyshock",
+            "Volt Tackle"
         ],
         "shadow": false,
         "released": true
@@ -3437,7 +3598,8 @@
             "Sludge Wave",
             "Megahorn",
             "Earth Power",
-            "Sand Tomb"
+            "Sand Tomb",
+            "Avalanche"
         ],
         "elite_fm": [
             "Fury Cutter"
@@ -4784,7 +4946,8 @@
         },
         "fm": [
             "Razor Leaf",
-            "Acid"
+            "Acid",
+            "Sucker Punch"
         ],
         "cm": [
             "Leaf Blade",
@@ -4806,7 +4969,8 @@
         "form": "Mega",
         "fm": [
             "Razor Leaf",
-            "Acid"
+            "Acid",
+            "Sucker Punch"
         ],
         "cm": [
             "Leaf Blade",
@@ -5713,7 +5877,9 @@
             "Dark Pulse",
             "Gunk Shot",
             "Sludge Wave",
-            "Acid Spray"
+            "Acid Spray",
+            "Ice Punch",
+            "Brutal Swing"
         ],
         "shadow": true,
         "released": true
@@ -7830,7 +7996,8 @@
             "Iron Head",
             "Hyper Beam",
             "Rock Slide",
-            "Earth Power"
+            "Earth Power",
+            "Brutal Swing"
         ],
         "shadow": true,
         "released": true,
@@ -7851,7 +8018,8 @@
             "Iron Head",
             "Hyper Beam",
             "Rock Slide",
-            "Earth Power"
+            "Earth Power",
+            "Brutal Swing"
         ],
         "shadow": false,
         "released": true,
@@ -7909,7 +8077,8 @@
         },
         "fm": [
             "Zen Headbutt",
-            "Lick"
+            "Lick",
+            "Psywave"
         ],
         "cm": [
             "Heavy Slam",
@@ -8937,7 +9106,8 @@
             "Megahorn",
             "Cross Poison",
             "Lunge",
-            "Trailblaze"
+            "Trailblaze",
+            "Foul Play"
         ],
         "shadow": false,
         "released": true,
@@ -8958,7 +9128,8 @@
         },
         "fm": [
             "Air Slash",
-            "Bite"
+            "Bite",
+            "Gust"
         ],
         "cm": [
             "Shadow Ball",
@@ -11545,7 +11716,8 @@
         "cm": [
             "Brave Bird",
             "Sky Attack",
-            "Flash Cannon"
+            "Flash Cannon",
+            "Drill Run"
         ],
         "shadow": true,
         "released": true,
@@ -11562,7 +11734,8 @@
         "cm": [
             "Brave Bird",
             "Sky Attack",
-            "Flash Cannon"
+            "Flash Cannon",
+            "Drill Run"
         ],
         "shadow": false,
         "released": true,
@@ -11621,13 +11794,15 @@
         },
         "fm": [
             "Snarl",
-            "Fire Fang"
+            "Fire Fang",
+            "Incinerate"
         ],
         "cm": [
             "Crunch",
             "Fire Blast",
             "Foul Play",
-            "Flamethrower"
+            "Flamethrower",
+            "Trailblaze"
         ],
         "shadow": true,
         "released": true,
@@ -11639,13 +11814,15 @@
         "form": "Mega",
         "fm": [
             "Snarl",
-            "Fire Fang"
+            "Fire Fang",
+            "Incinerate"
         ],
         "cm": [
             "Crunch",
             "Fire Blast",
             "Foul Play",
-            "Flamethrower"
+            "Flamethrower",
+            "Trailblaze"
         ],
         "shadow": false,
         "released": true,
@@ -11967,7 +12144,8 @@
             "Body Slam",
             "Gyro Ball",
             "Thunderbolt",
-            "Ice Beam"
+            "Ice Beam",
+            "High Horsepower"
         ],
         "shadow": false,
         "released": true,
@@ -12311,7 +12489,8 @@
             "Sky Attack",
             "Hydro Pump",
             "Future Sight",
-            "Fly"
+            "Fly",
+            "Earth Power"
         ],
         "elite_cm": [
             "Aeroblast"
@@ -14154,7 +14333,8 @@
             "Stone Edge",
             "Heavy Slam",
             "Rock Tomb",
-            "Meteor Beam"
+            "Meteor Beam",
+            "Brick Break"
         ],
         "shadow": true,
         "released": true,
@@ -14175,7 +14355,8 @@
             "Stone Edge",
             "Heavy Slam",
             "Rock Tomb",
-            "Meteor Beam"
+            "Meteor Beam",
+            "Brick Break"
         ],
         "shadow": false,
         "released": true,
@@ -14416,12 +14597,14 @@
         },
         "fm": [
             "Struggle Bug",
-            "Tackle"
+            "Tackle",
+            "Infestation"
         ],
         "cm": [
             "Signal Beam",
             "Bug Buzz",
-            "Thunderbolt"
+            "Thunderbolt",
+            "Lunge"
         ],
         "shadow": false,
         "released": true,
@@ -14441,12 +14624,14 @@
         },
         "fm": [
             "Struggle Bug",
-            "Tackle"
+            "Tackle",
+            "Infestation"
         ],
         "cm": [
             "Silver Wind",
             "Bug Buzz",
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Shadow Ball"
         ],
         "shadow": false,
         "released": true,
@@ -17446,7 +17631,8 @@
         },
         "fm": [
             "Zen Headbutt",
-            "Counter"
+            "Counter",
+            "Low Kick"
         ],
         "cm": [
             "Psycho Boost",
@@ -18958,7 +19144,8 @@
         "cm": [
             "Shadow Ball",
             "Dark Pulse",
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Mystical Fire"
         ],
         "shadow": true,
         "released": true
@@ -20308,7 +20495,8 @@
         "cm": [
             "Close Combat",
             "Psychic",
-            "Leaf Blade"
+            "Leaf Blade",
+            "Sacred Sword"
         ],
         "elite_cm": [
             "Synchronoise"
@@ -20330,7 +20518,8 @@
         "cm": [
             "Close Combat",
             "Psychic",
-            "Leaf Blade"
+            "Leaf Blade",
+            "Sacred Sword"
         ],
         "shadow": false,
         "released": true,
@@ -21019,12 +21208,14 @@
         },
         "fm": [
             "Snarl",
-            "Feint Attack"
+            "Feint Attack",
+            "Sucker Punch"
         ],
         "cm": [
             "Focus Blast",
             "Shadow Ball",
-            "Dark Pulse"
+            "Dark Pulse",
+            "Foul Play"
         ],
         "elite_cm": [
             "Sludge Bomb"
@@ -22572,7 +22763,8 @@
         },
         "fm": [
             "Pound",
-            "Zen Headbutt"
+            "Zen Headbutt",
+            "Charge Beam"
         ],
         "cm": [
             "Disarming Voice",
@@ -22590,7 +22782,8 @@
         "form": "Mega",
         "fm": [
             "Pound",
-            "Zen Headbutt"
+            "Zen Headbutt",
+            "Charge Beam"
         ],
         "cm": [
             "Disarming Voice",
@@ -23685,7 +23878,8 @@
         "cm": [
             "Shadow Ball",
             "Dark Pulse",
-            "Psychic"
+            "Psychic",
+            "Energy Ball"
         ],
         "shadow": true,
         "released": true
@@ -23909,7 +24103,8 @@
         },
         "fm": [
             "Shadow Claw",
-            "Snarl"
+            "Snarl",
+            "Sucker Punch"
         ],
         "cm": [
             "Foul Play",
@@ -23941,7 +24136,8 @@
             "Foul Play",
             "Sludge Bomb",
             "Flamethrower",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Swift"
         ],
         "shadow": false,
         "released": true
@@ -25183,7 +25379,8 @@
         "fm": [
             "Hex",
             "Fire Spin",
-            "Incinerate"
+            "Incinerate",
+            "Astonish"
         ],
         "cm": [
             "Energy Ball",
@@ -34989,7 +35186,8 @@
             "Thunder Punch",
             "Discharge",
             "Wild Charge",
-            "Plasma Fists"
+            "Plasma Fists",
+            "Dynamic Punch"
         ],
         "shadow": false,
         "class": "POKEMON_CLASS_MYTHIC",
@@ -36110,7 +36308,8 @@
             "Acid Spray",
             "Discharge",
             "Wild Charge",
-            "Power-Up Punch"
+            "Power-Up Punch",
+            "Swift"
         ],
         "shadow": false,
         "released": true
@@ -36137,7 +36336,8 @@
             "Acid Spray",
             "Discharge",
             "Wild Charge",
-            "Power-Up Punch"
+            "Power-Up Punch",
+            "Swift"
         ],
         "shadow": false,
         "released": true
@@ -36535,7 +36735,8 @@
             "Foul Play",
             "Dark Pulse",
             "Play Rough",
-            "Power-Up Punch"
+            "Power-Up Punch",
+            "Draining Kiss"
         ],
         "shadow": false,
         "released": true
@@ -38029,7 +38230,8 @@
         "fm": [
             "Tackle",
             "Rock Smash",
-            "Smack Down"
+            "Smack Down",
+            "Scratch"
         ],
         "cm": [
             "Fire Punch",
@@ -39375,12 +39577,14 @@
         },
         "fm": [
             "Mud-Slap",
-            "Poison Jab"
+            "Poison Jab",
+            "Scratch"
         ],
         "cm": [
             "Acid Spray",
             "Poison Fang",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Foul Play"
         ],
         "shadow": false,
         "released": true
@@ -39806,7 +40010,8 @@
             "Payback",
             "Aerial Ace",
             "Fly",
-            "Rock Tomb"
+            "Rock Tomb",
+            "Drill Run"
         ],
         "shadow": false,
         "released": true,
@@ -40135,7 +40340,8 @@
         },
         "fm": [
             "Wing Attack",
-            "Double Kick"
+            "Double Kick",
+            "Peck"
         ],
         "cm": [
             "Aerial Ace",
@@ -40537,7 +40743,8 @@
         "fm": [
             "Snarl",
             "Metal Claw",
-            "Metal Sound"
+            "Metal Sound",
+            "Low Kick"
         ],
         "cm": [
             "Dark Pulse",
