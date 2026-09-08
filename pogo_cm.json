@@ -2480,6 +2480,17 @@
         "energy_delta": 0
     },
     {
+        "id": 502,
+        "name": "Fell Stinger+",
+        "mega_temp": true,
+        "type": "Bug",
+        "power": 140.0,
+        "duration": 2000,
+        "damage_window_start": 1600,
+        "damage_window_end": 1800,
+        "energy_delta": -100
+    },
+    {
         "id": 508,
         "name": "Acid Spray+",
         "mega_temp": true,

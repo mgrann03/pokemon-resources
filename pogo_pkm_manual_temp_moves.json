@@ -1,5 +1,13 @@
 [
     {
+        "id": 15,
+        "name": "Mega Beedrill",
+        "form": "Mega",
+        "temp_cm": [
+            "Fell Stinger+"
+        ]
+    },
+    {
         "id": 26,
         "name": "Mega Raichu X",
         "form": "Mega",

@@ -843,7 +843,10 @@
             "baseStamina": 163,
             "baseAttack": 303,
             "baseDefense": 148
-        }
+        },
+        "temp_cm": [
+            "Fell Stinger+"
+        ]
     },
     {
         "id": 16,
