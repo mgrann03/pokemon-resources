@@ -8061,7 +8061,8 @@
             "Iron Head",
             "Hyper Beam",
             "Rock Slide",
-            "Earth Power"
+            "Earth Power",
+            "Brutal Swing"
         ],
         "shadow": true,
         "released": true
@@ -8113,7 +8114,8 @@
         },
         "fm": [
             "Zen Headbutt",
-            "Lick"
+            "Lick",
+            "Psywave"
         ],
         "cm": [
             "Heavy Slam",
@@ -12524,7 +12526,8 @@
             "Sky Attack",
             "Hydro Pump",
             "Future Sight",
-            "Fly"
+            "Fly",
+            "Earth Power"
         ],
         "elite_cm": [
             "Aeroblast"
@@ -24106,8 +24109,7 @@
         },
         "fm": [
             "Shadow Claw",
-            "Snarl",
-            "Sucker Punch"
+            "Snarl"
         ],
         "cm": [
             "Foul Play",
@@ -27365,7 +27367,8 @@
             "Night Slash",
             "Aerial Ace",
             "Surf",
-            "Hydro Pump"
+            "Hydro Pump",
+            "Brutal Swing"
         ],
         "elite_cm": [
             "Hydro Cannon"
@@ -27386,7 +27389,8 @@
             "Night Slash",
             "Aerial Ace",
             "Surf",
-            "Hydro Pump"
+            "Hydro Pump",
+            "Brutal Swing"
         ],
         "shadow": false,
         "released": true,
