@@ -2634,6 +2634,17 @@
         "energy_delta": -100
     },
     {
+        "id": 523,
+        "name": "Dark Pulse+",
+        "mega_temp": true,
+        "type": "Dark",
+        "power": 150.0,
+        "duration": 3000,
+        "damage_window_start": 1400,
+        "damage_window_end": 2300,
+        "energy_delta": -100
+    }
+    {
         "id": 547,
         "name": "Brave Bird+",
         "mega_temp": true,

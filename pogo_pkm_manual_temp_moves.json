@@ -72,6 +72,14 @@
         ]
     },
     {
+        "id": 229,
+        "name": "Mega Houndoom",
+        "form": "Mega",
+        "temp_cm": [
+            "Dark Pulse+"
+        ]
+    },
+    {
         "id": 652,
         "name": "Mega Chesnaught",
         "form": "Mega",
