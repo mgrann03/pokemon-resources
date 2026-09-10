@@ -828,7 +828,7 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "elite_fm": [
             "Bug Bite"
         ],
@@ -11831,7 +11831,7 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "types": [
             "Dark",
             "Fire"
@@ -11840,7 +11840,10 @@
             "baseStamina": 181,
             "baseAttack": 289,
             "baseDefense": 194
-        }
+        },
+        "temp_cm": [
+            "Dark Pulse+"
+        ]
     },
     {
         "id": 230,
