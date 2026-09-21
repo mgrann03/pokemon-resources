@@ -1,18 +1,5 @@
 [   
     {
-        "id": 398,
-        "name": "Mega Staraptor",
-        "form": "Mega",
-        "temp_cm": [
-            "Brave Bird+"
-        ],
-        "released": true,
-        "eff_date": "2026-09-19"
-    },
-
-
-
-    {
         "id": 36,
         "name": "Mega Clefable",
         "form": "Mega",

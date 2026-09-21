@@ -18035,7 +18035,10 @@
             "baseStamina": 198,
             "baseAttack": 278,
             "baseDefense": 207
-        }
+        },
+        "temp_cm": [
+            "Brave Bird+"
+        ]
     },
     {
         "id": 399,
@@ -38472,7 +38475,8 @@
             "Frenzy Plant"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 909,
@@ -38551,7 +38555,8 @@
             "Blast Burn"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 912,
@@ -38630,7 +38635,8 @@
             "Hydro Cannon"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 915,
