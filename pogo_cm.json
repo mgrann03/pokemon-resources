@@ -2535,6 +2535,28 @@
         "energy_delta": -100
     },
     {
+        "id": 523,
+        "name": "Dark Pulse+",
+        "mega_temp": true,
+        "type": "Dark",
+        "power": 150.0,
+        "duration": 3000,
+        "damage_window_start": 1400,
+        "damage_window_end": 2300,
+        "energy_delta": -100
+    },
+    {
+        "id": 547,
+        "name": "Brave Bird+",
+        "mega_temp": true,
+        "type": "Flying",
+        "power": 150.0,
+        "duration": 2000,
+        "damage_window_start": 1000,
+        "damage_window_end": 1600,
+        "energy_delta": -100
+    },
+    {
         "id": 566,
         "name": "Seed Bomb+",
         "mega_temp": true,
@@ -2631,28 +2653,6 @@
         "duration": 2500,
         "damage_window_start": 1200,
         "damage_window_end": 2500,
-        "energy_delta": -100
-    },
-    {
-        "id": 523,
-        "name": "Dark Pulse+",
-        "mega_temp": true,
-        "type": "Dark",
-        "power": 150.0,
-        "duration": 3000,
-        "damage_window_start": 1400,
-        "damage_window_end": 2300,
-        "energy_delta": -100
-    },
-    {
-        "id": 547,
-        "name": "Brave Bird+",
-        "mega_temp": true,
-        "type": "Flying",
-        "power": 150.0,
-        "duration": 2000,
-        "damage_window_start": 1000,
-        "damage_window_end": 1600,
         "energy_delta": -100
     }
 ]
