@@ -750,6 +750,18 @@
         "released": true
     },
     {
+        "id": 942,
+        "name": "Maschiff",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 943,
+        "name": "Mabosstiff",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 944,
         "name": "Shroodle",
         "form": "Normal",
