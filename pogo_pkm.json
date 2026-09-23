@@ -18022,7 +18022,7 @@
             "Fly"
         ],
         "shadow": false,
-        "released": false,
+        "released": true,
         "raid_tier": 8,
         "elite_fm": [
             "Gust"
