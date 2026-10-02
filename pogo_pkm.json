@@ -1771,6 +1771,37 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Glass_helmet_2026",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Gofest_2022",
         "types": [
             "Electric"
@@ -26565,7 +26596,7 @@
         "elite_cm": [
             "Fusion Bolt"
         ],
-        "shadow": false,
+        "shadow": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "raid_tier": 5
@@ -29633,7 +29664,7 @@
             "Crunch",
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -29662,7 +29693,7 @@
             "Iron Head",
             "Rock Slide"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -32903,7 +32934,7 @@
             "Grass Knot",
             "Trailblaze"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -32931,7 +32962,7 @@
             "X-Scissor",
             "Trailblaze"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -33296,7 +33327,7 @@
         "cm": [
             "Bug Buzz"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 1
     },
@@ -33326,7 +33357,7 @@
             "Liquidation",
             "Razor Shell"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
@@ -33353,7 +33384,7 @@
             "Earth Power",
             "Scorching Sands"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true,
         "raid_tier": 3
     },
@@ -33381,7 +33412,7 @@
             "Earth Power",
             "Scorching Sands"
         ],
-        "shadow": false,
+        "shadow": true,
         "released": true
     },
     {
