@@ -2665,5 +2665,16 @@
         "damage_window_start": 1200,
         "damage_window_end": 2500,
         "energy_delta": -100
+    },
+    {
+        "id": 564,
+        "name": "Ominous Wind+",
+        "mega_temp": true,
+        "type": "Ghost",
+        "power": 145.0,
+        "duration": 2500,
+        "damage_window_start": 2050,
+        "damage_window_end": 2300,
+        "energy_delta": -100
     }
 ]

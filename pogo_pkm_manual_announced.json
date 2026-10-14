@@ -1,5 +1,41 @@
 [   
     {
+        "id": 609,
+        "name": "Mega Chandelure",
+        "form": "Mega",
+        "types": [
+            "Ghost",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 335,
+            "baseDefense": 227
+        },
+        "fm": [
+            "Hex",
+            "Fire Spin",
+            "Incinerate",
+            "Astonish"
+        ],
+        "cm": [
+            "Energy Ball",
+            "Shadow Ball",
+            "Overheat",
+            "Flame Charge"
+        ],
+        "temp_cm": [
+            "Ominous Wind+"
+        ],
+        "elite_cm": [
+            "Poltergeist"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-11-06"
+    },
+    {
         "id": 705,
         "name": "Sliggoo",
         "form": "Hisuian",
@@ -464,38 +500,6 @@
         ],
         "elite_fm": [
             "Volt Switch"
-        ],
-        "shadow": false,
-        "released": false,
-        "raid_tier": 8
-    },
-    {
-        "id": 609,
-        "name": "Mega Chandelure",
-        "form": "Mega",
-        "types": [
-            "Ghost",
-            "Fire"
-        ],
-        "stats": {
-            "baseStamina": 155,
-            "baseAttack": 335,
-            "baseDefense": 227
-        },
-        "fm": [
-            "Hex",
-            "Fire Spin",
-            "Incinerate",
-            "Astonish"
-        ],
-        "cm": [
-            "Energy Ball",
-            "Shadow Ball",
-            "Overheat",
-            "Flame Charge"
-        ],
-        "elite_cm": [
-            "Poltergeist"
         ],
         "shadow": false,
         "released": false,
