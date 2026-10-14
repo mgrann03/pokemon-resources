@@ -1,5 +1,20 @@
 [   
     {
+        "id": 705,
+        "name": "Sliggoo",
+        "form": "Hisuian",
+        "released": true,
+        "eff_date": "2026-11-06"
+    },
+    {
+        "id": 706,
+        "name": "Goodra",
+        "form": "Hisuian",
+        "released": true,
+        "eff_date": "2026-11-06"
+    },
+
+    {
         "id": 36,
         "name": "Mega Clefable",
         "form": "Mega",

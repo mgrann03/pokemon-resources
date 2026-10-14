@@ -30855,6 +30855,32 @@
         "released": true
     },
     {
+        "id": 705,
+        "name": "Sliggoo",
+        "form": "Hisuian",
+        "types": [
+            "Steel",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 151,
+            "baseAttack": 153,
+            "baseDefense": 190
+        },
+        "fm": [
+            "Tackle",
+            "Water Gun"
+        ],
+        "cm": [
+            "Heavy Slam",
+            "Dragon Pulse",
+            "Sludge Wave",
+            "Water Pulse"
+        ],
+        "shadow": false,
+        "released": false
+    },
+    {
         "id": 706,
         "name": "Goodra",
         "form": "Normal",
@@ -30882,6 +30908,33 @@
         ],
         "shadow": false,
         "released": true
+    },
+    {
+        "id": 706,
+        "name": "Goodra",
+        "form": "Hisuian",
+        "types": [
+            "Steel",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 211,
+            "baseDefense": 255
+        },
+        "fm": [
+            "Dragon Tail",
+            "Iron Tail",
+            "Water Gun"
+        ],
+        "cm": [
+            "Heavy Slam",
+            "Draco Meteor",
+            "Sludge Wave",
+            "Hydro Pump"
+        ],
+        "shadow": false,
+        "released": false
     },
     {
         "id": 707,
