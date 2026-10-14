@@ -2496,6 +2496,37 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Halloween_2026",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Horizons",
         "types": [
             "Electric"
@@ -4613,7 +4644,8 @@
             "Flamethrower"
         ],
         "shadow": true,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 60,
@@ -4909,6 +4941,40 @@
         "shadow": true,
         "released": true,
         "raid_tier": 3
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "form": "Wildarea_2026_01",
+        "types": [
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 234,
+            "baseDefense": 159
+        },
+        "fm": [
+            "Bullet Punch",
+            "Counter"
+        ],
+        "cm": [
+            "Heavy Slam",
+            "Dynamic Punch",
+            "Close Combat",
+            "Rock Slide",
+            "Cross Chop"
+        ],
+        "elite_fm": [
+            "Karate Chop"
+        ],
+        "elite_cm": [
+            "Stone Edge",
+            "Submission",
+            "Payback"
+        ],
+        "shadow": true,
+        "released": true
     },
     {
         "id": 69,
@@ -38765,8 +38831,7 @@
             "Frenzy Plant"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 909,
@@ -38845,8 +38910,7 @@
             "Blast Burn"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 912,
@@ -38925,8 +38989,7 @@
             "Hydro Cannon"
         ],
         "shadow": false,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 915,
