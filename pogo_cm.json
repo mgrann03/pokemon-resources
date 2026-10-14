@@ -2546,6 +2546,17 @@
         "energy_delta": -100
     },
     {
+        "id": 533,
+        "name": "Discharge+",
+        "mega_temp": true,
+        "type": "Electric",
+        "power": 150.0,
+        "duration": 2500,
+        "damage_window_start": 1700,
+        "damage_window_end": 2100,
+        "energy_delta": -100
+    },
+    {
         "id": 547,
         "name": "Brave Bird+",
         "mega_temp": true,

@@ -14561,7 +14561,7 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "types": [
             "Electric"
         ],
@@ -14569,7 +14569,10 @@
             "baseStamina": 172,
             "baseAttack": 286,
             "baseDefense": 179
-        }
+        },
+        "temp_cm": [
+            "Discharge+"
+        ]
     },
     {
         "id": 311,

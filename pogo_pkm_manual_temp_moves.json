@@ -80,6 +80,14 @@
         ]
     },
     {
+        "id": 310,
+        "name": "Mega Manectric",
+        "form": "Mega",
+        "temp_cm": [
+            "Discharge+"
+        ]
+    },
+    {
         "id": 398,
         "name": "Mega Staraptor",
         "form": "Mega",
