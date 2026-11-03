@@ -80,6 +80,14 @@
         ]
     },
     {
+        "id": 302,
+        "name": "Mega Sableye",
+        "form": "Mega",
+        "temp_cm": [
+            "Night Shade+"
+        ]
+    },
+    {
         "id": 310,
         "name": "Mega Manectric",
         "form": "Mega",
@@ -93,6 +101,14 @@
         "form": "Mega",
         "temp_cm": [
             "Brave Bird+"
+        ]
+    },
+    {
+        "id": 609,
+        "name": "Mega Chandelure",
+        "form": "Mega",
+        "temp_cm": [
+            "Ominous Wind+"
         ]
     },
     {
