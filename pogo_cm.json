@@ -2480,6 +2480,16 @@
         "energy_delta": 0
     },
     {
+        "id": 615,
+        "name": "Kowtow Cleave",
+        "type": "Dark",
+        "power": 85.0,
+        "duration": 2000,
+        "damage_window_start": 1300,
+        "damage_window_end": 1900,
+        "energy_delta": -50
+    },
+    {
         "id": 502,
         "name": "Fell Stinger+",
         "mega_temp": true,

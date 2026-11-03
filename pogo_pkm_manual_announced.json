@@ -49,6 +49,16 @@
         "released": true,
         "eff_date": "2026-11-06"
     },
+    {
+        "id": 983,
+        "name": "Kingambit",
+        "form": "Normal",
+        "released": true,
+        "elite_cm": [
+            "Kowtow Cleave"
+        ],
+        "eff_date": "2026-11-21"
+    },
 
     {
         "id": 36,
