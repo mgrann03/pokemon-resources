@@ -49,6 +49,8 @@ def main():
     pkm_tier_map["BEEDRILL_MEGA"] = 8
     pkm_tier_map["HOUNDOOM_MEGA"] = 8
     pkm_tier_map["MANECTRIC_MEGA"] = 8
+    pkm_tier_map["CHANDELURE_MEGA"] = 8
+    pkm_tier_map["SABLEYE_MEGA"] = 8
     
     pkm_tier_map["MEWTWO_MEGA_X"] = 9
     pkm_tier_map["MEWTWO_MEGA_Y"] = 9
