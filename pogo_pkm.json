@@ -4644,8 +4644,7 @@
             "Flamethrower"
         ],
         "shadow": true,
-        "released": true,
-        "raid_tier": 3
+        "released": true
     },
     {
         "id": 60,
@@ -14262,7 +14261,7 @@
         ],
         "shadow": false,
         "released": true,
-        "raid_tier": 4,
+        "raid_tier": 8,
         "types": [
             "Dark",
             "Ghost"
@@ -14271,7 +14270,10 @@
             "baseStamina": 137,
             "baseAttack": 151,
             "baseDefense": 216
-        }
+        },
+        "temp_cm": [
+            "Night Shade+"
+        ]
     },
     {
         "id": 302,
@@ -23994,7 +23996,8 @@
             "Energy Ball"
         ],
         "shadow": true,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 564,
@@ -25507,6 +25510,41 @@
         ],
         "shadow": true,
         "released": true
+    },
+    {
+        "id": 609,
+        "name": "Mega Chandelure",
+        "form": "Mega",
+        "fm": [
+            "Hex",
+            "Fire Spin",
+            "Incinerate",
+            "Astonish"
+        ],
+        "cm": [
+            "Energy Ball",
+            "Shadow Ball",
+            "Overheat",
+            "Flame Charge"
+        ],
+        "shadow": false,
+        "released": true,
+        "raid_tier": 8,
+        "elite_cm": [
+            "Poltergeist"
+        ],
+        "types": [
+            "Ghost",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 335,
+            "baseDefense": 227
+        },
+        "temp_cm": [
+            "Ominous Wind+"
+        ]
     },
     {
         "id": 610,
@@ -31079,7 +31117,8 @@
             "Foul Play"
         ],
         "shadow": true,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 710,
@@ -34726,7 +34765,8 @@
             "Brutal Swing"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 782,
@@ -36832,7 +36872,8 @@
             "Psychic"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 1
     },
     {
         "id": 854,
@@ -40591,7 +40632,8 @@
             "Iron Head"
         ],
         "shadow": false,
-        "released": true
+        "released": true,
+        "raid_tier": 3
     },
     {
         "id": 969,
