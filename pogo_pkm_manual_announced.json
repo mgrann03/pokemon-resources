@@ -23,7 +23,6 @@
         ],
         "eff_date": "2026-11-21"
     },
-
     {
         "id": 36,
         "name": "Mega Clefable",
@@ -54,10 +53,15 @@
         "elite_fm": [
             "Pound"
         ],
+        "temp_cm": [
+            "Moonblast+"
+        ],
         "shadow": false,
-        "released": false,
-        "raid_tier": 8
+        "released": true,
+        "raid_tier": 8,
+        "eff_date": "2026-11-28"
     },
+
     {
         "id": 154,
         "name": "Mega Meganium",

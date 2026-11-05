@@ -2501,6 +2501,17 @@
         "energy_delta": -100
     },
     {
+        "id": 502,
+        "name": "Moonblast+",
+        "mega_temp": true,
+        "type": "Fairy",
+        "power": 160.0,
+        "duration": 4000,
+        "damage_window_start": 2300,
+        "damage_window_end": 3800,
+        "energy_delta": -100
+    },
+    {
         "id": 508,
         "name": "Acid Spray+",
         "mega_temp": true,
